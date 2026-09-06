@@ -14,6 +14,7 @@ function Catalog() {
   return (
     <div className="catalog">
       <Stats
+        classNames={{ root: 'catalog-stats' }}
         translations={{
           rootElementText({ nbHits }) {
             return `${nbHits.toLocaleString()} productos encontrados`
