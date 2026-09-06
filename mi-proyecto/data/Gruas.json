@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Grove GMK3050 2022",
+    "description": "Grúa móvil de alta capacidad de izaje, diseñada para montaje industrial y proyectos de gran altura. Model: Grove GMK3050. Variant: 1. Condition: Reacondicionado. Year: 2022.",
+    "brand": "Grove",
+    "categories": [
+      "Maquinaria Pesada",
+      "Izaje",
+      "Grua"
+    ],
+    "rating": 4.9,
+    "image_url": "https://tse3.mm.bing.net/th/id/OIP.uNk0K3OC-RJBfkL4ZYhjuQHaFj",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2022,
+      "weight_kg": 6739,
+      "power_hp": 377,
+      "max_capacity_ton": 77.33,
+      "brand": "Grove",
+      "category": "Grua",
+      "price_range_crc": "200M+"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 315951220,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 278037074,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ005",
+    "price_range_crc": "200M+",
+    "category_facet": "Grua",
+    "brand_facet": "Grove"
+  },
+  {
+    "title": "Zoomlion ZTC550 2023",
+    "description": "Grúa móvil de alta capacidad de izaje, diseñada para montaje industrial y proyectos de gran altura. Model: Zoomlion ZTC550. Variant: 1. Condition: Nuevo. Year: 2023.",
+    "brand": "Zoomlion",
+    "categories": [
+      "Maquinaria Pesada",
+      "Izaje",
+      "Grua"
+    ],
+    "rating": 4.7,
+    "image_url": "https://www.lectura-specs.com/models/renamed/orig/truck-mounted-telescopic-cranes-ztc550r532-zoomlion.jpg",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2023,
+      "weight_kg": 32696,
+      "power_hp": 264,
+      "max_capacity_ton": 229.51,
+      "brand": "Zoomlion",
+      "category": "Grua",
+      "price_range_crc": "150M-200M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 169562234,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 149214766,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ008",
+    "price_range_crc": "150M-200M",
+    "category_facet": "Grua",
+    "brand_facet": "Zoomlion"
+  },
+  {
+    "title": "Liebherr LTM 1050-3.1 2020",
+    "description": "Grúa móvil de alta capacidad de izaje, diseñada para montaje industrial y proyectos de gran altura. Model: Liebherr LTM 1050-3.1. Variant: 1. Condition: Reacondicionado. Year: 2020.",
+    "brand": "Liebherr",
+    "categories": [
+      "Maquinaria Pesada",
+      "Izaje",
+      "Grua"
+    ],
+    "rating": 3.9,
+    "image_url": "https://tse1.mm.bing.net/th/id/OIP.HzfKfwNKZDX-PqTPfIXAdQHaE8",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2020,
+      "weight_kg": 16708,
+      "power_hp": 349,
+      "max_capacity_ton": 71.81,
+      "brand": "Liebherr",
+      "category": "Grua",
+      "price_range_crc": "200M+"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 228867662,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 201403543,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ034",
+    "price_range_crc": "200M+",
+    "category_facet": "Grua",
+    "brand_facet": "Liebherr"
+  },
+  {
+    "title": "Grove GMK3050 2023",
+    "description": "Grúa móvil de alta capacidad de izaje, diseñada para montaje industrial y proyectos de gran altura. Model: Grove GMK3050. Variant: 2. Condition: Reacondicionado. Year: 2023.",
+    "brand": "Grove",
+    "categories": [
+      "Maquinaria Pesada",
+      "Izaje",
+      "Grua"
+    ],
+    "rating": 4.9,
+    "image_url": "https://tse3.mm.bing.net/th/id/OIP.uNk0K3OC-RJBfkL4ZYhjuQHaFj",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2023,
+      "weight_kg": 6739,
+      "power_hp": 377,
+      "max_capacity_ton": 77.33,
+      "brand": "Grove",
+      "category": "Grua",
+      "price_range_crc": "200M+"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 309632196,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 264135220,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ110",
+    "price_range_crc": "200M+",
+    "category_facet": "Grua",
+    "brand_facet": "Grove"
+  },
+  {
+    "title": "Zoomlion ZTC550 2025",
+    "description": "Grúa móvil de alta capacidad de izaje, diseñada para montaje industrial y proyectos de gran altura. Model: Zoomlion ZTC550. Variant: 2. Condition: Nuevo. Year: 2025.",
+    "brand": "Zoomlion",
+    "categories": [
+      "Maquinaria Pesada",
+      "Izaje",
+      "Grua"
+    ],
+    "rating": 4.7,
+    "image_url": "https://www.lectura-specs.com/models/renamed/orig/truck-mounted-telescopic-cranes-ztc550r532-zoomlion.jpg",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2025,
+      "weight_kg": 32696,
+      "power_hp": 264,
+      "max_capacity_ton": 229.51,
+      "brand": "Zoomlion",
+      "category": "Grua",
+      "price_range_crc": "150M-200M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 157692878,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 134293289,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ126",
+    "price_range_crc": "150M-200M",
+    "category_facet": "Grua",
+    "brand_facet": "Zoomlion"
+  }
+]

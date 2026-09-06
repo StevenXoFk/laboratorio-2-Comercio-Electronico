@@ -1,0 +1,1081 @@
+[
+  {
+    "title": "Cucharón para Retroexcavadora JCB 3CX",
+    "description": "Cucharón de excavación para retroexcavadora JCB 3CX, fabricado en acero Hardox con dientes de desgaste reemplazables.",
+    "brand": "JCB",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Cucharones"
+    ],
+    "rating": 4.8,
+    "image_url": "https://stricklandmfg.co.uk/cdn/shop/files/bt-1304805130-render1_fa1420e9-6d5c-4024-af2e-398247d5bcfa.webp?v=1731598462&width=1946",
+    "facets": {
+      "compatible_models": [
+        "JCB 3CX",
+        "JCB 4CX"
+      ],
+      "material": "Acero Hardox 400",
+      "capacity_m3": 0.8,
+      "type": "Cucharón",
+      "condition": "Nuevo",
+      "brand": "JCB",
+      "category": "Retroexcavadora",
+      "price_range_crc": "2M-4M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2552000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 15
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-RE-001",
+    "price_range_crc": "2M-4M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "JCB"
+  },
+  {
+    "title": "Kit de Neumáticos para XCMG XC870HK",
+    "description": "Juego de 4 neumáticos para retroexcavadora XCMG XC870HK, con banda de rodadura para terrenos mixtos.",
+    "brand": "XCMG",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Neumáticos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://beijingxlhj.com/wp-content/uploads/2023/11/7074deb3e90b4f47860e4ae6dd96d0ed.jpg",
+    "facets": {
+      "compatible_models": [
+        "XCMG XC870HK",
+        "XCMG XC870"
+      ],
+      "size": "19.5L-24",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "XCMG",
+      "category": "Retroexcavadora",
+      "price_range_crc": "2M-3.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2600000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2288000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 10
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 18
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 6
+      }
+    ],
+    "objectID": "REP-RE-002",
+    "price_range_crc": "2M-3.5M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "Cilindro de Levante para New Holland B95B",
+    "description": "Cilindro hidráulico de levante para retroexcavadora New Holland B95B, fabricado en acero cromado con doble sellado.",
+    "brand": "New Holland",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.7,
+    "image_url": "http://hwpartstore.com/cdn/shop/files/85800660.jpg?v=1753288003",
+    "facets": {
+      "compatible_models": [
+        "New Holland B95B",
+        "New Holland B110C"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Levante",
+      "condition": "Reacondicionado",
+      "brand": "New Holland",
+      "category": "Retroexcavadora",
+      "price_range_crc": "1.5M-3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1936000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-RE-003",
+    "price_range_crc": "1.5M-3M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Kit de Filtros para JCB 3CX",
+    "description": "Kit completo de filtros para retroexcavadora JCB 3CX, incluye filtro de aceite, aire y combustible.",
+    "brand": "JCB",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.8,
+    "image_url": "https://media.fridayparts.com/media/catalog/product/f/i/filter-service-kit-32-925682-32-925683-for-jcb-engine-444-448-backhoe-loader-3cx-4cx-sale_2_.jpg?store=default&image-type=image",
+    "facets": {
+      "compatible_models": [
+        "JCB 3CX",
+        "JCB 4CX"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "JCB",
+      "category": "Retroexcavadora",
+      "price_range_crc": "200K-400K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 290000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 255200,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-RE-004",
+    "price_range_crc": "200K-400K",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "JCB"
+  },
+  {
+    "title": "Brazo de Retroexcavadora para CASE 580N",
+    "description": "Brazo completo para retroexcavadora CASE 580N, fabricado en acero de alta resistencia con articulaciones reforzadas.",
+    "brand": "Case CE",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Brazos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/0a8525fd5c054163bd25ab787e442243?v=9d0c7ccf&t=Size1100",
+    "facets": {
+      "compatible_models": [
+        "CASE 580N",
+        "CASE 580"
+      ],
+      "material": "Acero de alta resistencia",
+      "type": "Brazo de Retroexcavadora",
+      "condition": "Nuevo",
+      "brand": "Case CE",
+      "category": "Retroexcavadora",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5632000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-RE-005",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Kit de Neumáticos para Volvo CE BL71B",
+    "description": "Juego de 4 neumáticos para retroexcavadora Volvo CE BL71B, con banda de rodadura para terrenos mixtos.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Neumáticos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://www.imce.nl/media/catalog/product/cache/ffd50a957f94df099c4984ff50001f8d/9/5/953c46f9-8c5e-ec11-9f08-000d3a22844b-b4f34caf9a5b6fa43358af2136478266_1.webp",
+    "facets": {
+      "compatible_models": [
+        "Volvo CE BL71B",
+        "Volvo CE BL61B"
+      ],
+      "size": "18.4R24",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "Volvo CE",
+      "category": "Retroexcavadora",
+      "price_range_crc": "1.5M-3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2100000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1848000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 10
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 18
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 6
+      }
+    ],
+    "objectID": "REP-RE-006",
+    "price_range_crc": "1.5M-3M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "Volvo CE"
+  },
+  {
+    "title": "Cucharón para Volvo CE BL61B",
+    "description": "Cucharón de excavación para retroexcavadora Volvo CE BL61B, fabricado en acero Hardox con dientes reemplazables.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Cucharones"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.volvoce.com/-/media/volvoce/global-site/products-and-services/past-products/images/04-backhoe-excavator-loaders/04-volvo/v-bl61b/v-bl61b-566x300.jpg?mh=206&mw=380&v=R9R-Pw&c=1&cw=380&ch=196&jq=75&hash=13682BE4B7B7243A350B35D759217EDA",
+    "facets": {
+      "compatible_models": [
+        "Volvo CE BL61B",
+        "Volvo CE BL71B"
+      ],
+      "material": "Acero Hardox 400",
+      "capacity_m3": 0.6,
+      "type": "Cucharón",
+      "condition": "Nuevo",
+      "brand": "Volvo CE",
+      "category": "Retroexcavadora",
+      "price_range_crc": "1.8M-3.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2500000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2200000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-RE-007",
+    "price_range_crc": "1.8M-3.5M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "Volvo CE"
+  },
+  {
+    "title": "Kit de Mantenimiento para New Holland B110C",
+    "description": "Kit completo de mantenimiento para retroexcavadora New Holland B110C, incluye filtros, correas y bujías.",
+    "brand": "New Holland",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.5,
+    "image_url": "https://hwpartstore.com/cdn/shop/files/NH-Z0021_700x.jpg?v=1785264414",
+    "facets": {
+      "compatible_models": [
+        "New Holland B110C",
+        "New Holland B95B"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Correas",
+        "Bujías"
+      ],
+      "type": "Kit de Mantenimiento",
+      "condition": "Nuevo",
+      "brand": "New Holland",
+      "category": "Retroexcavadora",
+      "price_range_crc": "250K-500K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 350000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 308000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 25
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 40
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 15
+      }
+    ],
+    "objectID": "REP-RE-008",
+    "price_range_crc": "250K-500K",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Cilindro de Dirección para JCB 4CX",
+    "description": "Cilindro hidráulico de dirección para retroexcavadora JCB 4CX, fabricado en acero cromado con doble sellado.",
+    "brand": "JCB",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://m.media-amazon.com/images/I/71Co4Ny2XNL._AC_UF894,1000_QL80_.jpg",
+    "facets": {
+      "compatible_models": [
+        "JCB 4CX",
+        "JCB 3CX"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Dirección",
+      "condition": "Reacondicionado",
+      "brand": "JCB",
+      "category": "Retroexcavadora",
+      "price_range_crc": "1.2M-2.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1584000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-RE-009",
+    "price_range_crc": "1.2M-2.5M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "JCB"
+  },
+  {
+    "title": "Cucharón para XCMG XC870HK",
+    "description": "Cucharón de excavación para retroexcavadora XCMG XC870HK, fabricado en acero Hardox con dientes de desgaste.",
+    "brand": "XCMG",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Cucharones"
+    ],
+    "rating": 4.5,
+    "image_url": "https://cdn.b2brazil.com/sites/default/files/styles/large/public/b2brazil/product/image/xiao_wa__11.jpg.webp",
+    "facets": {
+      "compatible_models": [
+        "XCMG XC870HK",
+        "XCMG XC870"
+      ],
+      "material": "Acero Hardox 450",
+      "capacity_m3": 1,
+      "type": "Cucharón",
+      "condition": "Nuevo",
+      "brand": "XCMG",
+      "category": "Retroexcavadora",
+      "price_range_crc": "2.5M-4.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2992000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-RE-010",
+    "price_range_crc": "2.5M-4.5M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "Kit de Filtros para CASE 580N",
+    "description": "Kit completo de filtros para retroexcavadora CASE 580N, incluye filtro de aceite, aire y combustible.",
+    "brand": "Case CE",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.7,
+    "image_url": "https://m.media-amazon.com/images/I/819FcDBWGgL._AC_UL450_SY450_QL70_.jpg",
+    "facets": {
+      "compatible_models": [
+        "CASE 580N",
+        "CASE 580"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Case CE",
+      "category": "Retroexcavadora",
+      "price_range_crc": "200K-400K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 280000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 246400,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-RE-011",
+    "price_range_crc": "200K-400K",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Kit de Neumáticos para JCB 3CX",
+    "description": "Juego de 4 neumáticos para retroexcavadora JCB 3CX, con banda de rodadura para terrenos mixtos.",
+    "brand": "JCB",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Neumáticos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://i.ebayimg.com/images/g/RywAAeSwYlJpXDQ~/s-l1200.webp",
+    "facets": {
+      "compatible_models": [
+        "JCB 3CX",
+        "JCB 4CX"
+      ],
+      "size": "19.5R24",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "JCB",
+      "category": "Retroexcavadora",
+      "price_range_crc": "2M-3.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2600000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2288000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 10
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 18
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 6
+      }
+    ],
+    "objectID": "REP-RE-012",
+    "price_range_crc": "2M-3.5M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "JCB"
+  },
+  {
+    "title": "Cilindro de Levante para Volvo CE BL71B",
+    "description": "Cilindro hidráulico de levante para retroexcavadora Volvo CE BL71B, fabricado en acero cromado con doble sellado.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://storagevcesfccprod.blob.core.windows.net/partsmedia/VOE16201594_1.jpg",
+    "facets": {
+      "compatible_models": [
+        "Volvo CE BL71B",
+        "Volvo CE BL61B"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Levante",
+      "condition": "Reacondicionado",
+      "brand": "Volvo CE",
+      "category": "Retroexcavadora",
+      "price_range_crc": "1.5M-3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1936000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-RE-013",
+    "price_range_crc": "1.5M-3M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "Volvo CE"
+  },
+  {
+    "title": "Cucharón para New Holland B95B",
+    "description": "Cucharón de excavación para retroexcavadora New Holland B95B, fabricado en acero Hardox con dientes reemplazables.",
+    "brand": "New Holland",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Cucharones"
+    ],
+    "rating": 4.5,
+    "image_url": "https://i.ytimg.com/vi/e9Ms6SimCUM/maxresdefault.jpg",
+    "facets": {
+      "compatible_models": [
+        "New Holland B95B",
+        "New Holland B110C"
+      ],
+      "material": "Acero Hardox 400",
+      "capacity_m3": 0.7,
+      "type": "Cucharón",
+      "condition": "Nuevo",
+      "brand": "New Holland",
+      "category": "Retroexcavadora",
+      "price_range_crc": "2M-4M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2464000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-RE-014",
+    "price_range_crc": "2M-4M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Kit de Mantenimiento para Volvo CE BL61B",
+    "description": "Kit completo de mantenimiento para retroexcavadora Volvo CE BL61B, incluye filtros, correas y bujías.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://i.ebayimg.com/images/g/v0UAAOSwsRtnKUWB/s-l400.png",
+    "facets": {
+      "compatible_models": [
+        "Volvo CE BL61B",
+        "Volvo CE BL71B"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Correas"
+      ],
+      "type": "Kit de Mantenimiento",
+      "condition": "Nuevo",
+      "brand": "Volvo CE",
+      "category": "Retroexcavadora",
+      "price_range_crc": "250K-500K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 350000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 308000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 25
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 40
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 15
+      }
+    ],
+    "objectID": "REP-RE-015",
+    "price_range_crc": "250K-500K",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "Volvo CE"
+  },
+  {
+    "title": "Brazo de Retroexcavadora para XCMG XC870HK",
+    "description": "Brazo completo para retroexcavadora XCMG XC870HK, fabricado en acero de alta resistencia con articulaciones reforzadas.",
+    "brand": "XCMG",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Brazos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://beijingxlhj.com/wp-content/uploads/2023/11/7074deb3e90b4f47860e4ae6dd96d0ed.jpg",
+    "facets": {
+      "compatible_models": [
+        "XCMG XC870HK",
+        "XCMG XC870"
+      ],
+      "material": "Acero de alta resistencia",
+      "type": "Brazo de Retroexcavadora",
+      "condition": "Nuevo",
+      "brand": "XCMG",
+      "category": "Retroexcavadora",
+      "price_range_crc": "4M-7M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 5400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4752000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-RE-016",
+    "price_range_crc": "4M-7M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "Kit de Filtros para JCB 4CX",
+    "description": "Kit completo de filtros para retroexcavadora JCB 4CX, incluye filtro de aceite, aire y combustible.",
+    "brand": "JCB",
+    "categories": [
+      "Repuestos",
+      "Retroexcavadora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.7,
+    "image_url": "https://media.fridayparts.com/media/catalog/product/f/i/filter-service-kit-32-925682-32-925683-for-jcb-engine-444-448-backhoe-loader-3cx-4cx-sale_2_.jpg?store=default&image-type=image",
+    "facets": {
+      "compatible_models": [
+        "JCB 4CX",
+        "JCB 3CX"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "JCB",
+      "category": "Retroexcavadora",
+      "price_range_crc": "200K-400K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 280000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 246400,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-RE-017",
+    "price_range_crc": "200K-400K",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "JCB"
+  }
+]

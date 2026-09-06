@@ -1,0 +1,962 @@
+[
+  {
+    "title": "Case CE CX350E 2022",
+    "description": "Excavadora hidráulica de alto rendimiento, ideal para excavación, zanjeo y demolición en obras de construcción e infraestructura. Model: Case CE CX350E. Variant: 1. Condition: Nuevo. Year: 2022.",
+    "brand": "Case CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 5,
+    "image_url": "https://imgs.search.brave.com/ArQENT_XtnkR7bQI6WDvcsRGBP5Excv5ghD6hvWohyE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5zYW5kaGlsbHMu/Y29tL2ltZy5heGQ_/aWQ9OTA0NzAzMzE2/MCZ3aWQ9MzAwNjc3/OTkyMSZyd2w9RmFs/c2UmcD0mZXh0PSZ3/PTM1MCZoPTIyMCZ0/PSZscD0mYz1UcnVl/Jnd0PUZhbHNlJnN6/PU1heCZydD0wJmNo/ZWNrc3VtPW9CNy9F/aERrWUJsSnpNTGoz/eUNkelZnUEdFNlVw/ZGZpM2xydVR2Tm5w/WmM9",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2022,
+      "weight_kg": 40891.57,
+      "power_hp": 391,
+      "digging_reach_m": 12.27,
+      "brand": "Case CE",
+      "category": "Excavadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 64624362,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 56869441,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ056",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Caterpillar 320 2024",
+    "description": "Excavadora hidráulica de alto rendimiento, ideal para excavación, zanjeo y demolición en obras de construcción e infraestructura. Model: Caterpillar 320. Variant: 1. Condition: Reacondicionado. Year: 2024.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 4.8,
+    "image_url": "https://podlasly.de/files/redaktion/bilder/baumaschinen/kettenbagger/Caterpillar%20320%20NextGen-18-5600-HEX02598/01.jpg",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2024,
+      "weight_kg": 22500,
+      "power_hp": 172,
+      "digging_reach_m": 10.6,
+      "brand": "Caterpillar",
+      "category": "Excavadora",
+      "price_range_crc": "75M-100M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 85800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 75504000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ053",
+    "price_range_crc": "75M-100M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Hyundai HX220A 2020",
+    "description": "Excavadora hidráulica de alto rendimiento, ideal para excavación, zanjeo y demolición en obras de construcción e infraestructura. Model: Hyundai HX220A. Variant: 1. Condition: Usado. Year: 2020.",
+    "brand": "Hyundai",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 4.9,
+    "image_url": "https://na.hd-hyundaice.com/_next/image?url=https%3A%2F%2Fdrupal.na.hd-hyundaice.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F21x9_large%2Fpublic%2F_images%2Fgeneral%2Fhx220al_marquee_21-9.jpg%3Fh%3Db104028d%26itok%3DJ3F8VeO6&w=3840&q=100",
+    "facets": {
+      "condition": "Usado",
+      "year": 2020,
+      "weight_kg": 6352.37,
+      "power_hp": 78,
+      "digging_reach_m": 14.37,
+      "brand": "Hyundai",
+      "category": "Excavadora",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 130235492,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 114607236,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "MQ059",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Hyundai"
+  },
+  {
+    "title": "Hitachi ZX350 2023",
+    "description": "Excavadora hidráulica de alto rendimiento, ideal para excavación, zanjeo y demolición en obras de construcción e infraestructura. Model: Hitachi ZX350. Variant: 1. Condition: Reacondicionado. Year: 2023.",
+    "brand": "Hitachi",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 4.6,
+    "image_url": "https://tse3.mm.bing.net/th/id/OIP.eGnKinbz0DY5xrRVtsJKAAHaEx",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2023,
+      "weight_kg": 29807,
+      "power_hp": 130,
+      "digging_reach_m": 6.9,
+      "brand": "Hitachi",
+      "category": "Excavadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 71351758,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 62789547,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ012",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Hitachi"
+  },
+  {
+    "title": "Komatsu PC210LC-10 2024",
+    "description": "Excavadora hidráulica de alto rendimiento, ideal para excavación, zanjeo y demolición en obras de construcción e infraestructura. Model: Komatsu PC210LC-10. Variant: 1. Condition: Reacondicionado. Year: 2024.",
+    "brand": "Komatsu",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.komatsu.eu/-/media/projects/komatsu/products/crawler-excavators/pc210_10.ashx?rev=13f853904b3f4d8fb168e116ab549dfe",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2024,
+      "weight_kg": 16042.1,
+      "power_hp": 349,
+      "digging_reach_m": 9.52,
+      "brand": "Komatsu",
+      "category": "Excavadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 52606471,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 46293697,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ071",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Volvo EC300 2023",
+    "description": "Excavadora hidráulica de alto rendimiento, ideal para excavación, zanjeo y demolición en obras de construcción e infraestructura. Model: Volvo EC300. Variant: 1. Condition: Reacondicionado. Year: 2023.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 4.4,
+    "image_url": "https://tse4.mm.bing.net/th/id/OIP.2acSrEnpKns8I302U9Ee4gHaD1",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2023,
+      "weight_kg": 12507,
+      "power_hp": 439,
+      "digging_reach_m": 7.09,
+      "brand": "Volvo CE",
+      "category": "Excavadora",
+      "price_range_crc": "200M+"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 249107030,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 219214186,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ031",
+    "price_range_crc": "200M+",
+    "category_facet": "Excavadora",
+    "brand_facet": "Volvo CE"
+  },
+  {
+    "title": "Doosan DX420LC-7 2026",
+    "description": "Excavadora hidráulica de alto rendimiento, ideal para excavación, zanjeo y demolición en obras de construcción e infraestructura. Model: Doosan DX420LC-7. Variant: 1. Condition: Reacondicionado. Year: 2026.",
+    "brand": "Doosan",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 4.4,
+    "image_url": "https://www.beco-group.com/media/900x450/4196-header.jpg",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2026,
+      "weight_kg": 40976.95,
+      "power_hp": 570,
+      "digging_reach_m": 6.06,
+      "brand": "Doosan",
+      "category": "Excavadora",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 120807320,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 106310443,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ086",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Doosan"
+  },
+  {
+    "title": "John Deere 350 P-Tier 2021",
+    "description": "Excavadora hidráulica de alto rendimiento, ideal para excavación, zanjeo y demolición en obras de construcción e infraestructura. Model: John Deere 350 P-Tier. Variant: 1. Condition: Nuevo. Year: 2021.",
+    "brand": "John Deere",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 4.3,
+    "image_url": "https://tse2.mm.bing.net/th/id/OIP.e5kDas9OkkCxxXu6oe4jnwHaFj",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2021,
+      "weight_kg": 39911,
+      "power_hp": 482,
+      "digging_reach_m": 10.67,
+      "brand": "John Deere",
+      "category": "Excavadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 62118248,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 54664059,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ040",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Excavadora",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "XCMG XE215 2024",
+    "description": "Excavadora hidráulica de alto rendimiento, ideal para excavación, zanjeo y demolición en obras de construcción e infraestructura. Model: XCMG XE215. Variant: 1. Condition: Nuevo. Year: 2024.",
+    "brand": "XCMG",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 4.3,
+    "image_url": "https://img.equipmentworld.com/files/base/randallreilly/all/image/2025/04/XCMG_XE215EV.6800025bdefbe.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2024,
+      "weight_kg": 19725,
+      "power_hp": 122,
+      "digging_reach_m": 10.14,
+      "brand": "XCMG",
+      "category": "Excavadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 71732747,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 63124817,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ045",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Excavadora",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "Case CE CX350D 2019",
+    "description": "Excavadora hidráulica de alto rendimiento, ideal para excavación, zanjeo y demolición en obras de construcción e infraestructura. Model: Case CE CX350D. Variant: 1. Condition: Usado. Year: 2019.",
+    "brand": "Case CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 4.2,
+    "image_url": "https://teamsieq.blob.core.windows.net/titan-image-uploader/E00325409/E00325409-1.jpg",
+    "facets": {
+      "condition": "Usado",
+      "year": 2019,
+      "weight_kg": 8657.28,
+      "power_hp": 550,
+      "digging_reach_m": 6.38,
+      "brand": "Case CE",
+      "category": "Excavadora",
+      "price_range_crc": "150M-200M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 154045008,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 135559606,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "MQ090",
+    "price_range_crc": "150M-200M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Caterpillar 323 2019",
+    "description": "Excavadora hidráulica de alto rendimiento, ideal para excavación, zanjeo y demolición en obras de construcción e infraestructura. Model: Caterpillar 323. Variant: 1. Condition: Nuevo. Year: 2019.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 4.2,
+    "image_url": "https://tse1.mm.bing.net/th/id/OIP.jjBtcg_p-gyYtvAeVYt5ZAHaE8",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2019,
+      "weight_kg": 23231,
+      "power_hp": 504,
+      "digging_reach_m": 9.94,
+      "brand": "Caterpillar",
+      "category": "Excavadora",
+      "price_range_crc": "200M+"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 224848801,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 197866945,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ007",
+    "price_range_crc": "200M+",
+    "category_facet": "Excavadora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Hyundai HX300L 2021",
+    "description": "Excavadora hidráulica de alto rendimiento, ideal para excavación, zanjeo y demolición en obras de construcción e infraestructura. Model: Hyundai HX300L. Variant: 1. Condition: Usado. Year: 2021.",
+    "brand": "Hyundai",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 4.1,
+    "image_url": "https://media.veritread.com/cloud/assets/images/equipmentimages/170918.jpg",
+    "facets": {
+      "condition": "Usado",
+      "year": 2021,
+      "weight_kg": 18848.5,
+      "power_hp": 250,
+      "digging_reach_m": 13.74,
+      "brand": "Hyundai",
+      "category": "Excavadora",
+      "price_range_crc": "150M-200M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 153213554,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 134827930,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ082",
+    "price_range_crc": "150M-200M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Hyundai"
+  },
+  {
+    "title": "New Holland E135B 2019",
+    "description": "Excavadora hidráulica de alto rendimiento, ideal para excavación, zanjeo y demolición en obras de construcción e infraestructura. Model: New Holland E135B. Variant: 1. Condition: Nuevo. Year: 2019.",
+    "brand": "New Holland",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 4.1,
+    "image_url": "https://www.lectura-specs.com/models/renamed/orig/crawler-excavators-e-135-b-new-holland(3).jpg",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2019,
+      "weight_kg": 11077.61,
+      "power_hp": 286,
+      "digging_reach_m": 5.57,
+      "brand": "New Holland",
+      "category": "Excavadora",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 45589872,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 40119087,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ076",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Excavadora",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Hitachi ZX210 2022",
+    "description": "Excavadora hidráulica de alto rendimiento, ideal para excavación, zanjeo y demolición en obras de construcción e infraestructura. Model: Hitachi ZX210. Variant: 1. Condition: Reacondicionado. Year: 2022.",
+    "brand": "Hitachi",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 3.9,
+    "image_url": "https://tse4.mm.bing.net/th/id/OIP.ixk2Wj9jGpfdnRFIY210jAHaF1",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2022,
+      "weight_kg": 11140,
+      "power_hp": 201,
+      "digging_reach_m": 6.97,
+      "brand": "Hitachi",
+      "category": "Excavadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 67600062,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 59488055,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ004",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Hitachi"
+  },
+  {
+    "title": "Caterpillar 320 2015",
+    "description": "Excavadora hidráulica de alto rendimiento, ideal para excavación, zanjeo y demolición en obras de construcción e infraestructura. Model: Caterpillar 320. Variant: 2. Condition: Reacondicionado. Year: 2015.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 3.6,
+    "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20170417-48239-28017",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2015,
+      "weight_kg": 8401.89,
+      "power_hp": 304,
+      "digging_reach_m": 10.27,
+      "brand": "Caterpillar",
+      "category": "Excavadora",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 145458092,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 128003122,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ060",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Komatsu PC200-8 2021",
+    "description": "Excavadora hidráulica de alto rendimiento para excavación, zanjeo y obras civiles de mediana y gran escala. Model: Komatsu PC200-8. Variant: 1. Condition: Usado. Year: 2021.",
+    "brand": "Komatsu",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Excavadora"
+    ],
+    "rating": 4.6,
+    "image_url": "https://image.made-in-china.com/318f0j00JEFGzjlavLuT/f77b268ca5e83135d234f152263e50e4-mp4.webp",
+    "facets": {
+      "condition": "Usado",
+      "year": 2021,
+      "weight_kg": 19900,
+      "power_hp": 165,
+      "digging_reach_m": 9.85,
+      "brand": "Komatsu",
+      "category": "Excavadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 54750000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 49275000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.04
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.08
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 3
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ101",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Komatsu"
+  }
+]

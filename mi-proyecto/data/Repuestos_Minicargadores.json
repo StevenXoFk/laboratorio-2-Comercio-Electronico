@@ -1,0 +1,1076 @@
+[
+  {
+    "title": "Kit de Orugas para Minicargador Kubota SVL75",
+    "description": "Juego de orugas de caucho para minicargador Kubota SVL75, con refuerzo de acero para mayor durabilidad.",
+    "brand": "Kubota",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Orugas"
+    ],
+    "rating": 4.8,
+    "image_url": "https://i.ebayimg.com/images/g/ZScAAOSw3k9cf~Qu/s-l1200.webp",
+    "facets": {
+      "compatible_models": [
+        "Kubota SVL75",
+        "Kubota SVL65"
+      ],
+      "material": "Caucho con refuerzo de acero",
+      "type": "Orugas",
+      "condition": "Nuevo",
+      "brand": "Kubota",
+      "category": "Minicargador",
+      "price_range_crc": "1.5M-3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1936000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 10
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 20
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 6
+      }
+    ],
+    "objectID": "REP-MIN-001",
+    "price_range_crc": "1.5M-3M",
+    "category_facet": "Minicargador",
+    "brand_facet": "Kubota"
+  },
+  {
+    "title": "Cucharón para Bobcat S650",
+    "description": "Cucharón de carga para minicargador Bobcat S650, fabricado en acero Hardox con dientes de desgaste reemplazables.",
+    "brand": "Bobcat",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Cucharones"
+    ],
+    "rating": 4.7,
+    "image_url": "https://res.cloudinary.com/doosan-bobcat/image/upload/b_transparent,c_pad,dpr_2.0,f_auto,h_300,q_auto,w_400/c_pad,h_300,w_400/v1/bobcat-assets/na-bobcat-com/products/attachments/bucket-heavy-duty/images/bobcat-heavy-duty-bucket-1w7a0310-19b4-ko-544x362?pgw=1",
+    "facets": {
+      "compatible_models": [
+        "Bobcat S650",
+        "Bobcat S630"
+      ],
+      "material": "Acero Hardox 400",
+      "capacity_m3": 0.6,
+      "type": "Cucharón",
+      "condition": "Nuevo",
+      "brand": "Bobcat",
+      "category": "Minicargador",
+      "price_range_crc": "1.2M-2.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1584000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 15
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-MIN-002",
+    "price_range_crc": "1.2M-2.5M",
+    "category_facet": "Minicargador",
+    "brand_facet": "Bobcat"
+  },
+  {
+    "title": "Kit de Filtros para John Deere 320G",
+    "description": "Kit completo de filtros para minicargador John Deere 320G, incluye filtro de aceite, aire y combustible.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://media.fridayparts.com/media/catalog/product/f/i/filter-kit-for-john-deere-skid-steer-loader-320g-324g-325g-no-hydraulic-filter566666_2_.jpg?store=default&image-type=image&width=460&height=460",
+    "facets": {
+      "compatible_models": [
+        "John Deere 320G",
+        "John Deere 325G"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "John Deere",
+      "category": "Minicargador",
+      "price_range_crc": "150K-300K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 220000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 193600,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 35
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 60
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 25
+      }
+    ],
+    "objectID": "REP-MIN-003",
+    "price_range_crc": "150K-300K",
+    "category_facet": "Minicargador",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Cilindro de Levante para Kubota SVL75",
+    "description": "Cilindro hidráulico de levante para minicargador Kubota SVL75, fabricado en acero cromado con doble sellado.",
+    "brand": "Kubota",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://s.alicdn.com/@sc04/kf/A66fdc79867ad428fa5a0d1f4518ed631I.jpg",
+    "facets": {
+      "compatible_models": [
+        "Kubota SVL75",
+        "Kubota SVL65"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Levante",
+      "condition": "Reacondicionado",
+      "brand": "Kubota",
+      "category": "Minicargador",
+      "price_range_crc": "800K-1.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1100000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 968000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-MIN-004",
+    "price_range_crc": "800K-1.5M",
+    "category_facet": "Minicargador",
+    "brand_facet": "Kubota"
+  },
+  {
+    "title": "Kit de Neumáticos para Bobcat S650",
+    "description": "Juego de 4 neumáticos para minicargador Bobcat S650, con banda de rodadura para terrenos mixtos.",
+    "brand": "Bobcat",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Neumáticos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://i.ebayimg.com/images/g/RywAAeSwYlJpXDQ~/s-l1200.webp",
+    "facets": {
+      "compatible_models": [
+        "Bobcat S650",
+        "Bobcat S630"
+      ],
+      "size": "12.0-16.5",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "Bobcat",
+      "category": "Minicargador",
+      "price_range_crc": "600K-1.2M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 850000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 748000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 12
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 22
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 8
+      }
+    ],
+    "objectID": "REP-MIN-005",
+    "price_range_crc": "600K-1.2M",
+    "category_facet": "Minicargador",
+    "brand_facet": "Bobcat"
+  },
+  {
+    "title": "Cucharón para John Deere 320G",
+    "description": "Cucharón de carga para minicargador John Deere 320G, fabricado en acero Hardox con dientes de desgaste.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Cucharones"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.deere.com/assets/images/common/products/skid-steer/320g/320g_r4x000034x_rrd_1366x768_small_7d40601ba971d7abebc000bc42aaf66116cc306c.jpg",
+    "facets": {
+      "compatible_models": [
+        "John Deere 320G",
+        "John Deere 325G"
+      ],
+      "material": "Acero Hardox 400",
+      "capacity_m3": 0.5,
+      "type": "Cucharón",
+      "condition": "Nuevo",
+      "brand": "John Deere",
+      "category": "Minicargador",
+      "price_range_crc": "1M-2M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1276000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-MIN-006",
+    "price_range_crc": "1M-2M",
+    "category_facet": "Minicargador",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Kit de Orugas para Bobcat S650",
+    "description": "Juego de orugas de caucho para minicargador Bobcat S650, con refuerzo de acero para mayor durabilidad.",
+    "brand": "Bobcat",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Orugas"
+    ],
+    "rating": 4.6,
+    "image_url": "https://res.cloudinary.com/doosan-bobcat/image/upload/b_transparent,c_pad,dpr_2.0,f_auto,g_center,h_300,q_auto,w_400/c_pad,h_300,w_400/v1/bobcat-assets/emea-approved/products/attachments/compact-loaders/20211213-steel-tracks?pgw=1",
+    "facets": {
+      "compatible_models": [
+        "Bobcat S650",
+        "Bobcat S630"
+      ],
+      "material": "Caucho con refuerzo de acero",
+      "type": "Orugas",
+      "condition": "Nuevo",
+      "brand": "Bobcat",
+      "category": "Minicargador",
+      "price_range_crc": "1.2M-2.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1584000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 16
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-MIN-007",
+    "price_range_crc": "1.2M-2.5M",
+    "category_facet": "Minicargador",
+    "brand_facet": "Bobcat"
+  },
+  {
+    "title": "Kit de Filtros para Kubota SVL75",
+    "description": "Kit completo de filtros para minicargador Kubota SVL75, incluye filtro de aceite, aire y combustible.",
+    "brand": "Kubota",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://media.tractorsupply.com/is/image/TractorSupplyCompany/2331545?$456$",
+    "facets": {
+      "compatible_models": [
+        "Kubota SVL75",
+        "Kubota SVL65"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Kubota",
+      "category": "Minicargador",
+      "price_range_crc": "150K-300K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 220000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 193600,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 35
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 60
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 25
+      }
+    ],
+    "objectID": "REP-MIN-008",
+    "price_range_crc": "150K-300K",
+    "category_facet": "Minicargador",
+    "brand_facet": "Kubota"
+  },
+  {
+    "title": "Cilindro de Levante para Bobcat S650",
+    "description": "Cilindro hidráulico de levante para minicargador Bobcat S650, fabricado en acero cromado con doble sellado.",
+    "brand": "Bobcat",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://www.hydrauliccylindersinc.com/wp-content/uploads/2019/01/HCI_1204569384.jpg",
+    "facets": {
+      "compatible_models": [
+        "Bobcat S650",
+        "Bobcat S630"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Levante",
+      "condition": "Reacondicionado",
+      "brand": "Bobcat",
+      "category": "Minicargador",
+      "price_range_crc": "700K-1.3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 980000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 862400,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-MIN-009",
+    "price_range_crc": "700K-1.3M",
+    "category_facet": "Minicargador",
+    "brand_facet": "Bobcat"
+  },
+  {
+    "title": "Kit de Orugas para John Deere 320G",
+    "description": "Juego de orugas de caucho para minicargador John Deere 320G, con refuerzo de acero para mayor durabilidad.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Orugas"
+    ],
+    "rating": 4.5,
+    "image_url": "https://s.alicdn.com/@sc04/kf/S4a60cca437db4534bb6a07b4ff726fbfA/35-50-60-75-85-130-160-180-190-200-210-225-245-270-300-470-590-Excavator-Undercarriage-Track-Group-Track-Chain-for-John-Deere.png_300x300.jpg",
+    "facets": {
+      "compatible_models": [
+        "John Deere 320G",
+        "John Deere 325G"
+      ],
+      "material": "Caucho con refuerzo de acero",
+      "type": "Orugas",
+      "condition": "Nuevo",
+      "brand": "John Deere",
+      "category": "Minicargador",
+      "price_range_crc": "1M-2M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1276000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 16
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-MIN-010",
+    "price_range_crc": "1M-2M",
+    "category_facet": "Minicargador",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Cucharón para Kubota SVL75",
+    "description": "Cucharón de carga para minicargador Kubota SVL75, fabricado en acero Hardox con dientes de desgaste.",
+    "brand": "Kubota",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Cucharones"
+    ],
+    "rating": 4.6,
+    "image_url": "https://m.media-amazon.com/images/I/71Sbw48JKWL._AC_UF1000,1000_QL80_.jpg",
+    "facets": {
+      "compatible_models": [
+        "Kubota SVL75",
+        "Kubota SVL65"
+      ],
+      "material": "Acero Hardox 400",
+      "capacity_m3": 0.5,
+      "type": "Cucharón",
+      "condition": "Nuevo",
+      "brand": "Kubota",
+      "category": "Minicargador",
+      "price_range_crc": "1M-2M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1276000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-MIN-011",
+    "price_range_crc": "1M-2M",
+    "category_facet": "Minicargador",
+    "brand_facet": "Kubota"
+  },
+  {
+    "title": "Kit de Filtros para Bobcat S650",
+    "description": "Kit completo de filtros para minicargador Bobcat S650, incluye filtro de aceite, aire y combustible.",
+    "brand": "Bobcat",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.5,
+    "image_url": "https://m.media-amazon.com/images/I/81PzkRdeeSL.jpg",
+    "facets": {
+      "compatible_models": [
+        "Bobcat S650",
+        "Bobcat S630"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Bobcat",
+      "category": "Minicargador",
+      "price_range_crc": "150K-300K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 220000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 193600,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 35
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 60
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 25
+      }
+    ],
+    "objectID": "REP-MIN-012",
+    "price_range_crc": "150K-300K",
+    "category_facet": "Minicargador",
+    "brand_facet": "Bobcat"
+  },
+  {
+    "title": "Cilindro de Levante para John Deere 320G",
+    "description": "Cilindro hidráulico de levante para minicargador John Deere 320G, fabricado en acero cromado con doble sellado.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://m.media-amazon.com/images/I/31aOTSnqqnL._AC_UF894,1000_QL80_.jpg",
+    "facets": {
+      "compatible_models": [
+        "John Deere 320G",
+        "John Deere 325G"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Levante",
+      "condition": "Reacondicionado",
+      "brand": "John Deere",
+      "category": "Minicargador",
+      "price_range_crc": "700K-1.3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 980000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 862400,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-MIN-013",
+    "price_range_crc": "700K-1.3M",
+    "category_facet": "Minicargador",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Kit de Neumáticos para Kubota SVL75",
+    "description": "Juego de 4 neumáticos para minicargador Kubota SVL75, con banda de rodadura para terrenos mixtos.",
+    "brand": "Kubota",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Neumáticos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://m.media-amazon.com/images/I/91tmxakkoqL._AC_UF350,350_QL80_.jpg",
+    "facets": {
+      "compatible_models": [
+        "Kubota SVL75",
+        "Kubota SVL65"
+      ],
+      "size": "12.0-16.5",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "Kubota",
+      "category": "Minicargador",
+      "price_range_crc": "600K-1.2M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 850000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 748000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 12
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 22
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 8
+      }
+    ],
+    "objectID": "REP-MIN-014",
+    "price_range_crc": "600K-1.2M",
+    "category_facet": "Minicargador",
+    "brand_facet": "Kubota"
+  },
+  {
+    "title": "Cucharón para Bobcat S650 v2",
+    "description": "Cucharón de carga para minicargador Bobcat S650, fabricado en acero Hardox con dientes de desgaste.",
+    "brand": "Bobcat",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Cucharones"
+    ],
+    "rating": 4.6,
+    "image_url": "https://res.cloudinary.com/doosan-bobcat/image/upload/b_transparent,c_pad,dpr_2.0,f_auto,g_center,h_300,q_auto,w_400/c_pad,h_300,w_400/v1/bobcat-assets/alao-approved/la/products/attachments/images/20220325-bucket-dirt?pgw=1",
+    "facets": {
+      "compatible_models": [
+        "Bobcat S650",
+        "Bobcat S630"
+      ],
+      "material": "Acero Hardox 450",
+      "capacity_m3": 0.7,
+      "type": "Cucharón",
+      "condition": "Nuevo",
+      "brand": "Bobcat",
+      "category": "Minicargador",
+      "price_range_crc": "1.5M-2.8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2100000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1848000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-MIN-015",
+    "price_range_crc": "1.5M-2.8M",
+    "category_facet": "Minicargador",
+    "brand_facet": "Bobcat"
+  },
+  {
+    "title": "Kit de Orugas para Kubota SVL75 v2",
+    "description": "Juego de orugas de caucho para minicargador Kubota SVL75, con refuerzo de acero para mayor durabilidad.",
+    "brand": "Kubota",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Orugas"
+    ],
+    "rating": 4.7,
+    "image_url": "https://m.media-amazon.com/images/I/41mQX0BUXnL.jpg",
+    "facets": {
+      "compatible_models": [
+        "Kubota SVL75",
+        "Kubota SVL65"
+      ],
+      "material": "Caucho con refuerzo de acero",
+      "type": "Orugas",
+      "condition": "Nuevo",
+      "brand": "Kubota",
+      "category": "Minicargador",
+      "price_range_crc": "1.5M-3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1936000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 16
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-MIN-016",
+    "price_range_crc": "1.5M-3M",
+    "category_facet": "Minicargador",
+    "brand_facet": "Kubota"
+  },
+  {
+    "title": "Kit de Filtros para John Deere 320G v2",
+    "description": "Kit completo de filtros para minicargador John Deere 320G, incluye filtro de aceite, aire y combustible.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Minicargador",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://m.media-amazon.com/images/I/61KlRpdTMjL.jpg",
+    "facets": {
+      "compatible_models": [
+        "John Deere 320G",
+        "John Deere 325G"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "John Deere",
+      "category": "Minicargador",
+      "price_range_crc": "150K-300K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 220000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 193600,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 35
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 60
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 25
+      }
+    ],
+    "objectID": "REP-MIN-017",
+    "price_range_crc": "150K-300K",
+    "category_facet": "Minicargador",
+    "brand_facet": "John Deere"
+  }
+]

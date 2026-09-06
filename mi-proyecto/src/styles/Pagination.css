@@ -1,0 +1,51 @@
+.catalog-pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.ais-Pagination-list {
+  list-style: none;
+  display: flex;
+  gap: 0.4rem;
+  padding: 0;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ais-Pagination-item {
+  display: inline-flex;
+}
+
+.ais-Pagination-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 38px;
+  height: 38px;
+  padding: 0 10px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text-h);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+}
+
+.ais-Pagination-link:hover,
+.ais-Pagination-item--selected .ais-Pagination-link {
+  background: #ffd400;
+  border-color: #08060d;
+  color: #08060d;
+}
+
+.ais-Pagination-item--selected .ais-Pagination-link {
+  font-weight: 700;
+}
+
+.ais-Pagination-item--disabled .ais-Pagination-link {
+  opacity: 0.4;
+  pointer-events: none;
+}

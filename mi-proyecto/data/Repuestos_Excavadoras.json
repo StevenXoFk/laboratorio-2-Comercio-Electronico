@@ -1,0 +1,1074 @@
+[
+  {
+    "title": "Kit de Orugas para Excavadora Case CX350E",
+    "description": "Juego de orugas de caucho para excavadora Case CX350E, ideal para terrenos mixtos y superficies duras. Incluye 2 orugas completas con herrajes de montaje.",
+    "brand": "Case CE",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Orugas"
+    ],
+    "rating": 4.9,
+    "image_url": "https://lubyequipment.com/wp-content/uploads/2024/02/case-full-size-excavator-cx350d.webp",
+    "facets": {
+      "compatible_models": [
+        "Case CX350E",
+        "Case CX350D"
+      ],
+      "material": "Caucho con refuerzo de acero",
+      "type": "Orugas",
+      "condition": "Nuevo",
+      "brand": "Case CE",
+      "category": "Excavadora",
+      "price_range_crc": "2M-4M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2850000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2508000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 12
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 25
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 8
+      }
+    ],
+    "objectID": "REP-EX-001",
+    "price_range_crc": "2M-4M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Cuchara de Excavación para Caterpillar 320",
+    "description": "Cuchara de excavación de alta resistencia para Caterpillar 320, fabricada en acero Hardox con dientes de desgaste reemplazables.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Cucharas"
+    ],
+    "rating": 4.8,
+    "image_url": "http://stricklandmfg.co.uk/cdn/shop/files/tds-1507205130-render_559e4898-1d94-43b5-98fb-7fc17d07336f.webp?v=1729672361",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 320",
+        "Caterpillar 323"
+      ],
+      "material": "Acero Hardox 400",
+      "capacity_m3": 1.2,
+      "type": "Cuchara de Excavación",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Excavadora",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6500000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5720000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 15
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-EX-002",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Kit de Mantenimiento para Hyundai HX220A",
+    "description": "Kit completo de mantenimiento para excavadora Hyundai HX220A, incluye filtros de aceite, aire y combustible, más correas y bujías.",
+    "brand": "Hyundai",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.7,
+    "image_url": "https://cdn11.bigcommerce.com/s-ww39jg968b/images/stencil/1280x1280/products/1077/12399/H-30K__71154.1777036681.jpg?c=2",
+    "facets": {
+      "compatible_models": [
+        "Hyundai HX220A",
+        "Hyundai HX300L"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible",
+        "Correas",
+        "Bujías"
+      ],
+      "type": "Kit de Mantenimiento",
+      "condition": "Nuevo",
+      "brand": "Hyundai",
+      "category": "Excavadora",
+      "price_range_crc": "500K-1M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 750000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 660000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 20
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 35
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 15
+      }
+    ],
+    "objectID": "REP-EX-003",
+    "price_range_crc": "500K-1M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Hyundai"
+  },
+  {
+    "title": "Cilindro Hidráulico para Hitachi ZX350",
+    "description": "Cilindro hidráulico de brazo para excavadora Hitachi ZX350, fabricado en acero de alta resistencia con doble sellado.",
+    "brand": "Hitachi",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.8,
+    "image_url": "https://img.linemedia.com/img/s/spare-part-hydraulic-cylinder-Hitachi---1674637249996632800_common--23012510592647547000.jpg",
+    "facets": {
+      "compatible_models": [
+        "Hitachi ZX350",
+        "Hitachi ZX210"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro Hidráulico",
+      "condition": "Reacondicionado",
+      "brand": "Hitachi",
+      "category": "Excavadora",
+      "price_range_crc": "3M-6M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4500000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3960000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-EX-004",
+    "price_range_crc": "3M-6M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Hitachi"
+  },
+  {
+    "title": "Juego de Sellos para Komatsu PC210LC-10",
+    "description": "Juego completo de sellos y retenes para excavadora Komatsu PC210LC-10, incluye sellos de vástago, pistón y juntas tóricas.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Sellos y Retenes"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.feiyueparts.com/wp-content/uploads/sites/11/2023/02/707-99-50520.jpg",
+    "facets": {
+      "compatible_models": [
+        "Komatsu PC210LC-10",
+        "Komatsu PC200-8"
+      ],
+      "material": "Nitrilo y poliuretano",
+      "type": "Kit de Sellos",
+      "condition": "Nuevo",
+      "brand": "Komatsu",
+      "category": "Excavadora",
+      "price_range_crc": "800K-1.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1100000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 968000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 5,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 15
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 22
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 10
+      }
+    ],
+    "objectID": "REP-EX-005",
+    "price_range_crc": "800K-1.5M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Motor de Giro para Volvo EC300",
+    "description": "Motor de giro para excavadora Volvo EC300, con reductora y freno integrado, compatible con sistemas hidráulicos de alta presión.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Motores de Giro"
+    ],
+    "rating": 4.7,
+    "image_url": "https://image.made-in-china.com/202f0j00eFfkrzZIgPpD/Tunway-Parts-for-Volvo-Excavator-Parts-Ec460-Swing-Motor-M5X130-G-14550092-Voe14550092.webp",
+    "facets": {
+      "compatible_models": [
+        "Volvo EC300",
+        "Volvo EC220"
+      ],
+      "type": "Motor de Giro",
+      "pressure_psi": 4500,
+      "condition": "Reacondicionado",
+      "brand": "Volvo CE",
+      "category": "Excavadora",
+      "price_range_crc": "8M-12M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 9800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 8624000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-EX-006",
+    "price_range_crc": "8M-12M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Volvo CE"
+  },
+  {
+    "title": "Brazo de Excavadora para Doosan DX420LC-7",
+    "description": "Brazo de excavadora completo para Doosan DX420LC-7, fabricado en acero de alta resistencia con articulaciones reforzadas.",
+    "brand": "Doosan",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Brazos"
+    ],
+    "rating": 4.8,
+    "image_url": "https://www.beco-group.com/media/1024x1024/4197-afbeelding-van-whatsapp-op-2023-11-14-om-173550-e85df3bc-002.jpg",
+    "facets": {
+      "compatible_models": [
+        "Doosan DX420LC-7",
+        "Doosan DX350"
+      ],
+      "material": "Acero de alta resistencia",
+      "type": "Brazo de Excavadora",
+      "condition": "Nuevo",
+      "brand": "Doosan",
+      "category": "Excavadora",
+      "price_range_crc": "15M-25M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 19500000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 17160000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-EX-007",
+    "price_range_crc": "15M-25M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Doosan"
+  },
+  {
+    "title": "Kit de Orugas para John Deere 350 P-Tier",
+    "description": "Juego de orugas de acero para excavadora John Deere 350 P-Tier, ideales para terrenos rocosos y condiciones extremas.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Orugas"
+    ],
+    "rating": 4.6,
+    "image_url": "https://johndeere.widen.net/content/0nfio23idu/webp/350_p_tier_mid_size_excavator_r4f177803_rrd_1366x768_badged_large_0a8688c82d5790431e4c1c4b6f640e55e4758991.webp?crop=true&w=800&h=600&retina=false&keep=c",
+    "facets": {
+      "compatible_models": [
+        "John Deere 350 P-Tier",
+        "John Deere 380G"
+      ],
+      "material": "Acero templado",
+      "type": "Orugas",
+      "condition": "Nuevo",
+      "brand": "John Deere",
+      "category": "Excavadora",
+      "price_range_crc": "3M-5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3344000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 18
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 6
+      }
+    ],
+    "objectID": "REP-EX-008",
+    "price_range_crc": "3M-5M",
+    "category_facet": "Excavadora",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Bomba Hidráulica para XCMG XE215",
+    "description": "Bomba hidráulica principal para excavadora XCMG XE215, de pistones axiales con control de caudal variable.",
+    "brand": "XCMG",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Bombas Hidráulicas"
+    ],
+    "rating": 4.5,
+    "image_url": "https://xcmgpecas.com/wp-content/uploads/2022/09/KPM-M5X130CHB.10A.3DA.285.jpeg",
+    "facets": {
+      "compatible_models": [
+        "XCMG XE215",
+        "XCMG XE370"
+      ],
+      "type": "Bomba Hidráulica",
+      "flow_lpm": 320,
+      "condition": "Nuevo",
+      "brand": "XCMG",
+      "category": "Excavadora",
+      "price_range_crc": "6M-10M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 7800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 6864000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-EX-009",
+    "price_range_crc": "6M-10M",
+    "category_facet": "Excavadora",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "Cuchara de Demolición para Case CX350D",
+    "description": "Cuchara de demolición de alta resistencia para excavadora Case CX350D, con dientes de carburo de tungsteno para materiales duros.",
+    "brand": "Case CE",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Cucharas"
+    ],
+    "rating": 4.7,
+    "image_url": "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9e31ed3bbbeb46baab4c43e22fbde875?v=00848cfe",
+    "facets": {
+      "compatible_models": [
+        "Case CX350D",
+        "Case CX350E"
+      ],
+      "material": "Acero Hardox 500",
+      "capacity_m3": 0.9,
+      "type": "Cuchara de Demolición",
+      "condition": "Nuevo",
+      "brand": "Case CE",
+      "category": "Excavadora",
+      "price_range_crc": "7M-11M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 8900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 7832000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-EX-010",
+    "price_range_crc": "7M-11M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Kit de Filtros para Caterpillar 323",
+    "description": "Kit completo de filtros para excavadora Caterpillar 323, incluye filtro de aceite, aire, combustible y hidráulico.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.8,
+    "image_url": "https://media.fridayparts.com/media/catalog/product/f/i/filter-kit-5i-8670-327-6618-363-9402-360-8960-for-caterpillar-cat-excavator-312-313-316-318-320-323-324-325-326-330-336-349-352-390_2_.jpeg?store=default&image-type=image&width=460&height=460",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 323",
+        "Caterpillar 320"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible",
+        "Filtro hidráulico"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Excavadora",
+      "price_range_crc": "400K-800K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 600000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 528000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 15,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 25
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 40
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 18
+      }
+    ],
+    "objectID": "REP-EX-011",
+    "price_range_crc": "400K-800K",
+    "category_facet": "Excavadora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Rueda Tensora para Hyundai HX300L",
+    "description": "Rueda tensora de oruga para excavadora Hyundai HX300L, con rodamiento de alta capacidad y sistema de lubricación automática.",
+    "brand": "Hyundai",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Ruedas Tensoras"
+    ],
+    "rating": 4.5,
+    "image_url": "https://m.media-amazon.com/images/I/31jjrtG4SXL._AC_UF894,1000_QL80_.jpg",
+    "facets": {
+      "compatible_models": [
+        "Hyundai HX300L",
+        "Hyundai HX220A"
+      ],
+      "material": "Acero forjado",
+      "type": "Rueda Tensora",
+      "condition": "Reacondicionado",
+      "brand": "Hyundai",
+      "category": "Excavadora",
+      "price_range_crc": "1.5M-3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1936000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 15
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-EX-012",
+    "price_range_crc": "1.5M-3M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Hyundai"
+  },
+  {
+    "title": "Válvula de Control para New Holland E135B",
+    "description": "Válvula de control hidráulico para excavadora New Holland E135B, con actuador eléctrico y sistema de detección de carga.",
+    "brand": "New Holland",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Válvulas Hidráulicas"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.yearnparts.com/media/catalog/product/cache/7291b1ed39d415655223b88ff3721a67/h/y/hydraulic_pilot_control_valve_yn30v00111f1_for_new_holland_excavator_e135b_e175b_e215b_e235bsr_e70bsr_e80bmsr_5_.jpg",
+    "facets": {
+      "compatible_models": [
+        "New Holland E135B",
+        "New Holland E215"
+      ],
+      "type": "Válvula de Control",
+      "pressure_psi": 3500,
+      "condition": "Nuevo",
+      "brand": "New Holland",
+      "category": "Excavadora",
+      "price_range_crc": "4M-7M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 5500000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4840000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-EX-013",
+    "price_range_crc": "4M-7M",
+    "category_facet": "Excavadora",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Kit de Rodillos para Hitachi ZX210",
+    "description": "Kit de rodillos inferiores para excavadora Hitachi ZX210, incluye 8 rodillos con sellos y rodamientos de alta durabilidad.",
+    "brand": "Hitachi",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Rodillos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://hwpartstore.com/cdn/shop/products/JD-AH225135_37afad91-0d54-421b-b3d9-d0771aa9aa19_700x.jpg?v=1641290623",
+    "facets": {
+      "compatible_models": [
+        "Hitachi ZX210",
+        "Hitachi ZX160"
+      ],
+      "material": "Acero templado",
+      "type": "Kit de Rodillos",
+      "condition": "Nuevo",
+      "brand": "Hitachi",
+      "category": "Excavadora",
+      "price_range_crc": "2M-4M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2552000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 10
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 20
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 6
+      }
+    ],
+    "objectID": "REP-EX-014",
+    "price_range_crc": "2M-4M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Hitachi"
+  },
+  {
+    "title": "Cuchara de Zanjeo para Caterpillar 320",
+    "description": "Cuchara estrecha para zanjeo en excavadora Caterpillar 320, ideal para trabajos de zanjeo y excavación de zanjas estrechas.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Cucharas"
+    ],
+    "rating": 4.5,
+    "image_url": "http://stricklandmfg.co.uk/cdn/shop/files/custom_resized_10cdcfb7-54f9-4178-ab2a-0a3f3f120c6b.png?v=1729672358",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 320",
+        "Caterpillar 323"
+      ],
+      "material": "Acero Hardox 450",
+      "capacity_m3": 0.5,
+      "type": "Cuchara de Zanjeo",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Excavadora",
+      "price_range_crc": "4M-6M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4312000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-EX-015",
+    "price_range_crc": "4M-6M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Motor de Desplazamiento para Komatsu PC200-8",
+    "description": "Motor de desplazamiento hidráulico para excavadora Komatsu PC200-8, con freno de estacionamiento y sensor de velocidad.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Motores Hidráulicos"
+    ],
+    "rating": 4.8,
+    "image_url": "https://image.made-in-china.com/365f3j00iUpjfBRGsSqu/SAA6d107e-1-155HP-Nuevo-Motor-Di-sel-para-Excavadora-Komatsu-PC200-8.webp",
+    "facets": {
+      "compatible_models": [
+        "Komatsu PC200-8",
+        "Komatsu PC210"
+      ],
+      "type": "Motor de Desplazamiento",
+      "torque_nm": 450,
+      "condition": "Reacondicionado",
+      "brand": "Komatsu",
+      "category": "Excavadora",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5456000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 9
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-EX-016",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Excavadora",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Kit de Correas y Mangueras para Case CX350E",
+    "description": "Kit completo de correas y mangueras hidráulicas para excavadora Case CX350E, incluye todas las conexiones y abrazaderas.",
+    "brand": "Case CE",
+    "categories": [
+      "Repuestos",
+      "Excavadora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.yearnparts.com/media/catalog/product/cache/1f89bac4b3e08175bfdab64e9ded5909/e/n/engine_harness_84388886_for_case_excavator_cx300c_cx350c_1_.jpg",
+    "facets": {
+      "compatible_models": [
+        "Case CX350E",
+        "Case CX350D"
+      ],
+      "includes": [
+        "Correa de alternador",
+        "Mangueras hidráulicas",
+        "Abrazaderas"
+      ],
+      "type": "Kit de Correas y Mangueras",
+      "condition": "Nuevo",
+      "brand": "Case CE",
+      "category": "Excavadora",
+      "price_range_crc": "300K-600K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 396000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 15,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-EX-017",
+    "price_range_crc": "300K-600K",
+    "category_facet": "Excavadora",
+    "brand_facet": "Case CE"
+  }
+]

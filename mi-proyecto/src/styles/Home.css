@@ -1,0 +1,166 @@
+.home-hero {
+  position: relative;
+  max-width: 1600px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 5rem 2rem 4rem;
+  text-align: center;
+  background-image: linear-gradient(
+      rgba(22, 23, 29, 0.85),
+      rgba(22, 23, 29, 0.85)
+    ),
+    url('https://khsamgwebpro.blob.core.windows.net/wp-content/uploads/sites/23/2023/06/15215234/maquinaria-amarilla.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 0 0 16px 16px;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.home-hero h1 {
+  font-size: 2.2rem;
+  line-height: 1.25;
+  color: #ffffff;
+  margin-bottom: 0.75rem;
+  font-weight: 800;
+}
+
+.home-hero p {
+  color: #d1d5db;
+  font-size: 1.05rem;
+  max-width: 640px;
+  margin: 0 auto;
+  line-height: 1.5;
+}
+
+.home-value-props {
+  max-width: 1500px;
+  width: 95%;
+  margin: 2.5rem auto;
+  padding: 0 1rem;
+}
+
+.value-props {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.25rem;
+}
+
+.value-prop {
+  padding: 1.75rem 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--code-bg);
+  text-align: left; /* Alineado a la izquierda luce más limpio solo con texto */
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.value-prop::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: transparent;
+  transition: background 0.2s ease;
+}
+
+.value-prop:hover {
+  transform: translateY(-3px);
+  border-color: rgba(255, 212, 0, 0.4);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+}
+
+.value-prop:hover::before {
+  background: var(--brand);
+}
+
+.value-prop h3 {
+  margin: 0 0 0.6rem;
+  font-size: 1rem;
+  color: var(--text-h);
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.value-prop p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--text);
+  line-height: 1.45;
+  opacity: 0.85;
+}
+
+@media (max-width: 1024px) {
+  .value-props {
+    gap: 1.75rem;
+  }
+
+  .value-prop {
+    padding: 2rem 1.5rem;
+  }
+}
+
+@media (max-width: 992px) {
+  .value-props {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 860px) {
+  .value-props {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .home-hero {
+    padding: 3.5rem 1rem 2.5rem;
+    border-radius: 0;
+  }
+
+  .home-hero h1 {
+    font-size: 1.6rem;
+  }
+
+  .home-hero p {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .value-props {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+  }
+
+  .value-prop {
+    padding: 1.25rem 1rem;
+  }
+
+  .value-prop h3 {
+    font-size: 0.9rem;
+  }
+
+  .value-prop p {
+    font-size: 0.8rem;
+  }
+
+  .home-hero {
+    padding: 2.5rem 1rem 1.5rem;
+  }
+
+  .home-hero h1 {
+    font-size: 1.5rem;
+  }
+
+  .home-hero p {
+    font-size: 0.9rem;
+  }
+}

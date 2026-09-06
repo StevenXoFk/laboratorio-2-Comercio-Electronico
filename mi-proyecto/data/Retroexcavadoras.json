@@ -1,0 +1,602 @@
+[
+  {
+    "title": "JCB 3CX 2019",
+    "description": "Retroexcavadora versátil para excavación, carga y zanjeo, ideal para proyectos urbanos y de mediana escala. Model: JCB 3CX. Variant: 1. Condition: Usado. Year: 2019.",
+    "brand": "JCB",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Retroexcavadora"
+    ],
+    "rating": 5,
+    "image_url": "https://imgs.search.brave.com/tGcuxhrnbN-h-_MB88K0z25ffZHiDi5kEcS6T-nUspk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mYWly/Y2hpbGRlcXVpcG1l/bnQuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzA1L2pj/Yi0zY3gtYmFja2hv/ZS1sb2FkZXIuanBn/LndlYnA",
+    "facets": {
+      "condition": "Usado",
+      "year": 2019,
+      "weight_kg": 46307.79,
+      "power_hp": 520,
+      "bucket_capacity_m3": 5.95,
+      "brand": "JCB",
+      "category": "Retroexcavadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 60903820,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 53595360,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ083",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "JCB"
+  },
+  {
+    "title": "XCMG XC870HK 2018",
+    "description": "Retroexcavadora versátil para excavación, carga y zanjeo, ideal para proyectos urbanos y de mediana escala. Model: XCMG XC870HK. Variant: 1. Condition: Nuevo. Year: 2018.",
+    "brand": "XCMG",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Retroexcavadora"
+    ],
+    "rating": 4.8,
+    "image_url": "https://www.machplaza.com/wp-content/uploads/2023/07/XCMG-XC870HK-Backhoe-Loader.webp",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2018,
+      "weight_kg": 49007.88,
+      "power_hp": 591,
+      "bucket_capacity_m3": 5.5,
+      "brand": "XCMG",
+      "category": "Retroexcavadora",
+      "price_range_crc": "75M-100M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 76449682,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 67275723,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 3
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ066",
+    "price_range_crc": "75M-100M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "New Holland B95B 2020",
+    "description": "Retroexcavadora versátil para excavación, carga y zanjeo, ideal para proyectos urbanos y de mediana escala. Model: New Holland B95B. Variant: 1. Condition: Usado. Year: 2020.",
+    "brand": "New Holland",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Retroexcavadora"
+    ],
+    "rating": 4.7,
+    "image_url": "https://imgs.search.brave.com/iVmAk67i3ufIfhJtagaU6VMZPkK0lsrpw631ppKe-uI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/b2x4LmNvbS5ici90/aHVtYnM3MDB4NTAw/LzY5LzY5NDY4ODE1/NzQxMzQ3Mi53ZWJw",
+    "facets": {
+      "condition": "Usado",
+      "year": 2020,
+      "weight_kg": 32905.07,
+      "power_hp": 245,
+      "bucket_capacity_m3": 3.04,
+      "brand": "New Holland",
+      "category": "Retroexcavadora",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 46361052,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 40797728,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "MQ074",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "JCB 3CX 2023",
+    "description": "Retroexcavadora versátil para excavación, carga y zanjeo, ideal para proyectos urbanos y de mediana escala. Model: JCB 3CX. Variant: 2. Condition: Reacondicionado. Year: 2023.",
+    "brand": "JCB",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Retroexcavadora"
+    ],
+    "rating": 4.6,
+    "image_url": "https://imgs.search.brave.com/tGcuxhrnbN-h-_MB88K0z25ffZHiDi5kEcS6T-nUspk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mYWly/Y2hpbGRlcXVpcG1l/bnQuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzA1L2pj/Yi0zY3gtYmFja2hv/ZS1sb2FkZXIuanBn/LndlYnA",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2023,
+      "weight_kg": 28283,
+      "power_hp": 197,
+      "bucket_capacity_m3": 0.33,
+      "brand": "JCB",
+      "category": "Retroexcavadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 51327328,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 45168049,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ017",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "JCB"
+  },
+  {
+    "title": "CASE 580N 2022",
+    "description": "Retroexcavadora versátil para excavación, carga y zanjeo, ideal para proyectos urbanos y de mediana escala. Model: CASE 580N. Variant: 1. Condition: Usado. Year: 2022.",
+    "brand": "Case CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Retroexcavadora"
+    ],
+    "rating": 4.5,
+    "image_url": "https://tse1.mm.bing.net/th/id/OIP.sGWv-Y4-cvxsW9j9KPMT5AHaFj",
+    "facets": {
+      "condition": "Usado",
+      "year": 2022,
+      "weight_kg": 40713,
+      "power_hp": 304,
+      "bucket_capacity_m3": 0.19,
+      "brand": "Case CE",
+      "category": "Retroexcavadora",
+      "price_range_crc": "75M-100M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 82882665,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 72936745,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "MQ006",
+    "price_range_crc": "75M-100M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Volvo CE BL71B 2024",
+    "description": "Retroexcavadora versátil para excavación, carga y zanjeo, ideal para proyectos urbanos y de mediana escala. Model: Volvo CE BL71B. Variant: 1. Condition: Usado. Year: 2024.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Retroexcavadora"
+    ],
+    "rating": 4.4,
+    "image_url": "https://www.volvoce.com/-/media/volvoce/global-site/products-and-services/past-products/images/04-backhoe-excavator-loaders/04-volvo/v-bl71b/v-bl71b-566x280.avif",
+    "facets": {
+      "condition": "Usado",
+      "year": 2024,
+      "weight_kg": 9980.88,
+      "power_hp": 517,
+      "bucket_capacity_m3": 4.73,
+      "brand": "Volvo CE",
+      "category": "Retroexcavadora",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 31524610,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 27741657,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 7
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ075",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "Volvo CE"
+  },
+  {
+    "title": "Volvo CE BL61B 2020",
+    "description": "Retroexcavadora versátil para excavación, carga y zanjeo, ideal para proyectos urbanos y de mediana escala. Model: Volvo CE BL61B. Variant: 1. Condition: Nuevo. Year: 2020.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Retroexcavadora"
+    ],
+    "rating": 4.1,
+    "image_url": "https://www.volvoce.com/-/media/volvoce/global-site/products-and-services/past-products/images/04-backhoe-excavator-loaders/04-volvo/v-bl61b/v-bl61b-566x300.avif",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2020,
+      "weight_kg": 28936.3,
+      "power_hp": 593,
+      "bucket_capacity_m3": 2.18,
+      "brand": "Volvo CE",
+      "category": "Retroexcavadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 71777316,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 63164036,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "MQ088",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "Volvo CE"
+  },
+  {
+    "title": "New Holland B110C 2020",
+    "description": "Retroexcavadora versátil para excavación, carga y zanjeo, ideal para proyectos urbanos y de mediana escala. Model: New Holland B110C. Variant: 1. Condition: Nuevo. Year: 2020.",
+    "brand": "New Holland",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Retroexcavadora"
+    ],
+    "rating": 4.1,
+    "image_url": "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/ef9ee55ffef34695b85fcbd021948531?v=20812ffc",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2020,
+      "weight_kg": 24580.96,
+      "power_hp": 277,
+      "bucket_capacity_m3": 3.63,
+      "brand": "New Holland",
+      "category": "Retroexcavadora",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 43145466,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 37968008,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "MQ084",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "JCB 4CX 2026",
+    "description": "Retroexcavadora versátil para excavación, carga y zanjeo, ideal para proyectos urbanos y de mediana escala. Model: JCB 4CX. Variant: 1. Condition: Nuevo. Year: 2026.",
+    "brand": "JCB",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Retroexcavadora"
+    ],
+    "rating": 4,
+    "image_url": "https://tse1.mm.bing.net/th/id/OIP.asj9IY19XXp4fRF4IxsTQQHaFj",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2026,
+      "weight_kg": 14065,
+      "power_hp": 350,
+      "bucket_capacity_m3": 0.94,
+      "brand": "JCB",
+      "category": "Retroexcavadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 50252072,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 44221823,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ026",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "JCB"
+  },
+  {
+    "title": "Volvo CE BL71B 2026",
+    "description": "Retroexcavadora versátil para excavación, carga y zanjeo, ideal para proyectos urbanos y de mediana escala. Model: Volvo CE BL71B. Variant: 2. Condition: Nuevo. Year: 2026.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Retroexcavadora"
+    ],
+    "rating": 4,
+    "image_url": "https://www.volvoce.com/-/media/volvoce/global-site/products-and-services/past-products/images/04-backhoe-excavator-loaders/04-volvo/v-bl71b/v-bl71b-566x280.avif",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2026,
+      "weight_kg": 14914.13,
+      "power_hp": 231,
+      "bucket_capacity_m3": 3.54,
+      "brand": "Volvo CE",
+      "category": "Retroexcavadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 51387414,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 45220926,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ098",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Retroexcavadora",
+    "brand_facet": "Volvo CE"
+  }
+]

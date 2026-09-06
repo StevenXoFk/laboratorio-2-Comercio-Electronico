@@ -1,0 +1,1073 @@
+[
+  {
+    "title": "Caja de Volteo para Volvo A30G",
+    "description": "Caja de volteo de alta resistencia para camión Volvo A30G, fabricada en acero Hardox con sistema de elevación hidráulico.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Cajas de Volteo"
+    ],
+    "rating": 4.8,
+    "image_url": "https://www.vcesvolvo.com/wp-content/uploads/2022/05/a30g.jpg",
+    "facets": {
+      "compatible_models": [
+        "Volvo A30G",
+        "Volvo A35"
+      ],
+      "material": "Acero Hardox 450",
+      "capacity_ton": 32,
+      "type": "Caja de Volteo",
+      "condition": "Nuevo",
+      "brand": "Volvo CE",
+      "category": "Camión de Volteo",
+      "price_range_crc": "20M-35M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 27000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 23760000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-CV-001",
+    "price_range_crc": "20M-35M",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "Volvo CE"
+  },
+  {
+    "title": "Kit de Neumáticos para John Deere 460E",
+    "description": "Juego de 6 neumáticos para camión de volteo John Deere 460E, con banda de rodadura para terrenos mineros.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Neumáticos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://i.ebayimg.com/images/g/pVIAAeSwqWNqGXM~/s-l1200.jpg",
+    "facets": {
+      "compatible_models": [
+        "John Deere 460E",
+        "John Deere 410"
+      ],
+      "size": "23.5R25",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "John Deere",
+      "category": "Camión de Volteo",
+      "price_range_crc": "4M-7M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 5400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4752000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 16
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-CV-002",
+    "price_range_crc": "4M-7M",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Cilindro de Volteo para XCMG XDA40",
+    "description": "Cilindro hidráulico de volteo para camión XCMG XDA40, fabricado en acero cromado con doble sellado y válvula de seguridad.",
+    "brand": "XCMG",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://buyxcmg.com/wp-content/uploads/2019/02/XCMG-ADT-02-XDA40.jpg",
+    "facets": {
+      "compatible_models": [
+        "XCMG XDA40",
+        "XCMG XDA50"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Volteo",
+      "condition": "Reacondicionado",
+      "brand": "XCMG",
+      "category": "Camión de Volteo",
+      "price_range_crc": "3M-5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3432000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-CV-003",
+    "price_range_crc": "3M-5M",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "Kit de Filtros para Case CE 340B",
+    "description": "Kit completo de filtros para camión de volteo Case CE 340B, incluye filtro de aceite, aire y combustible.",
+    "brand": "Case CE",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.5,
+    "image_url": "https://cdn11.bigcommerce.com/s-knh0cnq2u8/images/stencil/original/products/19842/80826/Filter_Maintenance_Kit_for_Case_SV340_TV380_4__95282.1745420831.jpg?c=2",
+    "facets": {
+      "compatible_models": [
+        "Case CE 340B",
+        "Case CE 330"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Case CE",
+      "category": "Camión de Volteo",
+      "price_range_crc": "300K-600K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 396000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 25
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 45
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 15
+      }
+    ],
+    "objectID": "REP-CV-004",
+    "price_range_crc": "300K-600K",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Caja de Volteo para Caterpillar 730",
+    "description": "Caja de volteo de alta resistencia para camión Caterpillar 730, fabricada en acero Hardox con sistema de elevación hidráulico.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Cajas de Volteo"
+    ],
+    "rating": 4.7,
+    "image_url": "https://centranz.com/wp-content/uploads/2022/07/2133925-1.png",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 730",
+        "Caterpillar 740"
+      ],
+      "material": "Acero Hardox 500",
+      "capacity_ton": 30,
+      "type": "Caja de Volteo",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Camión de Volteo",
+      "price_range_crc": "25M-40M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 32000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 28160000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-CV-005",
+    "price_range_crc": "25M-40M",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Motor de Desplazamiento para New Holland DA30",
+    "description": "Motor de desplazamiento hidráulico para camión de volteo New Holland DA30, con freno de estacionamiento integrado.",
+    "brand": "New Holland",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Motores Hidráulicos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://cdn11.bigcommerce.com/s-cs1x3dyo4a/images/stencil/original/products/6308/24761/New_Holland_C190_2-Speed_Hydraulic_Drive_Motor__68982.1768797034.jpg?c=1",
+    "facets": {
+      "compatible_models": [
+        "New Holland DA30",
+        "New Holland DA25"
+      ],
+      "type": "Motor de Desplazamiento",
+      "torque_nm": 500,
+      "condition": "Reacondicionado",
+      "brand": "New Holland",
+      "category": "Camión de Volteo",
+      "price_range_crc": "4M-7M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 5400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4752000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-CV-006",
+    "price_range_crc": "4M-7M",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Kit de Neumáticos para Komatsu HM300-5",
+    "description": "Juego de 6 neumáticos para camión de volteo Komatsu HM300-5, con banda de rodadura para terrenos mineros.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Neumáticos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://monstertires.com/wp-content/uploads/2017/06/Haul_Truck_Tires_Monster_Tires-4-500x500.jpg",
+    "facets": {
+      "compatible_models": [
+        "Komatsu HM300-5",
+        "Komatsu HM350"
+      ],
+      "size": "26.5R25",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "Komatsu",
+      "category": "Camión de Volteo",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5632000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-CV-007",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Caja de Volteo para John Deere 410 P-Tier",
+    "description": "Caja de volteo de alta resistencia para camión John Deere 410 P-Tier, fabricada en acero Hardox con sistema de elevación.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Cajas de Volteo"
+    ],
+    "rating": 4.7,
+    "image_url": "https://johndeere.widen.net/content/hredh1sm4x/webp/410p_r4x002938_rrd_1366x768_large_0de86f1167192068dcd5deb7b09771e87cfdc8cb.webp?crop=true&w=800&h=600&retina=false&keep=c",
+    "facets": {
+      "compatible_models": [
+        "John Deere 410 P-Tier",
+        "John Deere 460"
+      ],
+      "material": "Acero Hardox 450",
+      "capacity_ton": 28,
+      "type": "Caja de Volteo",
+      "condition": "Nuevo",
+      "brand": "John Deere",
+      "category": "Camión de Volteo",
+      "price_range_crc": "22M-38M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 29000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 25520000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-CV-008",
+    "price_range_crc": "22M-38M",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Kit de Filtros para Volvo CE A30G",
+    "description": "Kit completo de filtros para camión de volteo Volvo CE A30G, incluye filtro de aceite, aire y combustible.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.volvoce.com/-/media/volvoce/global/parts/parts-reworking/maintenance-parts/filters/images/volvo-parts-filters-maintenance-parts-2324x1200.jpg?mh=620&mw=1205&v=aO5-Pw&c=1&cw=1200&ch=620&jq=80&hash=EB81343429B5558ABD0D0B6EC77CCCD4",
+    "facets": {
+      "compatible_models": [
+        "Volvo A30G",
+        "Volvo A35"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Volvo CE",
+      "category": "Camión de Volteo",
+      "price_range_crc": "300K-600K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 396000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 25
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 45
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 15
+      }
+    ],
+    "objectID": "REP-CV-009",
+    "price_range_crc": "300K-600K",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "Volvo CE"
+  },
+  {
+    "title": "Cilindro de Volteo para Caterpillar 730",
+    "description": "Cilindro hidráulico de volteo para camión Caterpillar 730, fabricado en acero cromado con doble sellado y válvula de seguridad.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://img.linemedia.com/img/s/spare-part-hydraulic-cylinder---1662565658268860798_common--22090718473611216400.jpg",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 730",
+        "Caterpillar 740"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Volteo",
+      "condition": "Reacondicionado",
+      "brand": "Caterpillar",
+      "category": "Camión de Volteo",
+      "price_range_crc": "3.5M-6M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4500000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3960000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-CV-010",
+    "price_range_crc": "3.5M-6M",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Caja de Volteo para XCMG XDA40",
+    "description": "Caja de volteo de alta resistencia para camión XCMG XDA40, fabricada en acero Hardox con sistema de elevación hidráulico.",
+    "brand": "XCMG",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Cajas de Volteo"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.wme.cn/xcmg-xda40/xcmg-xda40.jpg",
+    "facets": {
+      "compatible_models": [
+        "XCMG XDA40",
+        "XCMG XDA50"
+      ],
+      "material": "Acero Hardox 450",
+      "capacity_ton": 38,
+      "type": "Caja de Volteo",
+      "condition": "Nuevo",
+      "brand": "XCMG",
+      "category": "Camión de Volteo",
+      "price_range_crc": "28M-45M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 36000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 31680000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-CV-011",
+    "price_range_crc": "28M-45M",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "Kit de Neumáticos para Case CE 340B",
+    "description": "Juego de 6 neumáticos para camión de volteo Case CE 340B, con banda de rodadura para terrenos mixtos.",
+    "brand": "Case CE",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Neumáticos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://i.ebayimg.com/images/g/6G0AAeSw6NdpFJHq/s-l1200.jpg",
+    "facets": {
+      "compatible_models": [
+        "Case CE 340B",
+        "Case CE 330"
+      ],
+      "size": "23.5R25",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "Case CE",
+      "category": "Camión de Volteo",
+      "price_range_crc": "4M-6M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4312000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-CV-012",
+    "price_range_crc": "4M-6M",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Motor de Desplazamiento para Volvo A30G",
+    "description": "Motor de desplazamiento hidráulico para camión de volteo Volvo A30G, con freno de estacionamiento integrado.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Motores Hidráulicos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://www.vcesvolvo.com/wp-content/uploads/2022/05/a30g.jpg",
+    "facets": {
+      "compatible_models": [
+        "Volvo A30G",
+        "Volvo A35"
+      ],
+      "type": "Motor de Desplazamiento",
+      "torque_nm": 520,
+      "condition": "Reacondicionado",
+      "brand": "Volvo CE",
+      "category": "Camión de Volteo",
+      "price_range_crc": "4.5M-7.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 5800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5104000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-CV-013",
+    "price_range_crc": "4.5M-7.5M",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "Volvo CE"
+  },
+  {
+    "title": "Kit de Filtros para Komatsu HM300-5",
+    "description": "Kit completo de filtros para camión de volteo Komatsu HM300-5, incluye filtro de aceite, aire y combustible.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.costex.com/wp-content/uploads/2023/03/komatsu-filters-header-1.jpg",
+    "facets": {
+      "compatible_models": [
+        "Komatsu HM300-5",
+        "Komatsu HM350"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Komatsu",
+      "category": "Camión de Volteo",
+      "price_range_crc": "300K-600K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 396000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 25
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 45
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 15
+      }
+    ],
+    "objectID": "REP-CV-014",
+    "price_range_crc": "300K-600K",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Caja de Volteo para New Holland DA30",
+    "description": "Caja de volteo de alta resistencia para camión New Holland DA30, fabricada en acero Hardox con sistema de elevación hidráulico.",
+    "brand": "New Holland",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Cajas de Volteo"
+    ],
+    "rating": 4.5,
+    "image_url": "https://www.tractorpartsasap.com/media/catalog/product/w/o/wobble-box-remanufactured-new-holland-86630640-204016_4tzjzfckh8g0.jpg",
+    "facets": {
+      "compatible_models": [
+        "New Holland DA30",
+        "New Holland DA25"
+      ],
+      "material": "Acero Hardox 450",
+      "capacity_ton": 30,
+      "type": "Caja de Volteo",
+      "condition": "Nuevo",
+      "brand": "New Holland",
+      "category": "Camión de Volteo",
+      "price_range_crc": "24M-40M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 31000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 27280000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-CV-015",
+    "price_range_crc": "24M-40M",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Cilindro de Volteo para John Deere 460E",
+    "description": "Cilindro hidráulico de volteo para camión John Deere 460E, fabricado en acero cromado con doble sellado y válvula de seguridad.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://i.ebayimg.com/images/g/mhkAAeSwKhJpqTMd/s-l1200.webp",
+    "facets": {
+      "compatible_models": [
+        "John Deere 460E",
+        "John Deere 410"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Volteo",
+      "condition": "Reacondicionado",
+      "brand": "John Deere",
+      "category": "Camión de Volteo",
+      "price_range_crc": "3M-5.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3696000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-CV-016",
+    "price_range_crc": "3M-5.5M",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Kit de Neumáticos para Caterpillar 730",
+    "description": "Juego de 6 neumáticos para camión de volteo Caterpillar 730, con banda de rodadura para terrenos mineros.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Camión de Volteo",
+      "Neumáticos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://monstertires.com/wp-content/uploads/2017/06/Haul_Truck_Tires_Monster_Tires-4.jpg",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 730",
+        "Caterpillar 740"
+      ],
+      "size": "26.5R25",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Camión de Volteo",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5632000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-CV-017",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Camión de Volteo",
+    "brand_facet": "Caterpillar"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "title": "XCMG XC968-EV 2017",
+    "description": "Cargador de ruedas robusto diseñado para carga y transporte de materiales a gran volumen en canteras y sitios de construcción. Model: XCMG XC968-EV. Variant: 1. Condition: Reacondicionado. Year: 2017.",
+    "brand": "XCMG",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Cargador de Ruedas"
+    ],
+    "rating": 4.9,
+    "image_url": "http://www.machmall.com/images/10/1f/7e/4edf927591a0792a03c9f059aa9f3a05.jpg.webp",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2017,
+      "weight_kg": 36798.72,
+      "power_hp": 270,
+      "bucket_capacity_m3": 0.73,
+      "brand": "XCMG",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 58185551,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 51203287,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "MQ058",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "XCMG ZL50GN 2020",
+    "description": "Cargador de ruedas robusto diseñado para carga y transporte de materiales a gran volumen en canteras y sitios de construcción. Model: XCMG ZL50GN. Variant: 1. Condition: Usado. Year: 2020.",
+    "brand": "XCMG",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Cargador de Ruedas"
+    ],
+    "rating": 4.8,
+    "image_url": "https://img.linemedia.com/img/s/construction-equipment-wheel-loader-XCMG-ZL50GN---1786587769212003434_big--26081305144544146300.jpg",
+    "facets": {
+      "condition": "Usado",
+      "year": 2020,
+      "weight_kg": 17817.71,
+      "power_hp": 452,
+      "bucket_capacity_m3": 0.73,
+      "brand": "XCMG",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 68373557,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 60168732,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "MQ099",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "New Holland W130C 2025",
+    "description": "Cargador de ruedas robusto diseñado para carga y transporte de materiales a gran volumen en canteras y sitios de construcción. Model: New Holland W130C. Variant: 1. Condition: Nuevo. Year: 2025.",
+    "brand": "New Holland",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Cargador de Ruedas"
+    ],
+    "rating": 4.8,
+    "image_url": "https://imgs.search.brave.com/hicTqsrV4ZSakulttTI4rI07yQj_9pn5FCTHkvZf8B8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/Zm9yY29uc3RydWN0/aW9ucHJvcy5jb20v/ZmlsZXMvYmFzZS9h/Y2JtL2ZjcC9pbWFn/ZS8yMDEyLzA1L25l/d2hvbGxhbmR3MTMw/Y3doZWVsbG9hZGVy/d2l0aF8xMDcxMjM4/MS5wbmc_YXV0bz1m/b3JtYXQsY29tcHJl/c3MmcT03MCZ3PTQw/MA",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2025,
+      "weight_kg": 9769.56,
+      "power_hp": 416,
+      "bucket_capacity_m3": 1.88,
+      "brand": "New Holland",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "75M-100M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 99174800,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 87273826,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 7
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ063",
+    "price_range_crc": "75M-100M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Hyundai HL940 2019",
+    "description": "Cargador de ruedas robusto diseñado para carga y transporte de materiales a gran volumen en canteras y sitios de construcción. Model: Hyundai HL940. Variant: 1. Condition: Reacondicionado. Year: 2019.",
+    "brand": "Hyundai",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Cargador de Ruedas"
+    ],
+    "rating": 4.7,
+    "image_url": "https://tse3.mm.bing.net/th/id/OIP.SkUTZYxpAEyH9Zs7I8GkUQHaFj",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2019,
+      "weight_kg": 41256,
+      "power_hp": 530,
+      "bucket_capacity_m3": 2.88,
+      "brand": "Hyundai",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 68357058,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 60154211,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ030",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Hyundai"
+  },
+  {
+    "title": "Komatsu WA320 2022",
+    "description": "Cargador de ruedas robusto diseñado para carga y transporte de materiales a gran volumen en canteras y sitios de construcción. Model: Komatsu WA320. Variant: 1. Condition: Reacondicionado. Year: 2022.",
+    "brand": "Komatsu",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Cargador de Ruedas"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.komatsu.com/content/dam/komatsu/websites/global/images/equipment-product/white-background/wheel-loaders/we320/1040627_wheel-loader-wa320-8-1-web.jpg",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2022,
+      "weight_kg": 44753,
+      "power_hp": 306,
+      "bucket_capacity_m3": 4.32,
+      "brand": "Komatsu",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 105309303,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 92672186,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ042",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "JCB 427 2022",
+    "description": "Cargador de ruedas robusto diseñado para carga y transporte de materiales a gran volumen en canteras y sitios de construcción. Model: JCB 427. Variant: 1. Condition: Usado. Year: 2022.",
+    "brand": "JCB",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Cargador de Ruedas"
+    ],
+    "rating": 4.6,
+    "image_url": "https://imgs.search.brave.com/wIpgnhQH272SceKUL-UDPJoVFhi7OTg3oR4dxwFO-es/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZXF1aXBtZW50/bG9jYXRvci5jb20v/ZXF1aXBtZW50LzUy/OTU5MjMtMDAwMS5q/cGc_dz0yNTAmaD0x/ODAmbW9kZT1jcm9w/JjQwND1ub2ltYWdl/LmpwZw",
+    "facets": {
+      "condition": "Usado",
+      "year": 2022,
+      "weight_kg": 9545.59,
+      "power_hp": 561,
+      "bucket_capacity_m3": 4.11,
+      "brand": "JCB",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 60842028,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 53540984,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ065",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "JCB"
+  },
+  {
+    "title": "Liebherr L 580 XPower 2025",
+    "description": "Cargador de ruedas robusto diseñado para carga y transporte de materiales a gran volumen en canteras y sitios de construcción. Model: Liebherr L 580 XPower. Variant: 1. Condition: Reacondicionado. Year: 2025.",
+    "brand": "Liebherr",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Cargador de Ruedas"
+    ],
+    "rating": 4.5,
+    "image_url": "https://www-assets.liebherr.com/media/bu-media/lhbu-corp/news/corp_news_2025/05/26/emt/pressemappe-ligna-2025/liebherr-wheel-loader-l580-xpower-timber-industry-96dpi_w800.jpg",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2025,
+      "weight_kg": 46307.71,
+      "power_hp": 414,
+      "bucket_capacity_m3": 2.76,
+      "brand": "Liebherr",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "75M-100M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 95844320,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 84343002,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ061",
+    "price_range_crc": "75M-100M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Liebherr"
+  },
+  {
+    "title": "Liebherr L 550 2026",
+    "description": "Cargador de ruedas robusto diseñado para carga y transporte de materiales a gran volumen en canteras y sitios de construcción. Model: Liebherr L 550. Variant: 1. Condition: Nuevo. Year: 2026.",
+    "brand": "Liebherr",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Cargador de Ruedas"
+    ],
+    "rating": 4.4,
+    "image_url": "https://tse2.mm.bing.net/th/id/OIP.icj2fdeG_pNxybL92zPgMQHaE7",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2026,
+      "weight_kg": 37717,
+      "power_hp": 292,
+      "bucket_capacity_m3": 3.19,
+      "brand": "Liebherr",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 71007336,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 62486456,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ023",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Liebherr"
+  },
+  {
+    "title": "Volvo L150 2025",
+    "description": "Cargador de ruedas robusto diseñado para carga y transporte de materiales a gran volumen en canteras y sitios de construcción. Model: Volvo L150. Variant: 1. Condition: Reacondicionado. Year: 2025.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Cargador de Ruedas"
+    ],
+    "rating": 4.4,
+    "image_url": "https://tse3.mm.bing.net/th/id/OIP.G1oRGXUeL6rOWybvp_wSzQHaEA",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2025,
+      "weight_kg": 15484,
+      "power_hp": 495,
+      "bucket_capacity_m3": 3.02,
+      "brand": "Volvo CE",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "150M-200M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 182714589,
+        "in_stock": false
+      },
+      "b2b": {
+        "price_crc": 160788839,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ028",
+    "price_range_crc": "150M-200M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Volvo CE"
+  },
+  {
+    "title": "Caterpillar 966 2024",
+    "description": "Cargador de ruedas robusto diseñado para carga y transporte de materiales a gran volumen en canteras y sitios de construcción. Model: Caterpillar 966. Variant: 1. Condition: Nuevo. Year: 2024.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Cargador de Ruedas"
+    ],
+    "rating": 4,
+    "image_url": "https://tse1.mm.bing.net/th/id/OIP.c60Yd-Fj0pfTWdCh06yxiAHaE8",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2024,
+      "weight_kg": 9337,
+      "power_hp": 198,
+      "bucket_capacity_m3": 2.14,
+      "brand": "Caterpillar",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 137894484,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 121347146,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ022",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "CASE 821G 2024",
+    "description": "Cargador de ruedas robusto diseñado para carga y transporte de materiales a gran volumen en canteras y sitios de construcción. Model: CASE 821G. Variant: 1. Condition: Usado. Year: 2024.",
+    "brand": "Case CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Cargador de Ruedas"
+    ],
+    "rating": 3.9,
+    "image_url": "https://tse1.mm.bing.net/th/id/OIP.uN4Nw9WKN-85nYJM74HU_gHaFj",
+    "facets": {
+      "condition": "Usado",
+      "year": 2024,
+      "weight_kg": 7103,
+      "power_hp": 502,
+      "bucket_capacity_m3": 4.54,
+      "brand": "Case CE",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 106771278,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 93958724,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ021",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Komatsu WA470-8 2017",
+    "description": "Cargador de ruedas robusto diseñado para carga y transporte de materiales a gran volumen en canteras y sitios de construcción. Model: Komatsu WA470-8. Variant: 1. Condition: Nuevo. Year: 2017.",
+    "brand": "Komatsu",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Cargador de Ruedas"
+    ],
+    "rating": 4,
+    "image_url": "https://www.komatsu.eu/-/media/projects/komatsu/products/wheel-loaders/wa470_8.ashx",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2017,
+      "weight_kg": 46002.43,
+      "power_hp": 325,
+      "bucket_capacity_m3": 2.8,
+      "brand": "Komatsu",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 67685374,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 59563130,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 7
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ070",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "XCMG XC968-EV 2017 v2",
+    "description": "Cargador de ruedas robusto diseñado para carga y transporte de materiales a gran volumen en canteras y sitios de construcción. Model: XCMG XC968-EV. Variant: 2. Condition: Reacondicionado. Year: 2017.",
+    "brand": "XCMG",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Cargador de Ruedas"
+    ],
+    "rating": 4.9,
+    "image_url": "http://www.machmall.com/images/10/1f/7e/4edf927591a0792a03c9f059aa9f3a05.jpg.webp",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2017,
+      "weight_kg": 36798.72,
+      "power_hp": 270,
+      "bucket_capacity_m3": 0.73,
+      "brand": "XCMG",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 56439984,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 48131090,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "MQ109",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "XCMG ZL50GN 2020 v2",
+    "description": "Cargador de ruedas robusto diseñado para carga y transporte de materiales a gran volumen en canteras y sitios de construcción. Model: XCMG ZL50GN. Variant: 2. Condition: Usado. Year: 2020.",
+    "brand": "XCMG",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Cargador de Ruedas"
+    ],
+    "rating": 4.8,
+    "image_url": "https://img.linemedia.com/img/s/construction-equipment-wheel-loader-XCMG-ZL50GN---1786587769212003434_big--26081305144544146300.jpg",
+    "facets": {
+      "condition": "Usado",
+      "year": 2020,
+      "weight_kg": 17817.71,
+      "power_hp": 452,
+      "bucket_capacity_m3": 0.73,
+      "brand": "XCMG",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 69741028,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 59567045,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "MQ114",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "New Holland W130C 2023",
+    "description": "Cargador de ruedas robusto diseñado para carga y transporte de materiales a gran volumen en canteras y sitios de construcción. Model: New Holland W130C. Variant: 2. Condition: Nuevo. Year: 2023.",
+    "brand": "New Holland",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Cargador de Ruedas"
+    ],
+    "rating": 4.8,
+    "image_url": "https://imgs.search.brave.com/hicTqsrV4ZSakulttTI4rI07yQj_9pn5FCTHkvZf8B8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/Zm9yY29uc3RydWN0/aW9ucHJvcy5jb20v/ZmlsZXMvYmFzZS9h/Y2JtL2ZjcC9pbWFn/ZS8yMDEyLzA1L25l/d2hvbGxhbmR3MTMw/Y3doZWVsbG9hZGVy/d2l0aF8xMDcxMjM4/MS5wbmc_YXV0bz1m/b3JtYXQsY29tcHJl/c3MmcT03MCZ3PTQw/MA",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2023,
+      "weight_kg": 9769.56,
+      "power_hp": 416,
+      "bucket_capacity_m3": 1.88,
+      "brand": "New Holland",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 104133540,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 89019303,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 7
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ117",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "New Holland"
+  }
+]

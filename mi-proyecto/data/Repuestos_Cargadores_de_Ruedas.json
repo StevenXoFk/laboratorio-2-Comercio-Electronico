@@ -1,0 +1,1067 @@
+[
+  {
+    "title": "Cucharón para XCMG XC968-EV",
+    "description": "Cucharón de carga de alta resistencia para cargador de ruedas XCMG XC968-EV, fabricado en acero Hardox con dientes reemplazables.",
+    "brand": "XCMG",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Cucharones"
+    ],
+    "rating": 4.8,
+    "image_url": "https://www.xcmgglobal.com/upload/images/2025/03/15/bb9462d3aa0e40408d3ff83347ec0eec.png",
+    "facets": {
+      "compatible_models": [
+        "XCMG XC968-EV",
+        "XCMG ZL50GN"
+      ],
+      "material": "Acero Hardox 450",
+      "capacity_m3": 3.5,
+      "type": "Cucharón",
+      "condition": "Nuevo",
+      "brand": "XCMG",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "4M-7M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 5400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4752000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-CR-001",
+    "price_range_crc": "4M-7M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "Kit de Neumáticos para New Holland W130C",
+    "description": "Juego de 4 neumáticos para cargador de ruedas New Holland W130C, con banda de rodadura profunda para terrenos mixtos.",
+    "brand": "New Holland",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Neumáticos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://i.ebayimg.com/images/g/RywAAeSwYlJpXDQ~/s-l1200.webp",
+    "facets": {
+      "compatible_models": [
+        "New Holland W130C",
+        "New Holland W170"
+      ],
+      "size": "23.5R25",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "New Holland",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "3M-5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3432000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 10
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 20
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 6
+      }
+    ],
+    "objectID": "REP-CR-002",
+    "price_range_crc": "3M-5M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Cilindro de Levante para Hyundai HL940",
+    "description": "Cilindro hidráulico de levante para cargador de ruedas Hyundai HL940, fabricado en acero cromado con doble sellado.",
+    "brand": "Hyundai",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://pix.vanderhaags.com/1920/equip-hydraulic-cylinder-hl940-hyundai-958d3c2ac7.JPG",
+    "facets": {
+      "compatible_models": [
+        "Hyundai HL940",
+        "Hyundai HL770"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Levante",
+      "condition": "Reacondicionado",
+      "brand": "Hyundai",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "3M-6M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3872000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-CR-003",
+    "price_range_crc": "3M-6M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Hyundai"
+  },
+  {
+    "title": "Kit de Filtros para Komatsu WA320",
+    "description": "Kit completo de filtros para cargador de ruedas Komatsu WA320, incluye filtro de aceite, aire y combustible.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.8,
+    "image_url": "https://crossfilters.com/cdn/shop/products/KMSET02_1400x.jpg?v=1756827722",
+    "facets": {
+      "compatible_models": [
+        "Komatsu WA320",
+        "Komatsu WA470"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Komatsu",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "300K-600K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 396000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 25
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 45
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 18
+      }
+    ],
+    "objectID": "REP-CR-004",
+    "price_range_crc": "300K-600K",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Cucharón para JCB 427",
+    "description": "Cucharón de carga de alta resistencia para cargador de ruedas JCB 427, fabricado en acero Hardox con bordes de desgaste.",
+    "brand": "JCB",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Cucharones"
+    ],
+    "rating": 4.5,
+    "image_url": "https://image.made-in-china.com/202f0j00LNYlnVCBnWgr/Good-Price-Double-Flange-Jcb-Spare-Parts-3cx-4cx-53103205-Bucket-Teeth.webp",
+    "facets": {
+      "compatible_models": [
+        "JCB 427",
+        "JCB 437"
+      ],
+      "material": "Acero Hardox 450",
+      "capacity_m3": 4,
+      "type": "Cucharón",
+      "condition": "Nuevo",
+      "brand": "JCB",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6300000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5544000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 9
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-CR-005",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "JCB"
+  },
+  {
+    "title": "Kit de Neumáticos para Liebherr L 580 XPower",
+    "description": "Juego de 4 neumáticos para cargador de ruedas Liebherr L 580 XPower, con banda de rodadura para terrenos mineros.",
+    "brand": "Liebherr",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Neumáticos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://assets-cdn.liebherr.com/versions/b5811ef9-682a-482e-a22a-1d6c94bac574/thumbnail/",
+    "facets": {
+      "compatible_models": [
+        "Liebherr L 580 XPower",
+        "Liebherr L 550"
+      ],
+      "size": "26.5R25",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "Liebherr",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "4M-6M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4312000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 16
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-CR-006",
+    "price_range_crc": "4M-6M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Liebherr"
+  },
+  {
+    "title": "Motor de Giro para Liebherr L 550",
+    "description": "Motor de giro hidráulico para cargador de ruedas Liebherr L 550, con freno de estacionamiento integrado.",
+    "brand": "Liebherr",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Motores Hidráulicos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://image.made-in-china.com/365f3j00fcghLzonEObK/Motor-de-giro-de-excavadora-Liebherr-R944-piezas-de-repuesto-de-engranaje-de-giro-para-bomba-hidr-ulica.webp",
+    "facets": {
+      "compatible_models": [
+        "Liebherr L 550",
+        "Liebherr L 580"
+      ],
+      "type": "Motor de Giro",
+      "torque_nm": 380,
+      "condition": "Reacondicionado",
+      "brand": "Liebherr",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5632000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-CR-007",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Liebherr"
+  },
+  {
+    "title": "Cucharón para Volvo L150",
+    "description": "Cucharón de carga de alta resistencia para cargador de ruedas Volvo L150, fabricado en acero Hardox con dientes reemplazables.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Cucharones"
+    ],
+    "rating": 4.8,
+    "image_url": "https://www.volvoce.com/-/media/aprimo/images/large-wheel-loaders/missing-data-b/volvo-show-attachment-wheel-loader-buckets-rock-straight-edge-2324x12001.jpg?mh=422&mw=822&v=fGp8Pw&c=1&cw=816&ch=422&jq=70&hash=D90FFE013CAEEB0A15254D879B7F5027",
+    "facets": {
+      "compatible_models": [
+        "Volvo L150",
+        "Volvo L120"
+      ],
+      "material": "Acero Hardox 500",
+      "capacity_m3": 4.5,
+      "type": "Cucharón",
+      "condition": "Nuevo",
+      "brand": "Volvo CE",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "6M-10M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 7800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 6864000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-CR-008",
+    "price_range_crc": "6M-10M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Volvo CE"
+  },
+  {
+    "title": "Kit de Mantenimiento para Caterpillar 966",
+    "description": "Kit completo de mantenimiento para cargador de ruedas Caterpillar 966, incluye filtros, correas y bujías.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.7,
+    "image_url": "https://caterpillar.scene7.com/is/image/Caterpillar/CM20210609-db5db-58394?fit=wrap&fmt=webp&hei=1612&wid=2560",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 966",
+        "Caterpillar 980"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Mantenimiento",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "400K-700K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 550000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 484000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 20
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 35
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 12
+      }
+    ],
+    "objectID": "REP-CR-009",
+    "price_range_crc": "400K-700K",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Cilindro de Dirección para CASE 821G",
+    "description": "Cilindro hidráulico de dirección para cargador de ruedas CASE 821G, fabricado en acero cromado con doble sellado.",
+    "brand": "Case CE",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://agriquipo.com/16634-superlarge_default/cilindro-de-direccion-para-tractor-case-new-holland.jpg",
+    "facets": {
+      "compatible_models": [
+        "CASE 821G",
+        "CASE 721"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Dirección",
+      "condition": "Reacondicionado",
+      "brand": "Case CE",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "2.5M-4.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2992000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-CR-010",
+    "price_range_crc": "2.5M-4.5M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Cucharón para Komatsu WA470-8",
+    "description": "Cucharón de carga de alta resistencia para cargador de ruedas Komatsu WA470-8, fabricado en acero Hardox con dientes reemplazables.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Cucharones"
+    ],
+    "rating": 4.8,
+    "image_url": "https://img.equipmentworld.com/files/base/randallreilly/all/image/2015/07/eqw.Komatsu-WA470-8-wheel-loader-loading-HM300.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+    "facets": {
+      "compatible_models": [
+        "Komatsu WA470-8",
+        "Komatsu WA500"
+      ],
+      "material": "Acero Hardox 500",
+      "capacity_m3": 5,
+      "type": "Cucharón",
+      "condition": "Nuevo",
+      "brand": "Komatsu",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "7M-11M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 8800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 7744000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-CR-011",
+    "price_range_crc": "7M-11M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Kit de Neumáticos para XCMG ZL50GN",
+    "description": "Juego de 4 neumáticos para cargador de ruedas XCMG ZL50GN, con banda de rodadura para terrenos mixtos.",
+    "brand": "XCMG",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Neumáticos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://image.made-in-china.com/365f3j00VvyiFPzISArN/XCMG-Construction-Machinery-Parts-Zl50gn-5-Ton-Wheel-Loader-Spare-Parts.webp",
+    "facets": {
+      "compatible_models": [
+        "XCMG ZL50GN",
+        "XCMG XC968"
+      ],
+      "size": "23.5R25",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "XCMG",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "3M-5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3344000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 10
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 18
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 6
+      }
+    ],
+    "objectID": "REP-CR-012",
+    "price_range_crc": "3M-5M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "Bomba Hidráulica para New Holland W130C",
+    "description": "Bomba hidráulica principal para cargador de ruedas New Holland W130C, de pistones axiales con control de caudal.",
+    "brand": "New Holland",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Bombas Hidráulicas"
+    ],
+    "rating": 4.6,
+    "image_url": "https://media.fridayparts.com/media/catalog/product/h/y/hydraulic-pump-47773405-for-case-621g-621f-new-holland-w130-w130b-w130c-w130tc-loader.jpg?store=default&image-type=image&width=460&height=460",
+    "facets": {
+      "compatible_models": [
+        "New Holland W130C",
+        "New Holland W170"
+      ],
+      "type": "Bomba Hidráulica",
+      "flow_lpm": 280,
+      "condition": "Nuevo",
+      "brand": "New Holland",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5632000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-CR-013",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Kit de Rodamientos para Hyundai HL940",
+    "description": "Kit completo de rodamientos para ejes del cargador de ruedas Hyundai HL940, incluye 8 rodamientos de alta capacidad.",
+    "brand": "Hyundai",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Rodamientos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://m.media-amazon.com/images/I/61PoRSp4ZiL.jpg",
+    "facets": {
+      "compatible_models": [
+        "Hyundai HL940",
+        "Hyundai HL770"
+      ],
+      "type": "Kit de Rodamientos",
+      "condition": "Nuevo",
+      "brand": "Hyundai",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "1M-2M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1276000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 5,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 12
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 22
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 8
+      }
+    ],
+    "objectID": "REP-CR-014",
+    "price_range_crc": "1M-2M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Hyundai"
+  },
+  {
+    "title": "Cucharón para Caterpillar 966",
+    "description": "Cucharón de carga de alta resistencia para cargador de ruedas Caterpillar 966, fabricado en acero Hardox con bordes de desgaste.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Cucharones"
+    ],
+    "rating": 4.7,
+    "image_url": "https://apis.tracsa.com.mx/media/img/gallery/equipments/966_gc_-_uno.webp",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 966",
+        "Caterpillar 980"
+      ],
+      "material": "Acero Hardox 450",
+      "capacity_m3": 4,
+      "type": "Cucharón",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6500000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5720000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-CR-015",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Válvula de Control para Komatsu WA320",
+    "description": "Válvula de control hidráulico para cargador de ruedas Komatsu WA320, con actuador eléctrico y sistema de detección de carga.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Válvulas Hidráulicas"
+    ],
+    "rating": 4.7,
+    "image_url": "https://image.made-in-china.com/202f0j00QswTkNdGEUfA/Wheel-Loader-Komatsu-Wa320-3-Transmission-Control-Valve-714-07-16730.webp",
+    "facets": {
+      "compatible_models": [
+        "Komatsu WA320",
+        "Komatsu WA470"
+      ],
+      "type": "Válvula de Control",
+      "pressure_psi": 3200,
+      "condition": "Nuevo",
+      "brand": "Komatsu",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "4M-6M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4312000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-CR-016",
+    "price_range_crc": "4M-6M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Kit de Frenos para JCB 427",
+    "description": "Kit completo de frenos de disco para cargador de ruedas JCB 427, incluye discos, pastillas y cilindros de freno.",
+    "brand": "JCB",
+    "categories": [
+      "Repuestos",
+      "Cargador de Ruedas",
+      "Frenos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://i.ebayimg.com/images/g/4~MAAOSwMXdasNWW/s-l1200.webp",
+    "facets": {
+      "compatible_models": [
+        "JCB 427",
+        "JCB 437"
+      ],
+      "type": "Kit de Frenos",
+      "condition": "Nuevo",
+      "brand": "JCB",
+      "category": "Cargador de Ruedas",
+      "price_range_crc": "800K-1.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1100000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 968000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 5,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 10
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 18
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 6
+      }
+    ],
+    "objectID": "REP-CR-017",
+    "price_range_crc": "800K-1.5M",
+    "category_facet": "Cargador de Ruedas",
+    "brand_facet": "JCB"
+  }
+]

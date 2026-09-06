@@ -1,0 +1,1079 @@
+[
+  {
+    "title": "Tambor de Compactación para Caterpillar CS78",
+    "description": "Tambor de compactación vibratorio para compactadora Caterpillar CS78, fabricado en acero de alta resistencia al desgaste.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Tambores"
+    ],
+    "rating": 4.8,
+    "image_url": "https://www.petersoncat.com/sites/default/files/products/gallery/2024/05/31121-0.jpg",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar CS78",
+        "Caterpillar CS68"
+      ],
+      "material": "Acero de alta resistencia",
+      "width_m": 2.1,
+      "type": "Tambor de Compactación",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Compactadora",
+      "price_range_crc": "6M-10M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 7800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 6864000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-COM-001",
+    "price_range_crc": "6M-10M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Kit de Rodamientos para Sakai SW880",
+    "description": "Kit completo de rodamientos para tambor de compactadora Sakai SW880, incluye rodamientos y sellos de alta durabilidad.",
+    "brand": "Sakai",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Rodamientos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.lectura-specs.com/models/renamed/orig/tandem-vibration-rollers-sw880-sakai.jpg",
+    "facets": {
+      "compatible_models": [
+        "Sakai SW880",
+        "Sakai SW770"
+      ],
+      "type": "Kit de Rodamientos",
+      "condition": "Nuevo",
+      "brand": "Sakai",
+      "category": "Compactadora",
+      "price_range_crc": "800K-1.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1100000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 968000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 5,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 10
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 18
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 6
+      }
+    ],
+    "objectID": "REP-COM-002",
+    "price_range_crc": "800K-1.5M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Sakai"
+  },
+  {
+    "title": "Motor Vibratorio para Hamm HD+90",
+    "description": "Motor vibratorio para compactadora Hamm HD+90, con sistema de lubricación automática y control de frecuencia.",
+    "brand": "Hamm",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Motores Vibratorios"
+    ],
+    "rating": 4.7,
+    "image_url": "https://dobbsequipment.com/img/other_construction/HD-90i-VV-S.png",
+    "facets": {
+      "compatible_models": [
+        "Hamm HD+90",
+        "Hamm HD+80"
+      ],
+      "type": "Motor Vibratorio",
+      "frequency_hz": 50,
+      "condition": "Reacondicionado",
+      "brand": "Hamm",
+      "category": "Compactadora",
+      "price_range_crc": "4M-7M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 5400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4752000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-COM-003",
+    "price_range_crc": "4M-7M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Hamm"
+  },
+  {
+    "title": "Kit de Filtros para Bomag BW213",
+    "description": "Kit completo de filtros para compactadora Bomag BW213, incluye filtro de aceite, aire y combustible.",
+    "brand": "Bomag",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://holmfilters.com/media/product/image/K80-3524-HOL-a.png?h=585&w=585",
+    "facets": {
+      "compatible_models": [
+        "Bomag BW213",
+        "Bomag BW177"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Bomag",
+      "category": "Compactadora",
+      "price_range_crc": "200K-400K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 290000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 255200,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-COM-004",
+    "price_range_crc": "200K-400K",
+    "category_facet": "Compactadora",
+    "brand_facet": "Bomag"
+  },
+  {
+    "title": "Tambor de Compactación para Sakai SW880",
+    "description": "Tambor de compactación vibratorio para compactadora Sakai SW880, fabricado en acero de alta resistencia al desgaste.",
+    "brand": "Sakai",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Tambores"
+    ],
+    "rating": 4.7,
+    "image_url": "https://media.sandhills.com/img.axd?id=4057226429&wid=4326182721&rwl=False&p=&ext=&w=350&h=220&t=&lp=&c=True&wt=False&sz=Max&rt=0&checksum=Yit3yNEFEw9UxVfeLTe9NX05tf1oildi5xRU%2F6LkDd4%3D",
+    "facets": {
+      "compatible_models": [
+        "Sakai SW880",
+        "Sakai SW770"
+      ],
+      "material": "Acero de alta resistencia",
+      "width_m": 1.5,
+      "type": "Tambor de Compactación",
+      "condition": "Nuevo",
+      "brand": "Sakai",
+      "category": "Compactadora",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5632000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-COM-005",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Sakai"
+  },
+  {
+    "title": "Cilindro de Elevación para Caterpillar CS78",
+    "description": "Cilindro hidráulico de elevación para compactadora Caterpillar CS78, fabricado en acero cromado con doble sellado.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://media.fridayparts.com/media/catalog/product/h/o/hoist-cylinder-296-0738-for-caterpillar-cat-engine-c18-c27-truck-773g-775g-ad55b-ad60_1.jpeg?store=default&image-type=image",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar CS78",
+        "Caterpillar CS68"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Elevación",
+      "condition": "Reacondicionado",
+      "brand": "Caterpillar",
+      "category": "Compactadora",
+      "price_range_crc": "2M-3.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2600000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2288000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-COM-006",
+    "price_range_crc": "2M-3.5M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Kit de Mantenimiento para Hamm HD+90",
+    "description": "Kit completo de mantenimiento para compactadora Hamm HD+90, incluye filtros, correas y bujías.",
+    "brand": "Hamm",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.5,
+    "image_url": "https://parts.wirtgen-group.com/binary/full/o150932v5136_WG_freisteller_Filter_00001.jpeg",
+    "facets": {
+      "compatible_models": [
+        "Hamm HD+90",
+        "Hamm HD+80"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Correas"
+      ],
+      "type": "Kit de Mantenimiento",
+      "condition": "Nuevo",
+      "brand": "Hamm",
+      "category": "Compactadora",
+      "price_range_crc": "250K-500K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 350000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 308000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 25
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 40
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 15
+      }
+    ],
+    "objectID": "REP-COM-007",
+    "price_range_crc": "250K-500K",
+    "category_facet": "Compactadora",
+    "brand_facet": "Hamm"
+  },
+  {
+    "title": "Motor Vibratorio para Bomag BW213",
+    "description": "Motor vibratorio para compactadora Bomag BW213, con sistema de lubricación automática y control de frecuencia.",
+    "brand": "Bomag",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Motores Vibratorios"
+    ],
+    "rating": 4.6,
+    "image_url": "https://sc04.alicdn.com/kf/Ha5ca401129884e21b5b940c73b558429U/Bomag-BW-213-Drum-Roller-Center-Parts-of-Transfer-Engine-Hydraulic-Motor.jpg",
+    "facets": {
+      "compatible_models": [
+        "Bomag BW213",
+        "Bomag BW177"
+      ],
+      "type": "Motor Vibratorio",
+      "frequency_hz": 45,
+      "condition": "Reacondicionado",
+      "brand": "Bomag",
+      "category": "Compactadora",
+      "price_range_crc": "3.5M-6M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4500000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3960000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-COM-008",
+    "price_range_crc": "3.5M-6M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Bomag"
+  },
+  {
+    "title": "Tambor de Compactación para Hamm HD+90",
+    "description": "Tambor de compactación vibratorio para compactadora Hamm HD+90, fabricado en acero de alta resistencia al desgaste.",
+    "brand": "Hamm",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Tambores"
+    ],
+    "rating": 4.7,
+    "image_url": "https://www.wirtgen-group.com/binary/full/o5568v80_H258_HD_90_VV_KAB_tr_Kopie.png",
+    "facets": {
+      "compatible_models": [
+        "Hamm HD+90",
+        "Hamm HD+80"
+      ],
+      "material": "Acero de alta resistencia",
+      "width_m": 2.2,
+      "type": "Tambor de Compactación",
+      "condition": "Nuevo",
+      "brand": "Hamm",
+      "category": "Compactadora",
+      "price_range_crc": "6M-9M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 7200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 6336000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-COM-009",
+    "price_range_crc": "6M-9M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Hamm"
+  },
+  {
+    "title": "Kit de Filtros para Caterpillar CS78",
+    "description": "Kit completo de filtros para compactadora Caterpillar CS78, incluye filtro de aceite, aire y combustible.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://i.ebayimg.com/images/g/2CUAAOSwPRZnTrCp/s-l1200.png",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar CS78",
+        "Caterpillar CS68"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Compactadora",
+      "price_range_crc": "200K-400K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 280000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 246400,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-COM-010",
+    "price_range_crc": "200K-400K",
+    "category_facet": "Compactadora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Cilindro de Elevación para Bomag BW177",
+    "description": "Cilindro hidráulico de elevación para compactadora Bomag BW177, fabricado en acero cromado con doble sellado.",
+    "brand": "Bomag",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://image.made-in-china.com/202f0j00wOJlPRIKSNoQ/Bomag-Roller-Rubber-Mount-Shock-Absorber-Bw177-3-Bw-179-Bw-211-Bw-213-D-Bw-213-Dh.webp",
+    "facets": {
+      "compatible_models": [
+        "Bomag BW177",
+        "Bomag BW213"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Elevación",
+      "condition": "Reacondicionado",
+      "brand": "Bomag",
+      "category": "Compactadora",
+      "price_range_crc": "1.8M-3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2300000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2024000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-COM-011",
+    "price_range_crc": "1.8M-3M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Bomag"
+  },
+  {
+    "title": "Motor Vibratorio para Sakai SW880",
+    "description": "Motor vibratorio para compactadora Sakai SW880, con sistema de lubricación automática y control de frecuencia.",
+    "brand": "Sakai",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Motores Vibratorios"
+    ],
+    "rating": 4.6,
+    "image_url": "https://media.sandhills.com/img.axd?id=4057228063&wid=4326185391&rwl=False&p=&ext=&w=614&h=460&t=&lp=&c=True&wt=False&sz=Max&rt=0&checksum=TThT%2BdpjQpxu548Jh7oqw9kghGnJV2sJo3zwFi4RcJ4%3D",
+    "facets": {
+      "compatible_models": [
+        "Sakai SW880",
+        "Sakai SW770"
+      ],
+      "type": "Motor Vibratorio",
+      "frequency_hz": 48,
+      "condition": "Reacondicionado",
+      "brand": "Sakai",
+      "category": "Compactadora",
+      "price_range_crc": "4M-7M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 5400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4752000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-COM-012",
+    "price_range_crc": "4M-7M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Sakai"
+  },
+  {
+    "title": "Tambor de Compactación para Bomag BW177",
+    "description": "Tambor de compactación vibratorio para compactadora Bomag BW177, fabricado en acero de alta resistencia al desgaste.",
+    "brand": "Bomag",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Tambores"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.smsequipment.com/getattachment/05b36f3f-9993-4832-8b8c-ca6aa2749568/BW_177_DH-5_S.jpg",
+    "facets": {
+      "compatible_models": [
+        "Bomag BW177",
+        "Bomag BW213"
+      ],
+      "material": "Acero de alta resistencia",
+      "width_m": 1.8,
+      "type": "Tambor de Compactación",
+      "condition": "Nuevo",
+      "brand": "Bomag",
+      "category": "Compactadora",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5632000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-COM-013",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Bomag"
+  },
+  {
+    "title": "Kit de Mantenimiento para Sakai SW880",
+    "description": "Kit completo de mantenimiento para compactadora Sakai SW880, incluye filtros, correas y bujías.",
+    "brand": "Sakai",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.5,
+    "image_url": "https://m.media-amazon.com/images/I/51+6afqasFL._AC_UF350,350_QL50_.jpg",
+    "facets": {
+      "compatible_models": [
+        "Sakai SW880",
+        "Sakai SW770"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Correas"
+      ],
+      "type": "Kit de Mantenimiento",
+      "condition": "Nuevo",
+      "brand": "Sakai",
+      "category": "Compactadora",
+      "price_range_crc": "250K-500K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 350000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 308000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 25
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 40
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 15
+      }
+    ],
+    "objectID": "REP-COM-014",
+    "price_range_crc": "250K-500K",
+    "category_facet": "Compactadora",
+    "brand_facet": "Sakai"
+  },
+  {
+    "title": "Cilindro de Elevación para Hamm HD+90",
+    "description": "Cilindro hidráulico de elevación para compactadora Hamm HD+90, fabricado en acero cromado con doble sellado.",
+    "brand": "Hamm",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://www.wirtgen-group.com/binary/full/o247868v80_H30303_HDPlus90iVOKabine_transparent_001905_0002png.png",
+    "facets": {
+      "compatible_models": [
+        "Hamm HD+90",
+        "Hamm HD+80"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Elevación",
+      "condition": "Reacondicionado",
+      "brand": "Hamm",
+      "category": "Compactadora",
+      "price_range_crc": "2M-3.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2600000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2288000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-COM-015",
+    "price_range_crc": "2M-3.5M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Hamm"
+  },
+  {
+    "title": "Kit de Filtros para Hamm HD+90",
+    "description": "Kit completo de filtros para compactadora Hamm HD+90, incluye filtro de aceite, aire y combustible.",
+    "brand": "Hamm",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://parts.wirtgen-group.com/binary/full/o150932v5136_WG_freisteller_Filter_00001.jpeg",
+    "facets": {
+      "compatible_models": [
+        "Hamm HD+90",
+        "Hamm HD+80"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Hamm",
+      "category": "Compactadora",
+      "price_range_crc": "200K-400K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 280000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 246400,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-COM-016",
+    "price_range_crc": "200K-400K",
+    "category_facet": "Compactadora",
+    "brand_facet": "Hamm"
+  },
+  {
+    "title": "Motor Vibratorio para Caterpillar CS78",
+    "description": "Motor vibratorio para compactadora Caterpillar CS78, con sistema de lubricación automática y control de frecuencia.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Compactadora",
+      "Motores Vibratorios"
+    ],
+    "rating": 4.7,
+    "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20130806-07300-14622",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar CS78",
+        "Caterpillar CS68"
+      ],
+      "type": "Motor Vibratorio",
+      "frequency_hz": 52,
+      "condition": "Reacondicionado",
+      "brand": "Caterpillar",
+      "category": "Compactadora",
+      "price_range_crc": "4M-7M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 5500000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4840000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-COM-017",
+    "price_range_crc": "4M-7M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Caterpillar"
+  }
+]

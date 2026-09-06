@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Volvo A30G 2020",
+    "description": "Camión de volteo articulado para transporte de materiales pesados en terrenos difíciles y proyectos de minería. Model: Volvo A30G. Variant: 1. Condition: Usado. Year: 2020.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Transporte",
+      "Camiones de Volteo"
+    ],
+    "rating": 5,
+    "image_url": "https://im-mining.com/site/wp-content/uploads/2022/06/volvo-construction-equipment-fossil-free-1024x578.jpg",
+    "facets": {
+      "condition": "Usado",
+      "year": 2020,
+      "weight_kg": 37021,
+      "power_hp": 99,
+      "load_capacity_ton": 32.91,
+      "brand": "Volvo CE",
+      "category": "Camiones de Volteo",
+      "price_range_crc": "200M+"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 242031369,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 212987605,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 3
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ037",
+    "price_range_crc": "200M+",
+    "category_facet": "Camiones de Volteo",
+    "brand_facet": "Volvo CE"
+  },
+  {
+    "title": "John Deere 460E 2023",
+    "description": "Camión de volteo articulado para transporte de materiales pesados en terrenos difíciles y proyectos de minería. Model: John Deere 460E. Variant: 1. Condition: Nuevo. Year: 2023.",
+    "brand": "John Deere",
+    "categories": [
+      "Maquinaria Pesada",
+      "Transporte",
+      "Camiones de Volteo"
+    ],
+    "rating": 4.8,
+    "image_url": "https://photos.machinefinder.com/35/10060835/68010463_large_77586.jpg",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2023,
+      "weight_kg": 24119.95,
+      "power_hp": 195,
+      "load_capacity_ton": 48.29,
+      "brand": "John Deere",
+      "category": "Camiones de Volteo",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 130195073,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 114571662,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "MQ080",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Camiones de Volteo",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "XCMG XDA40 2018",
+    "description": "Camión de volteo articulado para transporte de materiales pesados en terrenos difíciles y proyectos de minería. Model: XCMG XDA40. Variant: 1. Condition: Reacondicionado. Year: 2018.",
+    "brand": "XCMG",
+    "categories": [
+      "Maquinaria Pesada",
+      "Transporte",
+      "Camiones de Volteo"
+    ],
+    "rating": 4.7,
+    "image_url": "https://imgs.search.brave.com/1rUh7FWcoP0uJUFzx0PMoTLYVULcYXTZJCOznFWVBkE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/d21lLmNuL3hjbWct/eGRhNDAveGNtZy14/ZGE0MC5qcGc",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2018,
+      "weight_kg": 19052.49,
+      "power_hp": 526,
+      "load_capacity_ton": 41.29,
+      "brand": "XCMG",
+      "category": "Camiones de Volteo",
+      "price_range_crc": "200M+"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 222697280,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 195973606,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ046",
+    "price_range_crc": "200M+",
+    "category_facet": "Camiones de Volteo",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "Case CE 340B 2022",
+    "description": "Camión de volteo articulado para transporte de materiales pesados en terrenos difíciles y proyectos de minería. Model: Case CE 340B. Variant: 1. Condition: Reacondicionado. Year: 2022.",
+    "brand": "Case CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Transporte",
+      "Camiones de Volteo"
+    ],
+    "rating": 4.4,
+    "image_url": "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/194c444ffc924389a98ecf0c9100f983",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2022,
+      "weight_kg": 36524.4,
+      "power_hp": 460,
+      "load_capacity_ton": 32.35,
+      "brand": "Case CE",
+      "category": "Camiones de Volteo",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 101619097,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 89424806,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "MQ085",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Camiones de Volteo",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Caterpillar 730 2023",
+    "description": "Camión de volteo articulado para transporte de materiales pesados en terrenos difíciles y proyectos de minería. Model: Caterpillar 730. Variant: 1. Condition: Reacondicionado. Year: 2023.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Maquinaria Pesada",
+      "Transporte",
+      "Camiones de Volteo"
+    ],
+    "rating": 4,
+    "image_url": "https://tse2.mm.bing.net/th/id/OIP.X2hOTQ3Awcl2dleTxPArsQHaGa",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2023,
+      "weight_kg": 14150,
+      "power_hp": 216,
+      "load_capacity_ton": 25.5,
+      "brand": "Caterpillar",
+      "category": "Camiones de Volteo",
+      "price_range_crc": "200M+"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 204885455,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 180299200,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "MQ024",
+    "price_range_crc": "200M+",
+    "category_facet": "Camiones de Volteo",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "New Holland DA30 2015",
+    "description": "Camión de volteo articulado para transporte de materiales pesados en terrenos difíciles y proyectos de minería. Model: New Holland DA30. Variant: 1. Condition: Reacondicionado. Year: 2015.",
+    "brand": "New Holland",
+    "categories": [
+      "Maquinaria Pesada",
+      "Transporte",
+      "Camiones de Volteo"
+    ],
+    "rating": 4,
+    "image_url": "https://www.demagro.com.ar/uploads/modelos/g_a4e7gum00_-_7630.jpg",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2015,
+      "weight_kg": 18864.91,
+      "power_hp": 490,
+      "load_capacity_ton": 32.89,
+      "brand": "New Holland",
+      "category": "Camiones de Volteo",
+      "price_range_crc": "200M+"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 236507128,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 208126272,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ049",
+    "price_range_crc": "200M+",
+    "category_facet": "Camiones de Volteo",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Komatsu HM300-5 2019",
+    "description": "Camión de volteo articulado para transporte de materiales pesados en terrenos difíciles y proyectos de minería. Model: Komatsu HM300-5. Variant: 1. Condition: Reacondicionado. Year: 2019.",
+    "brand": "Komatsu",
+    "categories": [
+      "Maquinaria Pesada",
+      "Transporte",
+      "Camiones de Volteo"
+    ],
+    "rating": 3.9,
+    "image_url": "https://www.komatsu.com/content/dam/komatsu/websites/global/images/equipment-product/marketing/trucks/articulated-haul-trucks/214091_hm300-5-glamour-web.jpg",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2019,
+      "weight_kg": 32302.27,
+      "power_hp": 72,
+      "load_capacity_ton": 27.69,
+      "brand": "Komatsu",
+      "category": "Camiones de Volteo",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 138290360,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 121695517,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 7
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ078",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Camiones de Volteo",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Volvo A30G 2020 v2",
+    "description": "Camión de volteo articulado para transporte de materiales pesados en terrenos difíciles y proyectos de minería. Model: Volvo A30G. Variant: 2. Condition: Usado. Year: 2020.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Transporte",
+      "Camiones de Volteo"
+    ],
+    "rating": 5,
+    "image_url": "https://www.vcesvolvo.com/wp-content/uploads/2022/05/a30g.jpg",
+    "facets": {
+      "condition": "Usado",
+      "year": 2020,
+      "weight_kg": 37021,
+      "power_hp": 99,
+      "load_capacity_ton": 32.91,
+      "brand": "Volvo CE",
+      "category": "Camiones de Volteo",
+      "price_range_crc": "200M+"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 222668859,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 189558968,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ104",
+    "price_range_crc": "200M+",
+    "category_facet": "Camiones de Volteo",
+    "brand_facet": "Volvo CE"
+  },
+  {
+    "title": "John Deere 410 P-Tier 2017",
+    "description": "Camión de volteo articulado para transporte de materiales pesados en terrenos difíciles y proyectos de minería. Model: John Deere 410 P-Tier. Variant: 1. Condition: Nuevo. Year: 2017.",
+    "brand": "John Deere",
+    "categories": [
+      "Maquinaria Pesada",
+      "Transporte",
+      "Camiones de Volteo"
+    ],
+    "rating": 3.8,
+    "image_url": "https://johndeere.widen.net/content/hredh1sm4x/webp/410p_r4x002938_rrd_1366x768_large_0de86f1167192068dcd5deb7b09771e87cfdc8cb.webp",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2017,
+      "weight_kg": 33995.74,
+      "power_hp": 523,
+      "load_capacity_ton": 37.92,
+      "brand": "John Deere",
+      "category": "Camiones de Volteo",
+      "price_range_crc": "150M-200M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 170417187,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 149967126,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "MQ057",
+    "price_range_crc": "150M-200M",
+    "category_facet": "Camiones de Volteo",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Volvo CE A30G 2019",
+    "description": "Camión de volteo articulado para transporte de materiales pesados en terrenos difíciles y proyectos de minería. Model: Volvo CE A30G. Variant: 1. Condition: Reacondicionado. Year: 2019.",
+    "brand": "Volvo CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Transporte",
+      "Camiones de Volteo"
+    ],
+    "rating": 3.7,
+    "image_url": "https://used.volvoce.com/_next/image?url=https%3A%2F%2Fused.volvoce.com%2Fpictures%2Fb7759a88-5ac4-4378-8bef-001ce1f07f20%2F374a33f9-8a2f-46a5-8648-763e9b737bac%2Fa30g%2F2019%2Fvolvo-a30g-ikekxoq.jpeg&w=3840&q=75",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2019,
+      "weight_kg": 49369.33,
+      "power_hp": 224,
+      "load_capacity_ton": 29.65,
+      "brand": "Volvo CE",
+      "category": "Camiones de Volteo",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 107247135,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 94377478,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "MQ079",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Camiones de Volteo",
+    "brand_facet": "Volvo CE"
+  }
+]

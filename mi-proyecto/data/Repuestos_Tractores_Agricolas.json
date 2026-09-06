@@ -1,0 +1,1080 @@
+[
+  {
+    "title": "Kit de Neumáticos para Tractor John Deere 8630",
+    "description": "Juego de 4 neumáticos agrícolas para tractor John Deere 8630, con banda de rodadura profunda para labores de campo.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Neumáticos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://johndeere.widen.net/content/2ekt9a1yax/webp/BLV10741_iso5.webp?w=300&h=300&position=c&color=ffffffff&quality=100&u=jq3ioy",
+    "facets": {
+      "compatible_models": [
+        "John Deere 8630",
+        "John Deere 8410"
+      ],
+      "size": "20.8R38",
+      "type": "Neumáticos Agrícolas",
+      "condition": "Nuevo",
+      "brand": "John Deere",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "3M-5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3432000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 15
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-TR-001",
+    "price_range_crc": "3M-5M",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Kit de Filtros para John Deere 6415",
+    "description": "Kit completo de filtros para tractor John Deere 6415, incluye filtro de aceite, aire y combustible.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://m.media-amazon.com/images/I/71oDXwtbjBL._AC_UF894,1000_QL80_.jpg",
+    "facets": {
+      "compatible_models": [
+        "John Deere 6415",
+        "John Deere 6420"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "John Deere",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "150K-300K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 220000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 193600,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 35
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 60
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 25
+      }
+    ],
+    "objectID": "REP-TR-002",
+    "price_range_crc": "150K-300K",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Cilindro de Levante para New Holland T6050",
+    "description": "Cilindro hidráulico de levante para tractor New Holland T6050, fabricado en acero cromado con doble sellado.",
+    "brand": "New Holland",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://www.tractorpartsasap.com/media/catalog/product/h/y/hydraulic-lift-cylinder-new-case-ih-47134496-156826_4u1q3ssbiakg.jpg?quality=85&bg-color=255,255,255&fit=bounds&height=&width=",
+    "facets": {
+      "compatible_models": [
+        "New Holland T6050",
+        "New Holland T6070"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Levante",
+      "condition": "Reacondicionado",
+      "brand": "New Holland",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "1.5M-3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1936000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-TR-003",
+    "price_range_crc": "1.5M-3M",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Kit de Neumáticos para Massey Ferguson 4708",
+    "description": "Juego de 4 neumáticos agrícolas para tractor Massey Ferguson 4708, con banda de rodadura para labores de campo.",
+    "brand": "Massey Ferguson",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Neumáticos"
+    ],
+    "rating": 4.5,
+    "image_url": "http://lanesharkusa.com/cdn/shop/files/john-deere-5095m-with-540m-loader-1515989.png?v=1786687149",
+    "facets": {
+      "compatible_models": [
+        "Massey Ferguson 4708",
+        "Massey Ferguson 4710"
+      ],
+      "size": "16.9R30",
+      "type": "Neumáticos Agrícolas",
+      "condition": "Nuevo",
+      "brand": "Massey Ferguson",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "2.5M-4M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2816000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 15
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-TR-004",
+    "price_range_crc": "2.5M-4M",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "Massey Ferguson"
+  },
+  {
+    "title": "Kit de Filtros para Case IH Farmall 55A",
+    "description": "Kit completo de filtros para tractor Case IH Farmall 55A, incluye filtro de aceite, aire y combustible.",
+    "brand": "Case IH",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.5,
+    "image_url": "https://m.media-amazon.com/images/I/71spTAcd8dL._AC_UF894,1000_QL80_.jpg",
+    "facets": {
+      "compatible_models": [
+        "Case IH Farmall 55A",
+        "Case IH Farmall 60A"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Case IH",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "150K-300K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 220000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 193600,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-TR-005",
+    "price_range_crc": "150K-300K",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "Case IH"
+  },
+  {
+    "title": "Cilindro de Dirección para John Deere 8630",
+    "description": "Cilindro hidráulico de dirección para tractor John Deere 8630, fabricado en acero cromado con doble sellado.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://m.media-amazon.com/images/I/31NH04UwjGL._AC_UF894,1000_QL80_.jpg",
+    "facets": {
+      "compatible_models": [
+        "John Deere 8630",
+        "John Deere 8410"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Dirección",
+      "condition": "Reacondicionado",
+      "brand": "John Deere",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "1.5M-3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1936000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-TR-006",
+    "price_range_crc": "1.5M-3M",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Kit de Neumáticos para Kubota M7060",
+    "description": "Juego de 4 neumáticos agrícolas para tractor Kubota M7060, con banda de rodadura para labores de campo.",
+    "brand": "Kubota",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Neumáticos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://i.ebayimg.com/images/g/FJQAAOSwAdxoNAEY/s-l500.jpg",
+    "facets": {
+      "compatible_models": [
+        "Kubota M7060",
+        "Kubota M6060"
+      ],
+      "size": "16.9R28",
+      "type": "Neumáticos Agrícolas",
+      "condition": "Nuevo",
+      "brand": "Kubota",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "2M-3.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2700000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2376000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 15
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-TR-007",
+    "price_range_crc": "2M-3.5M",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "Kubota"
+  },
+  {
+    "title": "Kit de Filtros para John Deere 8630",
+    "description": "Kit completo de filtros para tractor John Deere 8630, incluye filtro de aceite, aire y combustible.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://johndeere.widen.net/content/5q6hcbeevn/webp/AT534507_iso1.webp",
+    "facets": {
+      "compatible_models": [
+        "John Deere 8630",
+        "John Deere 8410"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "John Deere",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "150K-300K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 220000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 193600,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 35
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 60
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 25
+      }
+    ],
+    "objectID": "REP-TR-008",
+    "price_range_crc": "150K-300K",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Cilindro de Levante para Massey Ferguson 4708",
+    "description": "Cilindro hidráulico de levante para tractor Massey Ferguson 4708, fabricado en acero cromado con doble sellado.",
+    "brand": "Massey Ferguson",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://simagro.com.uy/wp-content/uploads/2019/10/3599859M1-SP-2.jpg",
+    "facets": {
+      "compatible_models": [
+        "Massey Ferguson 4708",
+        "Massey Ferguson 4710"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Levante",
+      "condition": "Reacondicionado",
+      "brand": "Massey Ferguson",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "1.2M-2.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1584000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-TR-009",
+    "price_range_crc": "1.2M-2.5M",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "Massey Ferguson"
+  },
+  {
+    "title": "Kit de Neumáticos para New Holland T6050",
+    "description": "Juego de 4 neumáticos agrícolas para tractor New Holland T6050, con banda de rodadura para labores de campo.",
+    "brand": "New Holland",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Neumáticos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://media.fridayparts.com/media/catalog/product/a/i/air-filter-kit-85821058-85821059-for-new-holland-wheel-loader-w110-tractor-t6010-t6020-t6030-t6040-t6050-ts110a-ts115a55_1_.jpg?store=default&image-type=image&width=460&height=460",
+    "facets": {
+      "compatible_models": [
+        "New Holland T6050",
+        "New Holland T6070"
+      ],
+      "size": "18.4R34",
+      "type": "Neumáticos Agrícolas",
+      "condition": "Nuevo",
+      "brand": "New Holland",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "2.8M-4.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3600000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3168000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-TR-010",
+    "price_range_crc": "2.8M-4.5M",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Kit de Filtros para Kubota M7060",
+    "description": "Kit completo de filtros para tractor Kubota M7060, incluye filtro de aceite, aire y combustible.",
+    "brand": "Kubota",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.5,
+    "image_url": "https://m.media-amazon.com/images/I/71eNnmrM60L._AC_UF894,1000_QL80_.jpg",
+    "facets": {
+      "compatible_models": [
+        "Kubota M7060",
+        "Kubota M6060"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Kubota",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "150K-300K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 220000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 193600,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-TR-011",
+    "price_range_crc": "150K-300K",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "Kubota"
+  },
+  {
+    "title": "Cilindro de Dirección para Case IH Farmall 55A",
+    "description": "Cilindro hidráulico de dirección para tractor Case IH Farmall 55A, fabricado en acero cromado con doble sellado.",
+    "brand": "Case IH",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://media.fridayparts.com/media/catalog/product/p/o/power-steering-cylinder-5165140-5189887-for-case-tractor-mxm120-mxm130-mxm140-mxu100_1_.jpeg?store=es&image-type=image&width=460&height=460",
+    "facets": {
+      "compatible_models": [
+        "Case IH Farmall 55A",
+        "Case IH Farmall 60A"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Dirección",
+      "condition": "Reacondicionado",
+      "brand": "Case IH",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "1M-2M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1276000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-TR-012",
+    "price_range_crc": "1M-2M",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "Case IH"
+  },
+  {
+    "title": "Kit de Neumáticos para John Deere 6415",
+    "description": "Juego de 4 neumáticos agrícolas para tractor John Deere 6415, con banda de rodadura para labores de campo.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Neumáticos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://media.tractorsupply.com/is/image/TractorSupplyCompany/2593363?wid=554&hei=554&qlt=90&fmt=jpeg&resMode=sharp2&op_usm=0.9,1.0,8,0",
+    "facets": {
+      "compatible_models": [
+        "John Deere 6415",
+        "John Deere 6420"
+      ],
+      "size": "16.9R30",
+      "type": "Neumáticos Agrícolas",
+      "condition": "Nuevo",
+      "brand": "John Deere",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "2.5M-4M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2816000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 15
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-TR-013",
+    "price_range_crc": "2.5M-4M",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Kit de Filtros para Massey Ferguson 4708",
+    "description": "Kit completo de filtros para tractor Massey Ferguson 4708, incluye filtro de aceite, aire y combustible.",
+    "brand": "Massey Ferguson",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.5,
+    "image_url": "https://i.ebayimg.com/images/g/n5sAAOSwzxNl6bQo/s-l400.jpg",
+    "facets": {
+      "compatible_models": [
+        "Massey Ferguson 4708",
+        "Massey Ferguson 4710"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Massey Ferguson",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "150K-300K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 220000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 193600,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-TR-014",
+    "price_range_crc": "150K-300K",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "Massey Ferguson"
+  },
+  {
+    "title": "Cilindro de Levante para Case IH Farmall 55A",
+    "description": "Cilindro hidráulico de levante para tractor Case IH Farmall 55A, fabricado en acero cromado con doble sellado.",
+    "brand": "Case IH",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://m.media-amazon.com/images/I/31l9sMCrzcL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+    "facets": {
+      "compatible_models": [
+        "Case IH Farmall 55A",
+        "Case IH Farmall 60A"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Levante",
+      "condition": "Reacondicionado",
+      "brand": "Case IH",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "1M-2M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1276000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-TR-015",
+    "price_range_crc": "1M-2M",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "Case IH"
+  },
+  {
+    "title": "Kit de Neumáticos para John Deere 8630 v2",
+    "description": "Juego de 4 neumáticos agrícolas para tractor John Deere 8630, con banda de rodadura para labores de campo.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Neumáticos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://res.cloudinary.com/greenfarmparts/image/fetch/fl_tiled,l_overlay,o_10/w_400/https://greenfarmparts.com/wp-content/uploads/2019/01/John-Deere-Tire-and-Wheel-Kit-BLV10858.jpg",
+    "facets": {
+      "compatible_models": [
+        "John Deere 8630",
+        "John Deere 8410"
+      ],
+      "size": "20.8R38",
+      "type": "Neumáticos Agrícolas",
+      "condition": "Nuevo",
+      "brand": "John Deere",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "3M-5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3432000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 15
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-TR-016",
+    "price_range_crc": "3M-5M",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Kit de Filtros para New Holland T6050",
+    "description": "Kit completo de filtros para tractor New Holland T6050, incluye filtro de aceite, aire y combustible.",
+    "brand": "New Holland",
+    "categories": [
+      "Repuestos",
+      "Tractor Agrícola",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://holmfilters.com/media/product/image/K80-6082-HOL-a.png?h=585&w=585",
+    "facets": {
+      "compatible_models": [
+        "New Holland T6050",
+        "New Holland T6070"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "New Holland",
+      "category": "Tractor Agrícola",
+      "price_range_crc": "150K-300K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 220000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 193600,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-TR-017",
+    "price_range_crc": "150K-300K",
+    "category_facet": "Tractor Agrícola",
+    "brand_facet": "New Holland"
+  }
+]

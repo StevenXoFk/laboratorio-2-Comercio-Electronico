@@ -1,0 +1,1075 @@
+[
+  {
+    "title": "Pluma Telescópica para Grove GMK3050",
+    "description": "Pluma telescópica de alta resistencia para grúa Grove GMK3050, fabricada en acero de alta resistencia con sistema de extensión hidráulico.",
+    "brand": "Grove",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Plumas"
+    ],
+    "rating": 4.9,
+    "image_url": "https://storage.bigge.com/webstorage/equipment/_1200x630_crop_center-center_82_none/GROVE-GMK3050.jpeg?mtime=1765828026",
+    "facets": {
+      "compatible_models": [
+        "Grove GMK3050",
+        "Grove GMK3060"
+      ],
+      "material": "Acero de alta resistencia",
+      "max_length_m": 40,
+      "type": "Pluma Telescópica",
+      "condition": "Nuevo",
+      "brand": "Grove",
+      "category": "Grúa",
+      "price_range_crc": "40M-60M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 49000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 43120000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-GR-001",
+    "price_range_crc": "40M-60M",
+    "category_facet": "Grúa",
+    "brand_facet": "Grove"
+  },
+  {
+    "title": "Motor de Giro para Zoomlion ZTC550",
+    "description": "Motor de giro hidráulico para grúa Zoomlion ZTC550, con freno de estacionamiento y sensor de posición integrado.",
+    "brand": "Zoomlion",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Motores de Giro"
+    ],
+    "rating": 4.7,
+    "image_url": "https://image.made-in-china.com/2f0j00MvQWJkUIJYRL/Excavator-Parts-Swing-Motor-Assy-Swing-Motor-for-Zoomlion-M5X180-for-Sany-Sy215-Sy225-Sy235-for-Liugong-LG925-Zl260.webp",
+    "facets": {
+      "compatible_models": [
+        "Zoomlion ZTC550",
+        "Zoomlion ZTC500"
+      ],
+      "type": "Motor de Giro",
+      "torque_nm": 650,
+      "condition": "Reacondicionado",
+      "brand": "Zoomlion",
+      "category": "Grúa",
+      "price_range_crc": "8M-12M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 9800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 8624000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-GR-002",
+    "price_range_crc": "8M-12M",
+    "category_facet": "Grúa",
+    "brand_facet": "Zoomlion"
+  },
+  {
+    "title": "Cilindro de Elevación para Liebherr LTM 1050-3.1",
+    "description": "Cilindro hidráulico de elevación para grúa Liebherr LTM 1050-3.1, fabricado en acero cromado con doble sellado y válvula de seguridad.",
+    "brand": "Liebherr",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.8,
+    "image_url": "https://img.linemedia.com/img/s/spare-part-hydraulic-cylinder-Liebherr-LTM-1050-3-1-boom-cylinder---1732088494052836013_common--24112009413089662900.jpg",
+    "facets": {
+      "compatible_models": [
+        "Liebherr LTM 1050-3.1",
+        "Liebherr LTM 1100"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Elevación",
+      "condition": "Reacondicionado",
+      "brand": "Liebherr",
+      "category": "Grúa",
+      "price_range_crc": "6M-10M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 7800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 6864000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-GR-003",
+    "price_range_crc": "6M-10M",
+    "category_facet": "Grúa",
+    "brand_facet": "Liebherr"
+  },
+  {
+    "title": "Kit de Filtros para Grove GMK3050",
+    "description": "Kit completo de filtros para grúa Grove GMK3050, incluye filtro de aceite, aire y combustible.",
+    "brand": "Grove",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://s.alicdn.com/@sc04/kf/H80be73ce32274f9da2600ead15eeaf44o/200537552/H80be73ce32274f9da2600ead15eeaf44o.jpg",
+    "facets": {
+      "compatible_models": [
+        "Grove GMK3050",
+        "Grove GMK3060"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Grove",
+      "category": "Grúa",
+      "price_range_crc": "400K-800K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 580000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 510400,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 20
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 35
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 12
+      }
+    ],
+    "objectID": "REP-GR-004",
+    "price_range_crc": "400K-800K",
+    "category_facet": "Grúa",
+    "brand_facet": "Grove"
+  },
+  {
+    "title": "Pluma Telescópica para Zoomlion ZTC550",
+    "description": "Pluma telescópica de alta resistencia para grúa Zoomlion ZTC550, fabricada en acero de alta resistencia con sistema de extensión hidráulico.",
+    "brand": "Zoomlion",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Plumas"
+    ],
+    "rating": 4.7,
+    "image_url": "https://image.made-in-china.com/2f0j00aeJTrwkMEAVQ/Zoomlion-Ztc550V532-55-Ton-RC-Crane-Telescopic-Boom-Truck-Crane.webp",
+    "facets": {
+      "compatible_models": [
+        "Zoomlion ZTC550",
+        "Zoomlion ZTC500"
+      ],
+      "material": "Acero de alta resistencia",
+      "max_length_m": 45,
+      "type": "Pluma Telescópica",
+      "condition": "Nuevo",
+      "brand": "Zoomlion",
+      "category": "Grúa",
+      "price_range_crc": "45M-65M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 54000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 47520000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 3
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-GR-005",
+    "price_range_crc": "45M-65M",
+    "category_facet": "Grúa",
+    "brand_facet": "Zoomlion"
+  },
+  {
+    "title": "Contrapeso para Liebherr LTM 1050-3.1",
+    "description": "Contrapeso de alta densidad para grúa Liebherr LTM 1050-3.1, fabricado en acero fundido con sistema de fijación rápida.",
+    "brand": "Liebherr",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Contrapesos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www-assets.liebherr.com/media/bu-media/lhbu-lwe/images/product-detail-pages/ltm-cranes/ltm-1050-3.1/liebherr-ltm-1050-3-1-hotspot-stage.jpg",
+    "facets": {
+      "compatible_models": [
+        "Liebherr LTM 1050-3.1",
+        "Liebherr LTM 1100"
+      ],
+      "material": "Acero fundido",
+      "weight_ton": 12,
+      "type": "Contrapeso",
+      "condition": "Nuevo",
+      "brand": "Liebherr",
+      "category": "Grúa",
+      "price_range_crc": "15M-25M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 19000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 16720000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-GR-006",
+    "price_range_crc": "15M-25M",
+    "category_facet": "Grúa",
+    "brand_facet": "Liebherr"
+  },
+  {
+    "title": "Motor de Giro para Grove GMK3050",
+    "description": "Motor de giro hidráulico para grúa Grove GMK3050, con freno de estacionamiento y sensor de posición integrado.",
+    "brand": "Grove",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Motores de Giro"
+    ],
+    "rating": 4.7,
+    "image_url": "https://img.linemedia.com/img/s/spare-part-swing-motor-Grove-GMK-3050-Slewing-gear---1769471096161580989_common--26012701445317193000.jpg",
+    "facets": {
+      "compatible_models": [
+        "Grove GMK3050",
+        "Grove GMK3060"
+      ],
+      "type": "Motor de Giro",
+      "torque_nm": 700,
+      "condition": "Reacondicionado",
+      "brand": "Grove",
+      "category": "Grúa",
+      "price_range_crc": "9M-14M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 11000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 9680000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-GR-007",
+    "price_range_crc": "9M-14M",
+    "category_facet": "Grúa",
+    "brand_facet": "Grove"
+  },
+  {
+    "title": "Kit de Filtros para Zoomlion ZTC550",
+    "description": "Kit completo de filtros para grúa Zoomlion ZTC550, incluye filtro de aceite, aire y combustible.",
+    "brand": "Zoomlion",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.5,
+    "image_url": "https://media.fridayparts.com/media/catalog/product/o/i/oil-refilling-filter-1010601571-for-zoomlion-boom-lift-zt88j-v3.jpg?store=default&image-type=image",
+    "facets": {
+      "compatible_models": [
+        "Zoomlion ZTC550",
+        "Zoomlion ZTC500"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Zoomlion",
+      "category": "Grúa",
+      "price_range_crc": "400K-800K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 580000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 510400,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 20
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 35
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 12
+      }
+    ],
+    "objectID": "REP-GR-008",
+    "price_range_crc": "400K-800K",
+    "category_facet": "Grúa",
+    "brand_facet": "Zoomlion"
+  },
+  {
+    "title": "Cilindro de Elevación para Grove GMK3050",
+    "description": "Cilindro hidráulico de elevación para grúa Grove GMK3050, fabricado en acero cromado con doble sellado y válvula de seguridad.",
+    "brand": "Grove",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://img.linemedia.com/img/s/spare-part-hydraulic-cylinder-Grove-GMK-3050-suspension-cylinder---1761262315573691080_common--25102402315508981900.jpg",
+    "facets": {
+      "compatible_models": [
+        "Grove GMK3050",
+        "Grove GMK3060"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Elevación",
+      "condition": "Reacondicionado",
+      "brand": "Grove",
+      "category": "Grúa",
+      "price_range_crc": "6M-10M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 7800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 6864000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-GR-009",
+    "price_range_crc": "6M-10M",
+    "category_facet": "Grúa",
+    "brand_facet": "Grove"
+  },
+  {
+    "title": "Pluma Telescópica para Liebherr LTM 1050-3.1",
+    "description": "Pluma telescópica de alta resistencia para grúa Liebherr LTM 1050-3.1, fabricada en acero de alta resistencia con sistema de extensión hidráulico.",
+    "brand": "Liebherr",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Plumas"
+    ],
+    "rating": 4.8,
+    "image_url": "https://cranepartsholland.com/wp-content/uploads/2021/11/liebherr-rope-pull-96dpi.jpg",
+    "facets": {
+      "compatible_models": [
+        "Liebherr LTM 1050-3.1",
+        "Liebherr LTM 1100"
+      ],
+      "material": "Acero de alta resistencia",
+      "max_length_m": 38,
+      "type": "Pluma Telescópica",
+      "condition": "Nuevo",
+      "brand": "Liebherr",
+      "category": "Grúa",
+      "price_range_crc": "38M-55M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 46000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 40480000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 3
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-GR-010",
+    "price_range_crc": "38M-55M",
+    "category_facet": "Grúa",
+    "brand_facet": "Liebherr"
+  },
+  {
+    "title": "Contrapeso para Grove GMK3050",
+    "description": "Contrapeso de alta densidad para grúa Grove GMK3050, fabricado en acero fundido con sistema de fijación rápida.",
+    "brand": "Grove",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Contrapesos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://media.sandhills.com/img.axd?id=9068027315&wid=4326185391&rwl=False&p=&ext=&w=350&h=220&t=&lp=&c=True&wt=False&sz=Cover&rt=0&checksum=4yVDt1cEgqZ57fNviPmtqBgafS%2BSXI4%2BAMc%2B4LdkiJ8%3D",
+    "facets": {
+      "compatible_models": [
+        "Grove GMK3050",
+        "Grove GMK3060"
+      ],
+      "material": "Acero fundido",
+      "weight_ton": 10,
+      "type": "Contrapeso",
+      "condition": "Nuevo",
+      "brand": "Grove",
+      "category": "Grúa",
+      "price_range_crc": "12M-20M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 15000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 13200000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-GR-011",
+    "price_range_crc": "12M-20M",
+    "category_facet": "Grúa",
+    "brand_facet": "Grove"
+  },
+  {
+    "title": "Motor de Giro para Liebherr LTM 1050-3.1",
+    "description": "Motor de giro hidráulico para grúa Liebherr LTM 1050-3.1, con freno de estacionamiento y sensor de posición integrado.",
+    "brand": "Liebherr",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Motores de Giro"
+    ],
+    "rating": 4.6,
+    "image_url": "https://assets-cdn.liebherr.com/versions/0ffcbebb-76cb-497f-b717-f522de55da06/web/",
+    "facets": {
+      "compatible_models": [
+        "Liebherr LTM 1050-3.1",
+        "Liebherr LTM 1100"
+      ],
+      "type": "Motor de Giro",
+      "torque_nm": 680,
+      "condition": "Reacondicionado",
+      "brand": "Liebherr",
+      "category": "Grúa",
+      "price_range_crc": "8M-12M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 9800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 8624000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-GR-012",
+    "price_range_crc": "8M-12M",
+    "category_facet": "Grúa",
+    "brand_facet": "Liebherr"
+  },
+  {
+    "title": "Kit de Filtros para Liebherr LTM 1050-3.1",
+    "description": "Kit completo de filtros para grúa Liebherr LTM 1050-3.1, incluye filtro de aceite, aire y combustible.",
+    "brand": "Liebherr",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://ricoeurope.com/699135-medium_default/liebherr-ltm-1055-3-2-filter-service-kit-w-liebherr-d-924-934-936-eng.jpg",
+    "facets": {
+      "compatible_models": [
+        "Liebherr LTM 1050-3.1",
+        "Liebherr LTM 1100"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Liebherr",
+      "category": "Grúa",
+      "price_range_crc": "400K-800K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 580000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 510400,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 20
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 35
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 12
+      }
+    ],
+    "objectID": "REP-GR-013",
+    "price_range_crc": "400K-800K",
+    "category_facet": "Grúa",
+    "brand_facet": "Liebherr"
+  },
+  {
+    "title": "Contrapeso para Zoomlion ZTC550",
+    "description": "Contrapeso de alta densidad para grúa Zoomlion ZTC550, fabricado en acero fundido con sistema de fijación rápida.",
+    "brand": "Zoomlion",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Contrapesos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://i.ytimg.com/vi/Nv_DEXPdcSM/mqdefault.jpg",
+    "facets": {
+      "compatible_models": [
+        "Zoomlion ZTC550",
+        "Zoomlion ZTC500"
+      ],
+      "material": "Acero fundido",
+      "weight_ton": 15,
+      "type": "Contrapeso",
+      "condition": "Nuevo",
+      "brand": "Zoomlion",
+      "category": "Grúa",
+      "price_range_crc": "18M-30M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 23000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 20240000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-GR-014",
+    "price_range_crc": "18M-30M",
+    "category_facet": "Grúa",
+    "brand_facet": "Zoomlion"
+  },
+  {
+    "title": "Cilindro de Elevación para Zoomlion ZTC550",
+    "description": "Cilindro hidráulico de elevación para grúa Zoomlion ZTC550, fabricado en acero cromado con doble sellado y válvula de seguridad.",
+    "brand": "Zoomlion",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://s.alicdn.com/@sc04/kf/H54600c29eda14cf98b0376718e46d599G/OEM-Arm-Boom-Bucket-Hydraulic-Cylinder-for-Zoomlion-Excavator-Construction-Machinery-Parts.png",
+    "facets": {
+      "compatible_models": [
+        "Zoomlion ZTC550",
+        "Zoomlion ZTC500"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Elevación",
+      "condition": "Reacondicionado",
+      "brand": "Zoomlion",
+      "category": "Grúa",
+      "price_range_crc": "6M-10M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 7800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 6864000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-GR-015",
+    "price_range_crc": "6M-10M",
+    "category_facet": "Grúa",
+    "brand_facet": "Zoomlion"
+  },
+  {
+    "title": "Pluma Telescópica para Grove GMK3050 v2",
+    "description": "Pluma telescópica de alta resistencia para grúa Grove GMK3050, fabricada en acero de alta resistencia con sistema de extensión hidráulico.",
+    "brand": "Grove",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Plumas"
+    ],
+    "rating": 4.8,
+    "image_url": "https://www.manitowoc.com/sites/default/files/media/divers/images/2020-01/GMK_3050-2_silhouette-transparent.png",
+    "facets": {
+      "compatible_models": [
+        "Grove GMK3050",
+        "Grove GMK3060"
+      ],
+      "material": "Acero de alta resistencia",
+      "max_length_m": 42,
+      "type": "Pluma Telescópica",
+      "condition": "Nuevo",
+      "brand": "Grove",
+      "category": "Grúa",
+      "price_range_crc": "42M-62M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 51000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 44880000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 3
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-GR-016",
+    "price_range_crc": "42M-62M",
+    "category_facet": "Grúa",
+    "brand_facet": "Grove"
+  },
+  {
+    "title": "Motor de Giro para Zoomlion ZTC550 v2",
+    "description": "Motor de giro hidráulico para grúa Zoomlion ZTC550, con freno de estacionamiento y sensor de posición integrado.",
+    "brand": "Zoomlion",
+    "categories": [
+      "Repuestos",
+      "Grúa",
+      "Motores de Giro"
+    ],
+    "rating": 4.7,
+    "image_url": "https://en-product.zoomlion.com/upload/images/2025/07/24/b5af416f686742f5a80db9fb71fbf1da.png",
+    "facets": {
+      "compatible_models": [
+        "Zoomlion ZTC550",
+        "Zoomlion ZTC500"
+      ],
+      "type": "Motor de Giro",
+      "torque_nm": 720,
+      "condition": "Reacondicionado",
+      "brand": "Zoomlion",
+      "category": "Grúa",
+      "price_range_crc": "9M-13M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 10500000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 9240000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-GR-017",
+    "price_range_crc": "9M-13M",
+    "category_facet": "Grúa",
+    "brand_facet": "Zoomlion"
+  }
+]

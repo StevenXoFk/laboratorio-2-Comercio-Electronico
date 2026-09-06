@@ -1,0 +1,1065 @@
+[
+  {
+    "title": "Hoja de Bulldozer para Caterpillar D8",
+    "description": "Hoja de bulldozer de alta resistencia para Caterpillar D8, fabricada en acero Hardox con refuerzos estructurales.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Hojas"
+    ],
+    "rating": 4.9,
+    "image_url": "https://image.made-in-china.com/202f0j00qFrhZjECnMpR/Bulldozer-Cutting-Edge-for-Caterpillar-D8-112-2474-1240-330-45-Dozer-Blade.webp",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar D8",
+        "Caterpillar D9"
+      ],
+      "material": "Acero Hardox 500",
+      "type": "Hoja de Bulldozer",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Bulldozer",
+      "price_range_crc": "8M-12M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 9800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 8624000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-BD-001",
+    "price_range_crc": "8M-12M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Kit de Orugas para John Deere 850K",
+    "description": "Juego de orugas de acero para bulldozer John Deere 850K, con eslabones y pernos de alta resistencia.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Orugas"
+    ],
+    "rating": 4.8,
+    "image_url": "https://hwpartstore.com/cdn/shop/products/JD-AH149814_0b7a2979-26e9-441e-b976-8115b032388e_700x.jpg?v=1633043068",
+    "facets": {
+      "compatible_models": [
+        "John Deere 850K",
+        "John Deere 850L"
+      ],
+      "material": "Acero templado",
+      "type": "Orugas",
+      "condition": "Nuevo",
+      "brand": "John Deere",
+      "category": "Bulldozer",
+      "price_range_crc": "4M-7M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 5400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4752000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 14
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-BD-002",
+    "price_range_crc": "4M-7M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Cuchilla de Desgaste para New Holland D150B",
+    "description": "Cuchilla de desgaste para hoja de bulldozer New Holland D150B, fabricada en acero de alta resistencia al desgaste.",
+    "brand": "New Holland",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Cuchillas"
+    ],
+    "rating": 4.7,
+    "image_url": "https://www.sj-get.com/wp-content/uploads/2026/02/86577173-New-Holland-Backhoe-Cutting-Edges.jpg",
+    "facets": {
+      "compatible_models": [
+        "New Holland D150B",
+        "New Holland D180C"
+      ],
+      "material": "Acero al manganeso",
+      "type": "Cuchilla de Desgaste",
+      "condition": "Nuevo",
+      "brand": "New Holland",
+      "category": "Bulldozer",
+      "price_range_crc": "1.5M-3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1936000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 5,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 12
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 22
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 8
+      }
+    ],
+    "objectID": "REP-BD-003",
+    "price_range_crc": "1.5M-3M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Kit de Mantenimiento para XCMG TY160",
+    "description": "Kit completo de mantenimiento para bulldozer XCMG TY160, incluye filtros, correas y bujías de alta calidad.",
+    "brand": "XCMG",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://image.made-in-china.com/202f0j00RgokvbelZhrj/XCMG-Genuine-Wholesale-Consumable-Wheel-Loader-Spare-Parts-for-Sale.webp",
+    "facets": {
+      "compatible_models": [
+        "XCMG TY160",
+        "XCMG TY320"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible",
+        "Correas"
+      ],
+      "type": "Kit de Mantenimiento",
+      "condition": "Nuevo",
+      "brand": "XCMG",
+      "category": "Bulldozer",
+      "price_range_crc": "400K-800K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 580000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 510400,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 20
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 35
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 12
+      }
+    ],
+    "objectID": "REP-BD-004",
+    "price_range_crc": "400K-800K",
+    "category_facet": "Bulldozer",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "Cilindro de Elevación para Komatsu D155",
+    "description": "Cilindro hidráulico de elevación para bulldozer Komatsu D155, fabricado en acero cromado con doble sellado.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.8,
+    "image_url": "https://image.made-in-china.com/202f0j00fJcbFmMRrQpB/Komatsu-Dozer-Hydraulic-Lift-Cylinder-for-D155ax6-Rod-Parts.webp",
+    "facets": {
+      "compatible_models": [
+        "Komatsu D155",
+        "Komatsu D85"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Elevación",
+      "condition": "Reacondicionado",
+      "brand": "Komatsu",
+      "category": "Bulldozer",
+      "price_range_crc": "5M-9M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5984000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-BD-005",
+    "price_range_crc": "5M-9M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Ripper para Shantui SD16",
+    "description": "Ripper (desgarrador) de tres dientes para bulldozer Shantui SD16, fabricado en acero de alta resistencia al impacto.",
+    "brand": "Shantui",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Rippers"
+    ],
+    "rating": 4.5,
+    "image_url": "https://image.made-in-china.com/2f0j00RSgaWkIhvPpo/Shantui-Chain-SD16-Tractors-Bulldozers-Ripper.webp",
+    "facets": {
+      "compatible_models": [
+        "Shantui SD16",
+        "Shantui SD22"
+      ],
+      "material": "Acero Hardox 450",
+      "type": "Ripper",
+      "condition": "Nuevo",
+      "brand": "Shantui",
+      "category": "Bulldozer",
+      "price_range_crc": "6M-10M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 7800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 6864000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 7
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-BD-006",
+    "price_range_crc": "6M-10M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Shantui"
+  },
+  {
+    "title": "Kit de Rodillos para John Deere 750K",
+    "description": "Kit completo de rodillos inferiores para bulldozer John Deere 750K, incluye 10 rodillos con sellos y rodamientos.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Rodillos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://hwpartstore.com/cdn/shop/products/JD-AH212097_d7097ce4-2e39-407a-ac61-ada085af6a4e_700x.jpg?v=1633055835",
+    "facets": {
+      "compatible_models": [
+        "John Deere 750K",
+        "John Deere 850K"
+      ],
+      "material": "Acero templado",
+      "type": "Kit de Rodillos",
+      "condition": "Nuevo",
+      "brand": "John Deere",
+      "category": "Bulldozer",
+      "price_range_crc": "3M-5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3344000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 16
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-BD-007",
+    "price_range_crc": "3M-5M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Hoja de Bulldozer para JCB 3CX",
+    "description": "Hoja frontal para bulldozer JCB 3CX, fabricada en acero de alta resistencia con refuerzos estructurales y bordes de desgaste.",
+    "brand": "JCB",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Hojas"
+    ],
+    "rating": 4.6,
+    "image_url": "https://i.ebayimg.com/images/g/KqwAAOSwEDBdAELx/s-l1200.jpg",
+    "facets": {
+      "compatible_models": [
+        "JCB 3CX",
+        "JCB 4CX"
+      ],
+      "material": "Acero Hardox 450",
+      "type": "Hoja de Bulldozer",
+      "condition": "Nuevo",
+      "brand": "JCB",
+      "category": "Bulldozer",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5632000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-BD-008",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "JCB"
+  },
+  {
+    "title": "Filtro Hidráulico para New Holland D180C",
+    "description": "Filtro hidráulico de alta eficiencia para bulldozer New Holland D180C, con elemento filtrante de microfibra.",
+    "brand": "New Holland",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Filtros"
+    ],
+    "rating": 4.5,
+    "image_url": "https://i.ebayimg.com/images/g/RXUAAOSw9NhmWm~r/s-l400.jpg",
+    "facets": {
+      "compatible_models": [
+        "New Holland D180C",
+        "New Holland D150B"
+      ],
+      "type": "Filtro Hidráulico",
+      "filtration_microns": 10,
+      "condition": "Nuevo",
+      "brand": "New Holland",
+      "category": "Bulldozer",
+      "price_range_crc": "200K-400K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 280000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 246400,
+        "min_order_quantity": 5,
+        "volume_discounts": [
+          {
+            "min_units": 10,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 20,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 40
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 65
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 25
+      }
+    ],
+    "objectID": "REP-BD-009",
+    "price_range_crc": "200K-400K",
+    "category_facet": "Bulldozer",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Kit de Orugas para Komatsu D85",
+    "description": "Juego de orugas de acero para bulldozer Komatsu D85, con eslabones y pernos de alta resistencia para condiciones extremas.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Orugas"
+    ],
+    "rating": 4.7,
+    "image_url": "https://s.alicdn.com/@sc04/kf/Hc316aa39ab85465baa676420a7c88673s/Komatsu-D85-Dozer-Undercarriage-Parts-Track-Chain-Shoe-Assembly-Bottom-Roller-Sprocket-Front-Idler-Top-Carrier-Roller.png_300x300.jpg",
+    "facets": {
+      "compatible_models": [
+        "Komatsu D85",
+        "Komatsu D155"
+      ],
+      "material": "Acero templado",
+      "type": "Orugas",
+      "condition": "Nuevo",
+      "brand": "Komatsu",
+      "category": "Bulldozer",
+      "price_range_crc": "4M-6M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4312000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-BD-010",
+    "price_range_crc": "4M-6M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Cuchilla de Desgaste para CASE 1150M",
+    "description": "Cuchilla de desgaste para hoja de bulldozer CASE 1150M, fabricada en acero de alta resistencia al desgaste.",
+    "brand": "Case CE",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Cuchillas"
+    ],
+    "rating": 4.5,
+    "image_url": "http://hwpartstore.com/cdn/shop/collections/1d5195045f404ab7adb2e5946a667989.jpg?v=1635414495",
+    "facets": {
+      "compatible_models": [
+        "CASE 1150M",
+        "CASE 850"
+      ],
+      "material": "Acero al manganeso",
+      "type": "Cuchilla de Desgaste",
+      "condition": "Nuevo",
+      "brand": "Case CE",
+      "category": "Bulldozer",
+      "price_range_crc": "1.8M-3.2M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2112000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 5,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 10
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 18
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 6
+      }
+    ],
+    "objectID": "REP-BD-011",
+    "price_range_crc": "1.8M-3.2M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Cilindro de Inclinación para Caterpillar D9",
+    "description": "Cilindro hidráulico de inclinación para bulldozer Caterpillar D9, con válvula de control integrada y doble sellado.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.8,
+    "image_url": "https://sc04.alicdn.com/kf/H7daa7a6ef00943b596d0b06bf1e17b637.jpg",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar D9",
+        "Caterpillar D8"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Inclinación",
+      "condition": "Reacondicionado",
+      "brand": "Caterpillar",
+      "category": "Bulldozer",
+      "price_range_crc": "6M-10M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 7800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 6864000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 7
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-BD-012",
+    "price_range_crc": "6M-10M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Kit de Rodillos para John Deere 850K",
+    "description": "Kit completo de rodillos superiores e inferiores para bulldozer John Deere 850K, con sellos de alta durabilidad.",
+    "brand": "John Deere",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Rodillos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://hwpartstore.com/cdn/shop/products/JD-AH149814_0b7a2979-26e9-441e-b976-8115b032388e_700x.jpg?v=1633043068",
+    "facets": {
+      "compatible_models": [
+        "John Deere 850K",
+        "John Deere 850L"
+      ],
+      "material": "Acero templado",
+      "type": "Kit de Rodillos",
+      "condition": "Nuevo",
+      "brand": "John Deere",
+      "category": "Bulldozer",
+      "price_range_crc": "3.5M-5.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4300000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3784000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 7
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 15
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-BD-013",
+    "price_range_crc": "3.5M-5.5M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Hoja de Bulldozer para XCMG TY320",
+    "description": "Hoja de bulldozer de alta resistencia para XCMG TY320, fabricada en acero Hardox con refuerzos estructurales.",
+    "brand": "XCMG",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Hojas"
+    ],
+    "rating": 4.5,
+    "image_url": "https://image.made-in-china.com/202f0j00mMIkecvBklbt/for-XCMG-Bulldozer-Engine-Parts-Spare-Parts-Series-Balance-Beam-16Y-05-00005-.webp",
+    "facets": {
+      "compatible_models": [
+        "XCMG TY320",
+        "XCMG TY160"
+      ],
+      "material": "Acero Hardox 500",
+      "type": "Hoja de Bulldozer",
+      "condition": "Nuevo",
+      "brand": "XCMG",
+      "category": "Bulldozer",
+      "price_range_crc": "7M-11M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 8800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 7744000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-BD-014",
+    "price_range_crc": "7M-11M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "Kit de Mantenimiento para Caterpillar D6T",
+    "description": "Kit completo de mantenimiento para bulldozer Caterpillar D6T, incluye filtros, correas y bujías de alta calidad.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://media.fridayparts.com/media/catalog/product/o/v/overhaul-rebuild-kit-for-caterpillar-cat-engine-c-9-tractor-586c-d6r-d6r2-d6t-d7r.jpg?store=default&image-type=image&width=460&height=460",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar D6T",
+        "Caterpillar D7"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Mantenimiento",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Bulldozer",
+      "price_range_crc": "350K-700K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 520000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 457600,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 22
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 38
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 15
+      }
+    ],
+    "objectID": "REP-BD-015",
+    "price_range_crc": "350K-700K",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Bomba de Agua para Komatsu D155",
+    "description": "Bomba de agua para bulldozer Komatsu D155, fabricada en aluminio de alta resistencia con rodamientos sellados.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Bombas"
+    ],
+    "rating": 4.5,
+    "image_url": "https://m.media-amazon.com/images/I/51TFn69geRL.jpg",
+    "facets": {
+      "compatible_models": [
+        "Komatsu D155",
+        "Komatsu D85"
+      ],
+      "material": "Aluminio de alta resistencia",
+      "type": "Bomba de Agua",
+      "condition": "Nuevo",
+      "brand": "Komatsu",
+      "category": "Bulldozer",
+      "price_range_crc": "800K-1.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1100000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 968000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 5,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 16
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-BD-016",
+    "price_range_crc": "800K-1.5M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Ripper para Caterpillar D8",
+    "description": "Ripper (desgarrador) de un diente para bulldozer Caterpillar D8, fabricado en acero de alta resistencia al impacto.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Bulldozer",
+      "Rippers"
+    ],
+    "rating": 4.7,
+    "image_url": "https://smitma-img.azureedge.net/item-images/CATERPILLAR-D8R%20Multi%20Shank%20Ripper-2026-908201-14-L.webp",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar D8",
+        "Caterpillar D9"
+      ],
+      "material": "Acero Hardox 500",
+      "type": "Ripper",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Bulldozer",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5456000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 9
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-BD-017",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Caterpillar"
+  }
+]

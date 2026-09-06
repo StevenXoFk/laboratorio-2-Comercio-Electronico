@@ -1,0 +1,902 @@
+[
+  {
+    "title": "Case CE TX100-40 2021",
+    "description": "Montacargas industrial para manejo eficiente de materiales en bodegas, centros de distribución y patios de carga. Model: Case CE TX100-40. Variant: 1. Condition: Nuevo. Year: 2021.",
+    "brand": "Case CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Manejo de Materiales",
+      "Montacargas"
+    ],
+    "rating": 5,
+    "image_url": "https://img.equipmentworld.com/files/base/randallreilly/all/image/2021/10/My_Post.61576aad43257.png?auto=format%2Ccompress&h=630&q=70&w=1200",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2021,
+      "weight_kg": 24933.81,
+      "power_hp": 147,
+      "load_capacity_kg": 11705.05,
+      "brand": "Case CE",
+      "category": "Montacargas",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 26244140,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 23094843,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 3
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "MQ047",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Mitsubishi FD100N 2016",
+    "description": "Montacargas industrial para manejo eficiente de materiales en bodegas, centros de distribución y patios de carga. Model: Mitsubishi FD100N. Variant: 1. Condition: Nuevo. Year: 2016.",
+    "brand": "Mitsubishi",
+    "categories": [
+      "Maquinaria Pesada",
+      "Manejo de Materiales",
+      "Montacargas"
+    ],
+    "rating": 4.7,
+    "image_url": "https://www.gwequip.com/wp-content/uploads/2021/05/mit-fd100n-160an-banner.png",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2016,
+      "weight_kg": 17795.75,
+      "power_hp": 154,
+      "load_capacity_kg": 10867.05,
+      "brand": "Mitsubishi",
+      "category": "Montacargas",
+      "price_range_crc": "0-25M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 24059942,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 21172752,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ094",
+    "price_range_crc": "0-25M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Mitsubishi"
+  },
+  {
+    "title": "Caterpillar DP90N 2016",
+    "description": "Montacargas industrial para manejo eficiente de materiales en bodegas, centros de distribución y patios de carga. Model: Caterpillar DP90N. Variant: 1. Condition: Reacondicionado. Year: 2016.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Maquinaria Pesada",
+      "Manejo de Materiales",
+      "Montacargas"
+    ],
+    "rating": 4.5,
+    "image_url": "https://www.lectura-specs.com/models/renamed/orig/front-forklifts-diesel-dp90n-caterpillar.jpg",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2016,
+      "weight_kg": 14725.97,
+      "power_hp": 432,
+      "load_capacity_kg": 9777.03,
+      "brand": "Caterpillar",
+      "category": "Montacargas",
+      "price_range_crc": "0-25M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 16097546,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 14165840,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 7
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ097",
+    "price_range_crc": "0-25M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Mitsubishi FG25N 2026",
+    "description": "Montacargas industrial para manejo eficiente de materiales en bodegas, centros de distribución y patios de carga. Model: Mitsubishi FG25N. Variant: 1. Condition: Nuevo. Year: 2026.",
+    "brand": "Mitsubishi",
+    "categories": [
+      "Maquinaria Pesada",
+      "Manejo de Materiales",
+      "Montacargas"
+    ],
+    "rating": 4.5,
+    "image_url": "https://tse4.mm.bing.net/th/id/OIP.Z3uNO9nTnTpMW3sDSH-PQAHaFj",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2026,
+      "weight_kg": 10161,
+      "power_hp": 133,
+      "load_capacity_kg": 3664.82,
+      "brand": "Mitsubishi",
+      "category": "Montacargas",
+      "price_range_crc": "0-25M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 22071868,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 19423244,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ039",
+    "price_range_crc": "0-25M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Mitsubishi"
+  },
+  {
+    "title": "Komatsu FD30T-16 2017",
+    "description": "Montacargas industrial para manejo eficiente de materiales en bodegas, centros de distribución y patios de carga. Model: Komatsu FD30T-16. Variant: 1. Condition: Nuevo. Year: 2017.",
+    "brand": "Komatsu",
+    "categories": [
+      "Maquinaria Pesada",
+      "Manejo de Materiales",
+      "Montacargas"
+    ],
+    "rating": 4.3,
+    "image_url": "https://komatsu.com.ru/wp-content/uploads/2022/12/27271small.jpeg",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2017,
+      "weight_kg": 40401,
+      "power_hp": 137,
+      "load_capacity_kg": 5525.22,
+      "brand": "Komatsu",
+      "category": "Montacargas",
+      "price_range_crc": "0-25M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 15337156,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 13496699,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ095",
+    "price_range_crc": "0-25M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Komatsu FD160E-7 2017",
+    "description": "Montacargas industrial para manejo eficiente de materiales en bodegas, centros de distribución y patios de carga. Model: Komatsu FD160E-7. Variant: 1. Condition: Nuevo. Year: 2017.",
+    "brand": "Komatsu",
+    "categories": [
+      "Maquinaria Pesada",
+      "Manejo de Materiales",
+      "Montacargas"
+    ],
+    "rating": 4.3,
+    "image_url": "https://imgs.search.brave.com/3ZkNEhENoAQg7lwtX8t34TYQ63dQq21vZVun1-TDf4Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/bGluZW1lZGlhLmNv/bS9pbWcvcy9tYXRl/cmlhbC1oYW5kbGlu/Zy1lcXVpcG1lbnQt/aGlnaC1jYXBhY2l0/eS1mb3JrbGlmdC1L/b21hdHN1LUZEMTYw/RS04LS0tMTc0OTA0/NjM1MzI4ODQyNDc2/NV9jb21tb24tLTI1/MDYwNDE3MTIzMTE5/NTM0ODAwLmpwZw",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2017,
+      "weight_kg": 16235.79,
+      "power_hp": 298,
+      "load_capacity_kg": 11277.24,
+      "brand": "Komatsu",
+      "category": "Montacargas",
+      "price_range_crc": "0-25M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 23933369,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 21061362,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 7
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "MQ048",
+    "price_range_crc": "0-25M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Bobcat B25NS 2026",
+    "description": "Montacargas industrial para manejo eficiente de materiales en bodegas, centros de distribución y patios de carga. Model: Bobcat B25NS. Variant: 1. Condition: Nuevo. Year: 2026.",
+    "brand": "Bobcat",
+    "categories": [
+      "Maquinaria Pesada",
+      "Manejo de Materiales",
+      "Montacargas"
+    ],
+    "rating": 4.2,
+    "image_url": "https://imgs.search.brave.com/Wc7loAIJIFKHx08pXqOhpGFJDWHJFE44Xe7ErnjUIFA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vZG9vc2FuLWJv/YmNhdC9pbWFnZS91/cGxvYWQvYXJfMS41/LGNfZmlsbCxmX2F1/dG8sZ19hdXRvLHFf/YXV0byx3XzQ4MC92/MTc2MzA1NDE4Ni9i/b2JjYXQtYXNzZXRz/L2VtZWEtYXBwcm92/ZWQvYnV5ZXJzLWd1/aWRlcy9wcm9kdWN0/LXRlc3RzLzIwMjUx/MTEzLWJvYmNhdC1l/bWVhLXByb2R1Y3Qt/dGVzdHMtbG9naXN0/aWNzLWluc2lkZS1i/MjVucy8yMDI1MTEx/My1ib2JjYXQtZW1l/YS1wcm9kdWN0LXRl/c3RzLWxvZ2lzdGlj/cy1pbnNpZGUtYjI1/bnM",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2026,
+      "weight_kg": 30668.48,
+      "power_hp": 166,
+      "load_capacity_kg": 6869.58,
+      "brand": "Bobcat",
+      "category": "Montacargas",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 25847042,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 22745398,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ069",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Bobcat"
+  },
+  {
+    "title": "Caterpillar GP25N 2020",
+    "description": "Montacargas industrial para manejo eficiente de materiales en bodegas, centros de distribución y patios de carga. Model: Caterpillar GP25N. Variant: 1. Condition: Nuevo. Year: 2020.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Maquinaria Pesada",
+      "Manejo de Materiales",
+      "Montacargas"
+    ],
+    "rating": 4.1,
+    "image_url": "https://tse1.mm.bing.net/th/id/OIP.Xy-KzxSVuItaSh0GDIf3OwHaJ4",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2020,
+      "weight_kg": 8087,
+      "power_hp": 530,
+      "load_capacity_kg": 1857.74,
+      "brand": "Caterpillar",
+      "category": "Montacargas",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 32849773,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 28907800,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 3
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ027",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Hyster H50FT 2025",
+    "description": "Montacargas industrial para manejo eficiente de materiales en bodegas, centros de distribución y patios de carga. Model: Hyster H50FT. Variant: 1. Condition: Usado. Year: 2025.",
+    "brand": "Hyster",
+    "categories": [
+      "Maquinaria Pesada",
+      "Manejo de Materiales",
+      "Montacargas"
+    ],
+    "rating": 4,
+    "image_url": "https://tse1.mm.bing.net/th/id/OIP.KRyTLaiaoBe2GCVntW0r3gHaFk",
+    "facets": {
+      "condition": "Usado",
+      "year": 2025,
+      "weight_kg": 33077,
+      "power_hp": 549,
+      "load_capacity_kg": 2253.6,
+      "brand": "Hyster",
+      "category": "Montacargas",
+      "price_range_crc": "0-25M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 14312948,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 12595394,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ025",
+    "price_range_crc": "0-25M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Hyster"
+  },
+  {
+    "title": "Doosan D50S-7 2015",
+    "description": "Montacargas industrial para manejo eficiente de materiales en bodegas, centros de distribución y patios de carga. Model: Doosan D50S-7. Variant: 1. Condition: Nuevo. Year: 2015.",
+    "brand": "Doosan",
+    "categories": [
+      "Maquinaria Pesada",
+      "Manejo de Materiales",
+      "Montacargas"
+    ],
+    "rating": 3.9,
+    "image_url": "https://www.tvh.com/sites/tvh/files/inline-images/Electric%20forklift%20models.png",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2015,
+      "weight_kg": 34341.67,
+      "power_hp": 140,
+      "load_capacity_kg": 14512.47,
+      "brand": "Doosan",
+      "category": "Montacargas",
+      "price_range_crc": "0-25M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 12609194,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 11096093,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ096",
+    "price_range_crc": "0-25M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Doosan"
+  },
+  {
+    "title": "Doosan G35NC-7 2024",
+    "description": "Montacargas industrial para manejo eficiente de materiales en bodegas, centros de distribución y patios de carga. Model: Doosan G35NC-7. Variant: 1. Condition: Reacondicionado. Year: 2024.",
+    "brand": "Doosan",
+    "categories": [
+      "Maquinaria Pesada",
+      "Manejo de Materiales",
+      "Montacargas"
+    ],
+    "rating": 3.8,
+    "image_url": "https://www.forkliftplus.com/wp-content/uploads/2024/02/Doosan-G35NC-7-01-1.jpg",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2024,
+      "weight_kg": 14781.12,
+      "power_hp": 302,
+      "load_capacity_kg": 3762.55,
+      "brand": "Doosan",
+      "category": "Montacargas",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 26944408,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 23711080,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ100",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Doosan"
+  },
+  {
+    "title": "Komatsu FD50T-17 2026",
+    "description": "Montacargas industrial para manejo eficiente de materiales en bodegas, centros de distribución y patios de carga. Model: Komatsu FD50T-17. Variant: 1. Condition: Reacondicionado. Year: 2026.",
+    "brand": "Komatsu",
+    "categories": [
+      "Maquinaria Pesada",
+      "Manejo de Materiales",
+      "Montacargas"
+    ],
+    "rating": 3.7,
+    "image_url": "https://imgs.search.brave.com/wyy_AJrzqV4KiFT8OcM7-5TxGDiVWid1qh1BxmHFsvc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/bGluZW1lZGlhLmNv/bS9pbWcvcy9tYXRl/cmlhbC1oYW5kbGlu/Zy1lcXVpcG1lbnQt/ZGllc2VsLWZvcmts/aWZ0LUtvbWF0c3Ut/RkQ1MC0tLTE3NjI5/MzQ0NTc1NjAyODcw/MjhfY29tbW9uLS0y/NTExMTIwOTU0NTc1/MzE2MDQwMC5qcGc",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2026,
+      "weight_kg": 36033.18,
+      "power_hp": 580,
+      "load_capacity_kg": 4283.82,
+      "brand": "Komatsu",
+      "category": "Montacargas",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 26827762,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 23608432,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "MQ062",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Hyundai 25B-9U 2017",
+    "description": "Montacargas industrial para manejo eficiente de materiales en bodegas, centros de distribución y patios de carga. Model: Hyundai 25B-9U. Variant: 1. Condition: Nuevo. Year: 2017.",
+    "brand": "Hyundai",
+    "categories": [
+      "Maquinaria Pesada",
+      "Manejo de Materiales",
+      "Montacargas"
+    ],
+    "rating": 3.7,
+    "image_url": "https://imgs.search.brave.com/dSl9jcWFtPRXj5lOjLbAOetdf1SgLbWYVr39cX3gYxg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/bGluZW1lZGlhLmNv/bS9pbWcvcy9tYXRl/cmlhbC1oYW5kbGlu/Zy1lcXVpcG1lbnQt/ZWxlY3RyaWMtZm9y/a2xpZnQtSHl1bmRh/aS0yNUItOVUtLS0x/NzQwNjU0MjI3NTky/MzI2NTAxX2NvbW1v/bi0tMjUwMjI3MTMw/MzQ1OTYwNzE5MDAu/anBn",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2017,
+      "weight_kg": 48145.97,
+      "power_hp": 112,
+      "load_capacity_kg": 1870.32,
+      "brand": "Hyundai",
+      "category": "Montacargas",
+      "price_range_crc": "0-25M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 20690706,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 18207821,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ050",
+    "price_range_crc": "0-25M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Hyundai"
+  },
+  {
+    "title": "Doosan D80S-7 2022",
+    "description": "Montacargas industrial para manejo eficiente de materiales en bodegas, centros de distribución y patios de carga. Model: Doosan D80S-7. Variant: 1. Condition: Usado. Year: 2022.",
+    "brand": "Doosan",
+    "categories": [
+      "Maquinaria Pesada",
+      "Manejo de Materiales",
+      "Montacargas"
+    ],
+    "rating": 3.7,
+    "image_url": "https://www.lectura-specs.com/models/renamed/orig/front-forklifts-diesel-d80s-7-doosan.jpg",
+    "facets": {
+      "condition": "Usado",
+      "year": 2022,
+      "weight_kg": 36529.64,
+      "power_hp": 419,
+      "load_capacity_kg": 8612.36,
+      "brand": "Doosan",
+      "category": "Montacargas",
+      "price_range_crc": "0-25M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 14611449,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 12858076,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 3
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "MQ087",
+    "price_range_crc": "0-25M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Doosan"
+  },
+  {
+    "title": "Case CE TX100-40 2020",
+    "description": "Montacargas industrial para manejo eficiente de materiales en bodegas, centros de distribución y patios de carga. Model: Case CE TX100-40. Variant: 2. Condition: Nuevo. Year: 2020.",
+    "brand": "Case CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Manejo de Materiales",
+      "Montacargas"
+    ],
+    "rating": 5,
+    "image_url": "https://img.equipmentworld.com/mindful/rr/workspaces/default/uploads/2026/04/image00005.GiYSHk2Bli.jpg?auto=format%2Ccompress&h=630&q=70&w=1200",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2020,
+      "weight_kg": 24933.81,
+      "power_hp": 147,
+      "load_capacity_kg": 11705.05,
+      "brand": "Case CE",
+      "category": "Montacargas",
+      "price_range_crc": "0-25M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 23882167,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 20323462,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ103",
+    "price_range_crc": "0-25M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Case CE"
+  }
+]

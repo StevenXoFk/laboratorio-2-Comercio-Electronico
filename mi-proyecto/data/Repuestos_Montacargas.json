@@ -1,0 +1,1076 @@
+[
+  {
+    "title": "Kit de Ruedas para Montacargas Case CE TX100-40",
+    "description": "Juego de 4 ruedas de poliuretano para montacargas Case CE TX100-40, con rodamientos de alta capacidad.",
+    "brand": "Case CE",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Ruedas"
+    ],
+    "rating": 4.7,
+    "image_url": "https://m.media-amazon.com/images/I/61kfjxb2GEL._AC_UF350,350_QL80_AIweblab1381794,T1_.jpg",
+    "facets": {
+      "compatible_models": [
+        "Case CE TX100-40",
+        "Case CE TX80"
+      ],
+      "material": "Poliuretano",
+      "type": "Ruedas",
+      "condition": "Nuevo",
+      "brand": "Case CE",
+      "category": "Montacargas",
+      "price_range_crc": "500K-1M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 750000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 660000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 15
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 28
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 10
+      }
+    ],
+    "objectID": "REP-MT-001",
+    "price_range_crc": "500K-1M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Kit de Baterías para Mitsubishi FD100N",
+    "description": "Kit de 2 baterías de 12V para montacargas Mitsubishi FD100N, con alta capacidad de arranque en frío.",
+    "brand": "Mitsubishi",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Baterías"
+    ],
+    "rating": 4.6,
+    "image_url": "https://cdn.revolutionparts.io/images/60131a2a3f223dc8f4753bcc5771660c/acb317ebb6c426c2bc9acced676e63a9.jpg",
+    "facets": {
+      "compatible_models": [
+        "Mitsubishi FD100N",
+        "Mitsubishi FD150"
+      ],
+      "voltage": "12V",
+      "capacity_ah": 100,
+      "type": "Baterías",
+      "condition": "Nuevo",
+      "brand": "Mitsubishi",
+      "category": "Montacargas",
+      "price_range_crc": "400K-800K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 600000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 528000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 5,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 20
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 35
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 12
+      }
+    ],
+    "objectID": "REP-MT-002",
+    "price_range_crc": "400K-800K",
+    "category_facet": "Montacargas",
+    "brand_facet": "Mitsubishi"
+  },
+  {
+    "title": "Cilindro de Levante para Caterpillar DP90N",
+    "description": "Cilindro hidráulico de levante para montacargas Caterpillar DP90N, fabricado en acero cromado con doble sellado.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.8,
+    "image_url": "https://i.ebayimg.com/images/g/uOEAAOSwomJnPOAh/s-l1200.jpg",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar DP90N",
+        "Caterpillar GP25N"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Levante",
+      "condition": "Reacondicionado",
+      "brand": "Caterpillar",
+      "category": "Montacargas",
+      "price_range_crc": "1.5M-3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1936000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-MT-003",
+    "price_range_crc": "1.5M-3M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Kit de Filtros para Mitsubishi FG25N",
+    "description": "Kit completo de filtros para montacargas Mitsubishi FG25N, incluye filtro de aceite, aire y combustible.",
+    "brand": "Mitsubishi",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.5,
+    "image_url": "https://i.ebayimg.com/images/g/onkAAOSwhlNkW7at/s-l400.jpg",
+    "facets": {
+      "compatible_models": [
+        "Mitsubishi FG25N",
+        "Mitsubishi FG30"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Mitsubishi",
+      "category": "Montacargas",
+      "price_range_crc": "200K-400K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 290000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 255200,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-MT-004",
+    "price_range_crc": "200K-400K",
+    "category_facet": "Montacargas",
+    "brand_facet": "Mitsubishi"
+  },
+  {
+    "title": "Kit de Ruedas para Komatsu FD30T-16",
+    "description": "Juego de 4 ruedas de poliuretano para montacargas Komatsu FD30T-16, con rodamientos de alta capacidad.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Ruedas"
+    ],
+    "rating": 4.6,
+    "image_url": "https://assethub-img.maintainx.com/img/409def92-4646-45f8-b09c-4a4bf9a58f34/products/8a760fc1-72fa-4596-bd53-78f4edfe8129/packages/64614c7d-1531-412e-9def-b4058153af6a/3/files/4a4171d8-217a-44e3-b23c-7198f9705527.png?format=webp&height=640",
+    "facets": {
+      "compatible_models": [
+        "Komatsu FD30T-16",
+        "Komatsu FD25"
+      ],
+      "material": "Poliuretano",
+      "type": "Ruedas",
+      "condition": "Nuevo",
+      "brand": "Komatsu",
+      "category": "Montacargas",
+      "price_range_crc": "400K-800K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 580000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 510400,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 18
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 32
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 12
+      }
+    ],
+    "objectID": "REP-MT-005",
+    "price_range_crc": "400K-800K",
+    "category_facet": "Montacargas",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Motor de Tracción para Komatsu FD160E-7",
+    "description": "Motor de tracción eléctrico para montacargas Komatsu FD160E-7, con controlador de velocidad integrado.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Motores de Tracción"
+    ],
+    "rating": 4.7,
+    "image_url": "https://www.texasfinaldrive.com/wp-content/uploads/2016/11/PlaceHolder.png",
+    "facets": {
+      "compatible_models": [
+        "Komatsu FD160E-7",
+        "Komatsu FD150"
+      ],
+      "type": "Motor de Tracción",
+      "power_kw": 15,
+      "condition": "Reacondicionado",
+      "brand": "Komatsu",
+      "category": "Montacargas",
+      "price_range_crc": "2M-4M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2552000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-MT-006",
+    "price_range_crc": "2M-4M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Kit de Baterías para Bobcat B25NS",
+    "description": "Kit de 2 baterías de alta capacidad para montacargas Bobcat B25NS, con tecnología de ciclo profundo.",
+    "brand": "Bobcat",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Baterías"
+    ],
+    "rating": 4.6,
+    "image_url": "https://imagedelivery.net/mhuCRcTxCdbPtYk1I1TKMA/roc%2Fbinghamequipment%2F0bd4f68049175fc03ede8229bd791769/pid-7269857-pt-battery-battery-pos-1.JPG/600x600",
+    "facets": {
+      "compatible_models": [
+        "Bobcat B25NS",
+        "Bobcat B30"
+      ],
+      "voltage": "24V",
+      "capacity_ah": 200,
+      "type": "Baterías",
+      "condition": "Nuevo",
+      "brand": "Bobcat",
+      "category": "Montacargas",
+      "price_range_crc": "1M-2M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1276000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 5,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 10
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 18
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 6
+      }
+    ],
+    "objectID": "REP-MT-007",
+    "price_range_crc": "1M-2M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Bobcat"
+  },
+  {
+    "title": "Cilindro de Dirección para Caterpillar GP25N",
+    "description": "Cilindro hidráulico de dirección para montacargas Caterpillar GP25N, fabricado en acero cromado con doble sellado.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://caterpillar.scene7.com/is/image/Caterpillar/CM20201214-f83b3-27e12",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar GP25N",
+        "Caterpillar DP90N"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Dirección",
+      "condition": "Reacondicionado",
+      "brand": "Caterpillar",
+      "category": "Montacargas",
+      "price_range_crc": "1M-2M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1276000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-MT-008",
+    "price_range_crc": "1M-2M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Kit de Mantenimiento para Hyster H50FT",
+    "description": "Kit completo de mantenimiento para montacargas Hyster H50FT, incluye filtros, correas y bujías.",
+    "brand": "Hyster",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.5,
+    "image_url": "https://m.media-amazon.com/images/I/81+BtLoUxqL._AC_UF894,1000_QL80_.jpg",
+    "facets": {
+      "compatible_models": [
+        "Hyster H50FT",
+        "Hyster H60"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Correas",
+        "Bujías"
+      ],
+      "type": "Kit de Mantenimiento",
+      "condition": "Nuevo",
+      "brand": "Hyster",
+      "category": "Montacargas",
+      "price_range_crc": "250K-500K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 350000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 308000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 25
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 40
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 15
+      }
+    ],
+    "objectID": "REP-MT-009",
+    "price_range_crc": "250K-500K",
+    "category_facet": "Montacargas",
+    "brand_facet": "Hyster"
+  },
+  {
+    "title": "Kit de Ruedas para Doosan D50S-7",
+    "description": "Juego de 4 ruedas de poliuretano para montacargas Doosan D50S-7, con rodamientos de alta capacidad.",
+    "brand": "Doosan",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Ruedas"
+    ],
+    "rating": 4.5,
+    "image_url": "https://image.made-in-china.com/2f0j00ogukIlEJYypf/Doosan-D50c-5-Golf-Cary-7-00-12-Solid-Forklift-Wheels-and-Tyres.jpg",
+    "facets": {
+      "compatible_models": [
+        "Doosan D50S-7",
+        "Doosan D60"
+      ],
+      "material": "Poliuretano",
+      "type": "Ruedas",
+      "condition": "Nuevo",
+      "brand": "Doosan",
+      "category": "Montacargas",
+      "price_range_crc": "500K-900K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 680000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 598400,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 15
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 28
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 10
+      }
+    ],
+    "objectID": "REP-MT-010",
+    "price_range_crc": "500K-900K",
+    "category_facet": "Montacargas",
+    "brand_facet": "Doosan"
+  },
+  {
+    "title": "Kit de Filtros para Doosan G35NC-7",
+    "description": "Kit completo de filtros para montacargas Doosan G35NC-7, incluye filtro de aceite, aire y combustible.",
+    "brand": "Doosan",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://shop.bobcat.com/media/catalog/product/b/o/bobcat-portable-power-maintenance-kit-1000-hour-doosan-46836326-1_1.jpg?optimize=high&fit=bounds&height=&width=",
+    "facets": {
+      "compatible_models": [
+        "Doosan G35NC-7",
+        "Doosan G40"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Doosan",
+      "category": "Montacargas",
+      "price_range_crc": "200K-400K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 290000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 255200,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-MT-011",
+    "price_range_crc": "200K-400K",
+    "category_facet": "Montacargas",
+    "brand_facet": "Doosan"
+  },
+  {
+    "title": "Cilindro de Levante para Komatsu FD50T-17",
+    "description": "Cilindro hidráulico de levante para montacargas Komatsu FD50T-17, fabricado en acero cromado con doble sellado.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://media.fridayparts.com/media/catalog/product/6/4/6407dd88-cbaa-4912-b1f3-daa6b934609c.jpg?store=default&image-type=image&width=460&height=460",
+    "facets": {
+      "compatible_models": [
+        "Komatsu FD50T-17",
+        "Komatsu FD45"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Levante",
+      "condition": "Reacondicionado",
+      "brand": "Komatsu",
+      "category": "Montacargas",
+      "price_range_crc": "2M-3.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2600000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2288000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-MT-012",
+    "price_range_crc": "2M-3.5M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Kit de Ruedas para Hyundai 25B-9U",
+    "description": "Juego de 4 ruedas de poliuretano para montacargas Hyundai 25B-9U, con rodamientos de alta capacidad.",
+    "brand": "Hyundai",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Ruedas"
+    ],
+    "rating": 4.5,
+    "image_url": "https://www.allmachines.com/_next/image?url=https%3A%2F%2Fassets.allmachines.com%2Fforklifts%2Fimages%2Fhyundai%2Fd3d183c6a8d1435d15fdc6380732881e_4_Im16.jpg&w=3840&q=60",
+    "facets": {
+      "compatible_models": [
+        "Hyundai 25B-9U",
+        "Hyundai 30B"
+      ],
+      "material": "Poliuretano",
+      "type": "Ruedas",
+      "condition": "Nuevo",
+      "brand": "Hyundai",
+      "category": "Montacargas",
+      "price_range_crc": "400K-700K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 520000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 457600,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 15
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 28
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 10
+      }
+    ],
+    "objectID": "REP-MT-013",
+    "price_range_crc": "400K-700K",
+    "category_facet": "Montacargas",
+    "brand_facet": "Hyundai"
+  },
+  {
+    "title": "Motor de Tracción para Doosan D80S-7",
+    "description": "Motor de tracción eléctrico para montacargas Doosan D80S-7, con controlador de velocidad integrado.",
+    "brand": "Doosan",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Motores de Tracción"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.tvh.com/sites/tvh/files/2024-09/Engines_8.jpeg",
+    "facets": {
+      "compatible_models": [
+        "Doosan D80S-7",
+        "Doosan D70"
+      ],
+      "type": "Motor de Tracción",
+      "power_kw": 18,
+      "condition": "Reacondicionado",
+      "brand": "Doosan",
+      "category": "Montacargas",
+      "price_range_crc": "2.5M-4.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2992000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-MT-014",
+    "price_range_crc": "2.5M-4.5M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Doosan"
+  },
+  {
+    "title": "Kit de Filtros para Case CE TX100-40",
+    "description": "Kit completo de filtros para montacargas Case CE TX100-40, incluye filtro de aceite, aire y combustible.",
+    "brand": "Case CE",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://m.media-amazon.com/images/I/91t+Qb5s-tL._AC_UF894,1000_QL80_.jpg",
+    "facets": {
+      "compatible_models": [
+        "Case CE TX100-40",
+        "Case CE TX80"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Case CE",
+      "category": "Montacargas",
+      "price_range_crc": "200K-400K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 300000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 264000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 35
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 60
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 25
+      }
+    ],
+    "objectID": "REP-MT-015",
+    "price_range_crc": "200K-400K",
+    "category_facet": "Montacargas",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Kit de Baterías para Mitsubishi FG25N",
+    "description": "Kit de 2 baterías de 12V para montacargas Mitsubishi FG25N, con alta capacidad de arranque en frío.",
+    "brand": "Mitsubishi",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Baterías"
+    ],
+    "rating": 4.5,
+    "image_url": "https://i.ebayimg.com/images/g/ZCcAAOSwQKdlqxOG/s-l1200.jpg",
+    "facets": {
+      "compatible_models": [
+        "Mitsubishi FG25N",
+        "Mitsubishi FG30"
+      ],
+      "voltage": "12V",
+      "capacity_ah": 80,
+      "type": "Baterías",
+      "condition": "Nuevo",
+      "brand": "Mitsubishi",
+      "category": "Montacargas",
+      "price_range_crc": "300K-600K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 396000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 5,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 10,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 20
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 35
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 12
+      }
+    ],
+    "objectID": "REP-MT-016",
+    "price_range_crc": "300K-600K",
+    "category_facet": "Montacargas",
+    "brand_facet": "Mitsubishi"
+  },
+  {
+    "title": "Cilindro de Levante para Bobcat B25NS",
+    "description": "Cilindro hidráulico de levante para montacargas Bobcat B25NS, fabricado en acero cromado con doble sellado.",
+    "brand": "Bobcat",
+    "categories": [
+      "Repuestos",
+      "Montacargas",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61J9Go-vETL._AC_UL495_SR435,495_.jpg",
+    "facets": {
+      "compatible_models": [
+        "Bobcat B25NS",
+        "Bobcat B30"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Levante",
+      "condition": "Reacondicionado",
+      "brand": "Bobcat",
+      "category": "Montacargas",
+      "price_range_crc": "1.5M-3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2100000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1848000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-MT-017",
+    "price_range_crc": "1.5M-3M",
+    "category_facet": "Montacargas",
+    "brand_facet": "Bobcat"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "title": "Caterpillar D8 2021",
+    "description": "Bulldozer de gran potencia para nivelación de terreno, movimiento de tierra pesada y trabajos de despeje. Model: Caterpillar D8. Variant: 1. Condition: Usado. Year: 2021.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Bulldozer"
+    ],
+    "rating": 4.8,
+    "image_url": "https://imgs.search.brave.com/zP0mhNL10U1ccKbZZYmHclSrCFjTnmrYO3PUdD6i9nQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9l/L2UwL0NhdGVycGls/bGFyX0Q4Ul9wMi5K/UEc",
+    "facets": {
+      "condition": "Usado",
+      "year": 2021,
+      "weight_kg": 36148,
+      "power_hp": 371,
+      "blade_type": "Angular (A)",
+      "brand": "Caterpillar",
+      "category": "Bulldozer",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 136953487,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 120519068,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ041",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "John Deere 850K 2019",
+    "description": "Bulldozer de gran potencia para nivelación de terreno, movimiento de tierra pesada y trabajos de despeje. Model: John Deere 850K. Variant: 1. Condition: Reacondicionado. Year: 2019.",
+    "brand": "John Deere",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Bulldozer"
+    ],
+    "rating": 4.8,
+    "image_url": "https://media.veritread.com/cloud/assets/images/equipmentimages/155568.jpg",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2019,
+      "weight_kg": 49225.08,
+      "power_hp": 443,
+      "blade_type": "Recta (S)",
+      "brand": "John Deere",
+      "category": "Bulldozer",
+      "price_range_crc": "75M-100M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 87628424,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 77113015,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ092",
+    "price_range_crc": "75M-100M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "New Holland D150B 2015",
+    "description": "Bulldozer de gran potencia para nivelación de terreno, movimiento de tierra pesada y trabajos de despeje. Model: New Holland D150B. Variant: 1. Condition: Nuevo. Year: 2015.",
+    "brand": "New Holland",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Bulldozer"
+    ],
+    "rating": 4.7,
+    "image_url": "https://img.popagro.com.br/models/model-64c1267c671ad917c19ef0b5/images/2603b1aa-5c53-468a-8258-d00cea8c0d38/d150b.webp",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2015,
+      "weight_kg": 21303.08,
+      "power_hp": 575,
+      "blade_type": "Universal (U)",
+      "brand": "New Holland",
+      "category": "Bulldozer",
+      "price_range_crc": "75M-100M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 83024734,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 73061768,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "MQ077",
+    "price_range_crc": "75M-100M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "XCMG TY160 2015",
+    "description": "Bulldozer de gran potencia para nivelación de terreno, movimiento de tierra pesada y trabajos de despeje. Model: XCMG TY160. Variant: 1. Condition: Nuevo. Year: 2015.",
+    "brand": "XCMG",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Bulldozer"
+    ],
+    "rating": 4.6,
+    "image_url": "https://imgs.search.brave.com/PNdlZborzSgjY8KbsiW-Dhi3lTbuuLHLiVKSrPJZDlM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWFjaG1hbGwuY29t/L2ltYWdlcy9zdG9y/ZS8zNTc2MzYvaXRl/bS9UWTE2MCUyMCg3/KS5qcGc",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2015,
+      "weight_kg": 12319.09,
+      "power_hp": 95,
+      "blade_type": "Semi-Universal (SU)",
+      "brand": "XCMG",
+      "category": "Bulldozer",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 116043028,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 102117865,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "MQ067",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "Komatsu D155 2026",
+    "description": "Bulldozer de gran potencia para nivelación de terreno, movimiento de tierra pesada y trabajos de despeje. Model: Komatsu D155. Variant: 1. Condition: Nuevo. Year: 2026.",
+    "brand": "Komatsu",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Bulldozer"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.komatsu.com/content/dam/komatsu/websites/global/images/equipment-product/white-background/dozers/crawler-dozers/d155/1194456_dozer-d155ax-8wh-ko-web.jpg",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2026,
+      "weight_kg": 29472,
+      "power_hp": 314,
+      "blade_type": "Angular (A)",
+      "brand": "Komatsu",
+      "category": "Bulldozer",
+      "price_range_crc": "200M+"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 285016290,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 250814335,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ044",
+    "price_range_crc": "200M+",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Shantui SD16 2024",
+    "description": "Bulldozer de gran potencia para nivelación de terreno, movimiento de tierra pesada y trabajos de despeje. Model: Shantui SD16. Variant: 1. Condition: Nuevo. Year: 2024.",
+    "brand": "Shantui",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Bulldozer"
+    ],
+    "rating": 4.6,
+    "image_url": "https://tse3.mm.bing.net/th/id/OIP.7gdmQDFLu-3-YueyXVx6-QHaF3",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2024,
+      "weight_kg": 34714,
+      "power_hp": 415,
+      "blade_type": "Semi-U (SU)",
+      "brand": "Shantui",
+      "category": "Bulldozer",
+      "price_range_crc": "75M-100M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 97597396,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 85885708,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ016",
+    "price_range_crc": "75M-100M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Shantui"
+  },
+  {
+    "title": "John Deere 750K 2020",
+    "description": "Bulldozer de gran potencia para nivelación de terreno, movimiento de tierra pesada y trabajos de despeje. Model: John Deere 750K. Variant: 1. Condition: Reacondicionado. Year: 2020.",
+    "brand": "John Deere",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Bulldozer"
+    ],
+    "rating": 4.4,
+    "image_url": "https://tse4.mm.bing.net/th/id/OIP.aiO1twhv0kdsi8I5oR4MMAHaFj",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2020,
+      "weight_kg": 14144,
+      "power_hp": 467,
+      "blade_type": "Recta (S)",
+      "brand": "John Deere",
+      "category": "Bulldozer",
+      "price_range_crc": "150M-200M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 172046696,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 151401092,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ002",
+    "price_range_crc": "150M-200M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "JCB 3CX 2024",
+    "description": "Bulldozer de gran potencia para nivelación de terreno, movimiento de tierra pesada y trabajos de despeje. Model: JCB 3CX. Variant: 3. Condition: Nuevo. Year: 2024.",
+    "brand": "JCB",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Bulldozer"
+    ],
+    "rating": 4.4,
+    "image_url": "https://imgs.search.brave.com/tGcuxhrnbN-h-_MB88K0z25ffZHiDi5kEcS6T-nUspk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mYWly/Y2hpbGRlcXVpcG1l/bnQuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzA1L2pj/Yi0zY3gtYmFja2hv/ZS1sb2FkZXIuanBn/LndlYnA",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2024,
+      "weight_kg": 44504.92,
+      "power_hp": 394,
+      "blade_type": "Recta (S)",
+      "brand": "JCB",
+      "category": "Bulldozer",
+      "price_range_crc": "75M-100M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 89539845,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 78795064,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 7
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ064",
+    "price_range_crc": "75M-100M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "JCB"
+  },
+  {
+    "title": "New Holland D180C 2021",
+    "description": "Bulldozer de gran potencia para nivelación de terreno, movimiento de tierra pesada y trabajos de despeje. Model: New Holland D180C. Variant: 1. Condition: Nuevo. Year: 2021.",
+    "brand": "New Holland",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Bulldozer"
+    ],
+    "rating": 4.2,
+    "image_url": "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/6aa8533684f14149a03fe9999b269adc?v=8434af77&t=size1200",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2021,
+      "weight_kg": 48214.35,
+      "power_hp": 106,
+      "blade_type": "Universal (U)",
+      "brand": "New Holland",
+      "category": "Bulldozer",
+      "price_range_crc": "200M+"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 201768554,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 177556330,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 3
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "MQ093",
+    "price_range_crc": "200M+",
+    "category_facet": "Bulldozer",
+    "brand_facet": "New Holland"
+  },
+  {
+    "title": "Komatsu D85 2023",
+    "description": "Bulldozer de gran potencia para nivelación de terreno, movimiento de tierra pesada y trabajos de despeje. Model: Komatsu D85. Variant: 1. Condition: Usado. Year: 2023.",
+    "brand": "Komatsu",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Bulldozer"
+    ],
+    "rating": 4.2,
+    "image_url": "https://www.komatsu.com/content/dam/komatsu/websites/global/images/equipment-product/marketing/dozers/crawler-dozers/d85/808703_dozer-d85-ex-18-mg-literature-link-9012-a-web.jpg",
+    "facets": {
+      "condition": "Usado",
+      "year": 2023,
+      "weight_kg": 18182,
+      "power_hp": 455,
+      "blade_type": "Recta (S)",
+      "brand": "Komatsu",
+      "category": "Bulldozer",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 123993433,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 109114221,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ043",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "CASE 1150M 2019",
+    "description": "Bulldozer de gran potencia para nivelación de terreno, movimiento de tierra pesada y trabajos de despeje. Model: CASE 1150M. Variant: 1. Condition: Reacondicionado. Year: 2019.",
+    "brand": "Case CE",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Bulldozer"
+    ],
+    "rating": 4.1,
+    "image_url": "https://tse1.mm.bing.net/th/id/OIP.M1t9VTIxotsosFknPvL4owHaFj",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2019,
+      "weight_kg": 15587,
+      "power_hp": 366,
+      "blade_type": "Recta (S)",
+      "brand": "Case CE",
+      "category": "Bulldozer",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 129867270,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 114283198,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ036",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Case CE"
+  },
+  {
+    "title": "Caterpillar D9 2024",
+    "description": "Bulldozer de gran potencia para nivelación de terreno, movimiento de tierra pesada y trabajos de despeje. Model: Caterpillar D9. Variant: 1. Condition: Nuevo. Year: 2024.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Bulldozer"
+    ],
+    "rating": 4.1,
+    "image_url": "https://tse2.mm.bing.net/th/id/OIP.XuRtgWetiEnyiGClPl4c6QHaFj",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2024,
+      "weight_kg": 41500,
+      "power_hp": 202,
+      "blade_type": "Recta (S)",
+      "brand": "Caterpillar",
+      "category": "Bulldozer",
+      "price_range_crc": "150M-200M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 169012376,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 148730891,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ020",
+    "price_range_crc": "150M-200M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "John Deere 850K 2023",
+    "description": "Bulldozer de gran potencia para nivelación de terreno, movimiento de tierra pesada y trabajos de despeje. Model: John Deere 850K. Variant: 2. Condition: Nuevo. Year: 2023.",
+    "brand": "John Deere",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Bulldozer"
+    ],
+    "rating": 4.1,
+    "image_url": "https://dygtyjqp7pi0m.cloudfront.net/iv/1/8102a1bd83709895a5c6f913dfd42e7f.jpg",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2023,
+      "weight_kg": 12296,
+      "power_hp": 102,
+      "blade_type": "Recta (S)",
+      "brand": "John Deere",
+      "category": "Bulldozer",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 107739653,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 94810894,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ001",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "XCMG TY320 2019",
+    "description": "Bulldozer de gran potencia para nivelación de terreno, movimiento de tierra pesada y trabajos de despeje. Model: XCMG TY320. Variant: 1. Condition: Reacondicionado. Year: 2019.",
+    "brand": "XCMG",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Bulldozer"
+    ],
+    "rating": 3.8,
+    "image_url": "https://mtroyal.com.tr/en/wp-content/uploads/2025/08/XCMG-TY320-Bulldozer-for-Sale-600x459.jpg",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2019,
+      "weight_kg": 44586.95,
+      "power_hp": 432,
+      "blade_type": "Semi-Universal (SU)",
+      "brand": "XCMG",
+      "category": "Bulldozer",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 122834015,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 108093934,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ089",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "XCMG"
+  },
+  {
+    "title": "Caterpillar D6T 2018",
+    "description": "Bulldozer de gran potencia para nivelación de terreno, movimiento de tierra pesada y trabajos de despeje. Model: Caterpillar D6T. Variant: 1. Condition: Usado. Year: 2018.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Bulldozer"
+    ],
+    "rating": 3.6,
+    "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20161114-35295-08363",
+    "facets": {
+      "condition": "Usado",
+      "year": 2018,
+      "weight_kg": 34017.4,
+      "power_hp": 324,
+      "blade_type": "Recta (S)",
+      "brand": "Caterpillar",
+      "category": "Bulldozer",
+      "price_range_crc": "150M-200M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 184631080,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 162475352,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "MQ091",
+    "price_range_crc": "150M-200M",
+    "category_facet": "Bulldozer",
+    "brand_facet": "Caterpillar"
+  }
+]

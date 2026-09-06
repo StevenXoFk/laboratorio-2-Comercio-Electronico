@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Caterpillar CS78 2020",
+    "description": "Compactadora vibratoria para pavimentación y compactación de suelos en proyectos de infraestructura vial. Model: Caterpillar CS78. Variant: 1. Condition: Usado. Year: 2020.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Maquinaria Pesada",
+      "Pavimentacion",
+      "Compactadora"
+    ],
+    "rating": 5,
+    "image_url": "https://st.mascus.com/image/product/large/cat/cat-cs78blrc,10286825_1.jpg",
+    "facets": {
+      "condition": "Usado",
+      "year": 2020,
+      "weight_kg": 20256,
+      "power_hp": 533,
+      "drum_width_m": 1.99,
+      "brand": "Caterpillar",
+      "category": "Compactadora",
+      "price_range_crc": "75M-100M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 98448090,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 86634319,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ015",
+    "price_range_crc": "75M-100M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Sakai SW880 2024",
+    "description": "Compactadora vibratoria para pavimentación y compactación de suelos en proyectos de infraestructura vial. Model: Sakai SW880. Variant: 1. Condition: Reacondicionado. Year: 2024.",
+    "brand": "Sakai",
+    "categories": [
+      "Maquinaria Pesada",
+      "Pavimentacion",
+      "Compactadora"
+    ],
+    "rating": 4.8,
+    "image_url": "https://d2uhsaoc6ysewq.cloudfront.net/44822/Smooth-Drum-Rollers-Sakai-SW880-1-58350473.jpg",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2024,
+      "weight_kg": 28526,
+      "power_hp": 523,
+      "drum_width_m": 1.23,
+      "brand": "Sakai",
+      "category": "Compactadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 67017132,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 58975076,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ010",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Sakai"
+  },
+  {
+    "title": "Hamm HD+90 2026",
+    "description": "Compactadora vibratoria para pavimentación y compactación de suelos en proyectos de infraestructura vial. Model: Hamm HD+90. Variant: 1. Condition: Usado. Year: 2026.",
+    "brand": "Hamm",
+    "categories": [
+      "Maquinaria Pesada",
+      "Pavimentacion",
+      "Compactadora"
+    ],
+    "rating": 4.7,
+    "image_url": "https://tse2.mm.bing.net/th/id/OIP.0_UxgqUR1gHq93rbf8e39gHaE7",
+    "facets": {
+      "condition": "Usado",
+      "year": 2026,
+      "weight_kg": 21043,
+      "power_hp": 173,
+      "drum_width_m": 2.09,
+      "brand": "Hamm",
+      "category": "Compactadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 69738219,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 61369633,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ019",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Hamm"
+  },
+  {
+    "title": "Bomag BW213 2026",
+    "description": "Compactadora vibratoria para pavimentación y compactación de suelos en proyectos de infraestructura vial. Model: Bomag BW213. Variant: 1. Condition: Reacondicionado. Year: 2026.",
+    "brand": "Bomag",
+    "categories": [
+      "Maquinaria Pesada",
+      "Pavimentacion",
+      "Compactadora"
+    ],
+    "rating": 4.7,
+    "image_url": "https://tse3.mm.bing.net/th/id/OIP.pP3E152hsblSinBcOKst8gHaE8",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2026,
+      "weight_kg": 7847,
+      "power_hp": 463,
+      "drum_width_m": 1.3,
+      "brand": "Bomag",
+      "category": "Compactadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 70676939,
+        "in_stock": false
+      },
+      "b2b": {
+        "price_crc": 62195706,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ011",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Bomag"
+  },
+  {
+    "title": "Bomag BW177 2022",
+    "description": "Compactadora vibratoria para pavimentación y compactación de suelos en proyectos de infraestructura vial. Model: Bomag BW177. Variant: 1. Condition: Nuevo. Year: 2022.",
+    "brand": "Bomag",
+    "categories": [
+      "Maquinaria Pesada",
+      "Pavimentacion",
+      "Compactadora"
+    ],
+    "rating": 4.2,
+    "image_url": "https://tse3.mm.bing.net/th/id/OIP.dx67ZSGmTZfCk9_6t8-SPwHaFj",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2022,
+      "weight_kg": 38270,
+      "power_hp": 401,
+      "drum_width_m": 2.21,
+      "brand": "Bomag",
+      "category": "Compactadora",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 42945750,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 37792260,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ035",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Bomag"
+  },
+  {
+    "title": "Caterpillar CS78 2022",
+    "description": "Compactadora vibratoria para pavimentación y compactación de suelos en proyectos de infraestructura vial. Model: Caterpillar CS78. Variant: 2. Condition: Usado. Year: 2022.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Maquinaria Pesada",
+      "Pavimentacion",
+      "Compactadora"
+    ],
+    "rating": 5,
+    "image_url": "https://media.sandhills.com/img.axd?id=11030645794&wid=4326182721&rwl=False&p=&ext=&w=350&h=220&t=&lp=&c=True&wt=False&sz=Max&rt=0&checksum=GS%2FdFEhthWdBeb0hEN2cLOIwsR2wymUrN%2FWchovYGb8%3D",
+    "facets": {
+      "condition": "Usado",
+      "year": 2022,
+      "weight_kg": 20256,
+      "power_hp": 533,
+      "drum_width_m": 1.99,
+      "brand": "Caterpillar",
+      "category": "Compactadora",
+      "price_range_crc": "75M-100M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 92541205,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 78837230,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ106",
+    "price_range_crc": "75M-100M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Sakai SW880 2023",
+    "description": "Compactadora vibratoria para pavimentación y compactación de suelos en proyectos de infraestructura vial. Model: Sakai SW880. Variant: 2. Condition: Reacondicionado. Year: 2023.",
+    "brand": "Sakai",
+    "categories": [
+      "Maquinaria Pesada",
+      "Pavimentacion",
+      "Compactadora"
+    ],
+    "rating": 4.8,
+    "image_url": "https://d2uhsaoc6ysewq.cloudfront.net/44822/Smooth-Drum-Rollers-Sakai-SW880-1-58350473.jpg",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2023,
+      "weight_kg": 28526,
+      "power_hp": 523,
+      "drum_width_m": 1.23,
+      "brand": "Sakai",
+      "category": "Compactadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 67687303,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 57795574,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ113",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Sakai"
+  },
+  {
+    "title": "Hamm HD+90 2025",
+    "description": "Compactadora vibratoria para pavimentación y compactación de suelos en proyectos de infraestructura vial. Model: Hamm HD+90. Variant: 2. Condition: Usado. Year: 2025.",
+    "brand": "Hamm",
+    "categories": [
+      "Maquinaria Pesada",
+      "Pavimentacion",
+      "Compactadora"
+    ],
+    "rating": 4.7,
+    "image_url": "https://tse2.mm.bing.net/th/id/OIP.0_UxgqUR1gHq93rbf8e39gHaE7",
+    "facets": {
+      "condition": "Usado",
+      "year": 2025,
+      "weight_kg": 21043,
+      "power_hp": 173,
+      "drum_width_m": 2.09,
+      "brand": "Hamm",
+      "category": "Compactadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 64159161,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 54618973,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ125",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Hamm"
+  },
+  {
+    "title": "Bomag BW213 2025",
+    "description": "Compactadora vibratoria para pavimentación y compactación de suelos en proyectos de infraestructura vial. Model: Bomag BW213. Variant: 2. Condition: Reacondicionado. Year: 2025.",
+    "brand": "Bomag",
+    "categories": [
+      "Maquinaria Pesada",
+      "Pavimentacion",
+      "Compactadora"
+    ],
+    "rating": 4.7,
+    "image_url": "https://tse3.mm.bing.net/th/id/OIP.pP3E152hsblSinBcOKst8gHaE8",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2025,
+      "weight_kg": 7847,
+      "power_hp": 463,
+      "drum_width_m": 1.3,
+      "brand": "Bomag",
+      "category": "Compactadora",
+      "price_range_crc": "50M-75M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 67143092,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 57220050,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ128",
+    "price_range_crc": "50M-75M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Bomag"
+  },
+  {
+    "title": "Bomag BW177 2020",
+    "description": "Compactadora vibratoria para pavimentación y compactación de suelos en proyectos de infraestructura vial. Model: Bomag BW177. Variant: 2. Condition: Nuevo. Year: 2020.",
+    "brand": "Bomag",
+    "categories": [
+      "Maquinaria Pesada",
+      "Pavimentacion",
+      "Compactadora"
+    ],
+    "rating": 4.2,
+    "image_url": "https://tse3.mm.bing.net/th/id/OIP.dx67ZSGmTZfCk9_6t8-SPwHaFj",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2020,
+      "weight_kg": 38270,
+      "power_hp": 401,
+      "drum_width_m": 2.21,
+      "brand": "Bomag",
+      "category": "Compactadora",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 46381410,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 39681873,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ162",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Compactadora",
+    "brand_facet": "Bomag"
+  }
+]

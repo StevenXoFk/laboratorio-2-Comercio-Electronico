@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Kubota SVL75 2021",
+    "description": "Minicargador compacto y ágil, ideal para trabajos en espacios reducidos y múltiples aplicaciones con accesorios intercambiables. Model: Kubota SVL75. Variant: 1. Condition: Reacondicionado. Year: 2021.",
+    "brand": "Kubota",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Minicargador"
+    ],
+    "rating": 5,
+    "image_url": "https://tse2.mm.bing.net/th/id/OIP.L_vKSRp8K9m89rSjUxmXUAHaFj",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2021,
+      "weight_kg": 9679,
+      "power_hp": 401,
+      "load_capacity_kg": 1189.27,
+      "brand": "Kubota",
+      "category": "Minicargador",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 47804640,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 42068083,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 3
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ018",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Minicargador",
+    "brand_facet": "Kubota"
+  },
+  {
+    "title": "Bobcat S650 2026",
+    "description": "Minicargador compacto y ágil, ideal para trabajos en espacios reducidos y múltiples aplicaciones con accesorios intercambiables. Model: Bobcat S650. Variant: 1. Condition: Reacondicionado. Year: 2026.",
+    "brand": "Bobcat",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Minicargador"
+    ],
+    "rating": 4.7,
+    "image_url": "https://tse1.mm.bing.net/th/id/OIP.7sLmya6TvPkeWTuhbuWAYAHaE8",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2026,
+      "weight_kg": 30216,
+      "power_hp": 285,
+      "load_capacity_kg": 958.98,
+      "brand": "Bobcat",
+      "category": "Minicargador",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 29633448,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 26077434,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ029",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Minicargador",
+    "brand_facet": "Bobcat"
+  },
+  {
+    "title": "John Deere 320G 2025",
+    "description": "Minicargador compacto y ágil, ideal para trabajos en espacios reducidos y múltiples aplicaciones con accesorios intercambiables. Model: John Deere 320G. Variant: 1. Condition: Nuevo. Year: 2025.",
+    "brand": "John Deere",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Minicargador"
+    ],
+    "rating": 4.3,
+    "image_url": "https://tse1.mm.bing.net/th/id/OIP.HQrF_uvDdorea_Vnt3W-6gHaFj",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2025,
+      "weight_kg": 40741,
+      "power_hp": 134,
+      "load_capacity_kg": 1341.55,
+      "brand": "John Deere",
+      "category": "Minicargador",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 26619788,
+        "in_stock": false
+      },
+      "b2b": {
+        "price_crc": 23425413,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ003",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Minicargador",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "Kubota SVL75 2022",
+    "description": "Minicargador compacto y ágil, ideal para trabajos en espacios reducidos y múltiples aplicaciones con accesorios intercambiables. Model: Kubota SVL75. Variant: 2. Condition: Reacondicionado. Year: 2022.",
+    "brand": "Kubota",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Minicargador"
+    ],
+    "rating": 5,
+    "image_url": "https://tse2.mm.bing.net/th/id/OIP.L_vKSRp8K9m89rSjUxmXUAHaFj",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2022,
+      "weight_kg": 9679,
+      "power_hp": 401,
+      "load_capacity_kg": 1189.27,
+      "brand": "Kubota",
+      "category": "Minicargador",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 44458315,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 37861275,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 3
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "MQ105",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Minicargador",
+    "brand_facet": "Kubota"
+  },
+  {
+    "title": "Bobcat S650 2025",
+    "description": "Minicargador compacto y ágil, ideal para trabajos en espacios reducidos y múltiples aplicaciones con accesorios intercambiables. Model: Bobcat S650. Variant: 2. Condition: Reacondicionado. Year: 2025.",
+    "brand": "Bobcat",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Minicargador"
+    ],
+    "rating": 4.7,
+    "image_url": "https://tse1.mm.bing.net/th/id/OIP.7sLmya6TvPkeWTuhbuWAYAHaE8",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2025,
+      "weight_kg": 30216,
+      "power_hp": 285,
+      "load_capacity_kg": 958.98,
+      "brand": "Bobcat",
+      "category": "Minicargador",
+      "price_range_crc": "25M-50M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 32004124,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 27381306,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ225",
+    "price_range_crc": "25M-50M",
+    "category_facet": "Minicargador",
+    "brand_facet": "Bobcat"
+  }
+]

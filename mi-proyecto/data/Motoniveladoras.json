@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Caterpillar 120 2022",
+    "description": "Motoniveladora de precisión para nivelación de caminos y preparación de superficies en obras viales. Model: Caterpillar 120. Variant: 1. Condition: Reacondicionado. Year: 2022.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Motoniveladora"
+    ],
+    "rating": 4.6,
+    "image_url": "https://tse4.mm.bing.net/th/id/OIP.zwYp_6TrZVvfM0baASbnYgHaE8",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2022,
+      "weight_kg": 28700,
+      "power_hp": 385,
+      "blade_width_m": 4.14,
+      "brand": "Caterpillar",
+      "category": "Motoniveladora",
+      "price_range_crc": "150M-200M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 172510681,
+        "in_stock": false
+      },
+      "b2b": {
+        "price_crc": 151809399,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ013",
+    "price_range_crc": "150M-200M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Komatsu GD675 2023",
+    "description": "Motoniveladora de precisión para nivelación de caminos y preparación de superficies en obras viales. Model: Komatsu GD675. Variant: 1. Condition: Reacondicionado. Year: 2023.",
+    "brand": "Komatsu",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Motoniveladora"
+    ],
+    "rating": 4.3,
+    "image_url": "https://tse3.mm.bing.net/th/id/OIP.Fl-d7qFo77ezKxg7lTThwwHaFs",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2023,
+      "weight_kg": 5212,
+      "power_hp": 459,
+      "blade_width_m": 3.87,
+      "brand": "Komatsu",
+      "category": "Motoniveladora",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 112265358,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 98793515,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ033",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Caterpillar 140 2022",
+    "description": "Motoniveladora de precisión para nivelación de caminos y preparación de superficies en obras viales. Model: Caterpillar 140. Variant: 1. Condition: Usado. Year: 2022.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Motoniveladora"
+    ],
+    "rating": 3.9,
+    "image_url": "https://tse2.mm.bing.net/th/id/OIP.82R5o56VeYuHu6K_fit9YwHaE8",
+    "facets": {
+      "condition": "Usado",
+      "year": 2022,
+      "weight_kg": 8003,
+      "power_hp": 428,
+      "blade_width_m": 4.07,
+      "brand": "Caterpillar",
+      "category": "Motoniveladora",
+      "price_range_crc": "200M+"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 201029670,
+        "in_stock": false
+      },
+      "b2b": {
+        "price_crc": 176906110,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ014",
+    "price_range_crc": "200M+",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Caterpillar 120 2021",
+    "description": "Motoniveladora de precisión para nivelación de caminos y preparación de superficies en obras viales. Model: Caterpillar 120. Variant: 2. Condition: Reacondicionado. Year: 2021.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Motoniveladora"
+    ],
+    "rating": 4.6,
+    "image_url": "https://tse4.mm.bing.net/th/id/OIP.zwYp_6TrZVvfM0baASbnYgHaE8",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2021,
+      "weight_kg": 28700,
+      "power_hp": 385,
+      "blade_width_m": 4.14,
+      "brand": "Caterpillar",
+      "category": "Motoniveladora",
+      "price_range_crc": "150M-200M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 181136215,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 154845587,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 0
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ138",
+    "price_range_crc": "150M-200M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Komatsu GD675 2025",
+    "description": "Motoniveladora de precisión para nivelación de caminos y preparación de superficies en obras viales. Model: Komatsu GD675. Variant: 2. Condition: Reacondicionado. Year: 2025.",
+    "brand": "Komatsu",
+    "categories": [
+      "Maquinaria Pesada",
+      "Movimiento de Tierra",
+      "Motoniveladora"
+    ],
+    "rating": 4.3,
+    "image_url": "https://tse3.mm.bing.net/th/id/OIP.Fl-d7qFo77ezKxg7lTThwwHaFs",
+    "facets": {
+      "condition": "Reacondicionado",
+      "year": 2025,
+      "weight_kg": 5212,
+      "power_hp": 459,
+      "blade_width_m": 3.87,
+      "brand": "Komatsu",
+      "category": "Motoniveladora",
+      "price_range_crc": "100M-150M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 114510665,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 97805580,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ156",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Komatsu"
+  }
+]

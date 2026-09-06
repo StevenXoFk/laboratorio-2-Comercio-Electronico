@@ -1,0 +1,902 @@
+[
+  {
+    "title": "Multiquip MC94P 2022",
+    "description": "Mezcladora de concreto portátil con motor a gasolina, ideal para proyectos de construcción pequeños y medianos. Model: Multiquip MC94P. Variant: 1. Condition: Nuevo. Year: 2022.",
+    "brand": "Multiquip",
+    "categories": [
+      "Maquinaria de Construcción",
+      "Mezcladoras",
+      "Mezcladora de Concreto"
+    ],
+    "rating": 4.8,
+    "image_url": "https://media.sandhills.com/img.axd?id=10001486118&wid=4326182721&rwl=False&p=&ext=&w=350&h=220&t=&lp=&c=True&wt=False&sz=Cover&rt=0&checksum=A7scgJS6h%2BGu3FMm5FhfjB5%2FydeUH4doWNFAclDuSrE%3D",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2022,
+      "capacity_m3": 0.28,
+      "power_hp": 9,
+      "drum_type": "Basculante",
+      "brand": "Multiquip",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "2M-5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3850000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3388000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "MX001",
+    "price_range_crc": "2M-5M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Multiquip"
+  },
+  {
+    "title": "Altrad Belle Minimix 150 2023",
+    "description": "Mezcladora de concreto compacta con motor eléctrico, ideal para trabajos en interiores y espacios reducidos. Model: Altrad Belle Minimix 150. Variant: 1. Condition: Nuevo. Year: 2023.",
+    "brand": "Altrad Belle",
+    "categories": [
+      "Maquinaria de Construcción",
+      "Mezcladoras",
+      "Mezcladora de Concreto"
+    ],
+    "rating": 4.7,
+    "image_url": "http://www.macdistributors.ie/cdn/shop/articles/Screenshot_2023-07-24_at_11.24.33.png?v=1690194378",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2023,
+      "capacity_m3": 0.15,
+      "power_hp": 1.5,
+      "drum_type": "Basculante",
+      "brand": "Altrad Belle",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "1M-3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2250000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1980000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "MX002",
+    "price_range_crc": "1M-3M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Altrad Belle"
+  },
+  {
+    "title": "IMER Group MIX 350 2022",
+    "description": "Mezcladora de concreto profesional con motor diésel, ideal para obras de construcción de mediana escala. Model: IMER Group MIX 350. Variant: 1. Condition: Nuevo. Year: 2022.",
+    "brand": "IMER Group",
+    "categories": [
+      "Maquinaria de Construcción",
+      "Mezcladoras",
+      "Mezcladora de Concreto"
+    ],
+    "rating": 4.8,
+    "image_url": "https://tilethis.com/cdn/shop/files/MULTI-MIX350.png?v=1747675883&width=2400",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2022,
+      "capacity_m3": 0.35,
+      "power_hp": 12,
+      "drum_type": "Basculante",
+      "brand": "IMER Group",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6500000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5720000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 7
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MX003",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "IMER Group"
+  },
+  {
+    "title": "Liebherr HTM 804 2023",
+    "description": "Mezcladora de concreto estacionaria de alta capacidad para proyectos de gran escala y producción continua. Model: Liebherr HTM 804. Variant: 1. Condition: Nuevo. Year: 2023.",
+    "brand": "Liebherr",
+    "categories": [
+      "Maquinaria de Construcción",
+      "Mezcladoras",
+      "Mezcladora de Concreto"
+    ],
+    "rating": 4.9,
+    "image_url": "https://assets-cdn.liebherr.com/versions/11c49f5f-b0d5-4abc-b5a7-4991e7dcf796/w-1280_h-1280_f-webp/liebherr-truck-mixer-HTM-804-lightweight.webp",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2023,
+      "capacity_m3": 4.5,
+      "power_hp": 45,
+      "drum_type": "Estacionaria",
+      "brand": "Liebherr",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "150M-200M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 175000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 154000000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 1
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MX004",
+    "price_range_crc": "150M-200M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Liebherr"
+  },
+  {
+    "title": "Wacker Neuson M1500 2022",
+    "description": "Mezcladora de concreto de alto rendimiento con motor eléctrico, ideal para proyectos de construcción exigentes. Model: Wacker Neuson M1500. Variant: 1. Condition: Nuevo. Year: 2022.",
+    "brand": "Wacker Neuson",
+    "categories": [
+      "Maquinaria de Construcción",
+      "Mezcladoras",
+      "Mezcladora de Concreto"
+    ],
+    "rating": 4.7,
+    "image_url": "https://www.acmetools.com/on/demandware.static/-/Sites-acme-catalog-m-en/default/dw527a8322/images/images/catalog/product/840812044454/wacker-neuson-m1500-120-2hp-115v-concrete-consolidation-tool-motor-5100004500.jpg",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2022,
+      "capacity_m3": 1.5,
+      "power_hp": 15,
+      "drum_type": "Basculante",
+      "brand": "Wacker Neuson",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "15M-25M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 19800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 17424000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MX005",
+    "price_range_crc": "15M-25M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Wacker Neuson"
+  },
+  {
+    "title": "Multiquip MC124P 2021",
+    "description": "Mezcladora de concreto portátil con motor a gasolina, ideal para obras de construcción y remodelación. Model: Multiquip MC124P. Variant: 1. Condition: Usado. Year: 2021.",
+    "brand": "Multiquip",
+    "categories": [
+      "Maquinaria de Construcción",
+      "Mezcladoras",
+      "Mezcladora de Concreto"
+    ],
+    "rating": 4.6,
+    "image_url": "https://generatorsource.com/wp-content/uploads/2025/08/1-320kw-multiquip-industrial-generator-unit-090469-exterior.webp",
+    "facets": {
+      "condition": "Usado",
+      "year": 2021,
+      "capacity_m3": 0.37,
+      "power_hp": 11,
+      "drum_type": "Basculante",
+      "brand": "Multiquip",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "3M-6M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4500000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3960000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MX006",
+    "price_range_crc": "3M-6M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Multiquip"
+  },
+  {
+    "title": "Altrad Belle Minimix 200 2023",
+    "description": "Mezcladora de concreto compacta con motor a gasolina, ideal para trabajos en exteriores y obras pequeñas. Model: Altrad Belle Minimix 200. Variant: 1. Condition: Nuevo. Year: 2023.",
+    "brand": "Altrad Belle",
+    "categories": [
+      "Maquinaria de Construcción",
+      "Mezcladoras",
+      "Mezcladora de Concreto"
+    ],
+    "rating": 4.6,
+    "image_url": "https://media.sandhills.com/img.axd?id=9029001822&wid=4326182721&rwl=False&p=&ext=&w=350&h=220&t=&lp=&c=True&wt=False&sz=Cover&rt=0&checksum=alJi3liNgq0Pgjepe9DYUvgjOX7fQv%2FqH19JfPRtPx8%3D",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2023,
+      "capacity_m3": 0.2,
+      "power_hp": 5.5,
+      "drum_type": "Basculante",
+      "brand": "Altrad Belle",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "2M-4M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2816000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "MX007",
+    "price_range_crc": "2M-4M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Altrad Belle"
+  },
+  {
+    "title": "IMER Group MIX 500 2022",
+    "description": "Mezcladora de concreto profesional con motor diésel, diseñada para obras de construcción exigentes. Model: IMER Group MIX 500. Variant: 1. Condition: Nuevo. Year: 2022.",
+    "brand": "IMER Group",
+    "categories": [
+      "Maquinaria de Construcción",
+      "Mezcladoras",
+      "Mezcladora de Concreto"
+    ],
+    "rating": 4.8,
+    "image_url": "https://www.imergroup.com/wp-content/uploads/2023/06/imer-equipment-mix-all.jpg",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2022,
+      "capacity_m3": 0.5,
+      "power_hp": 16,
+      "drum_type": "Basculante",
+      "brand": "IMER Group",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "8M-12M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 9800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 8624000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 5
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MX008",
+    "price_range_crc": "8M-12M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "IMER Group"
+  },
+  {
+    "title": "Wacker Neuson M2500 2023",
+    "description": "Mezcladora de concreto de alta capacidad con motor eléctrico, ideal para proyectos de construcción de gran escala. Model: Wacker Neuson M2500. Variant: 1. Condition: Nuevo. Year: 2023.",
+    "brand": "Wacker Neuson",
+    "categories": [
+      "Maquinaria de Construcción",
+      "Mezcladoras",
+      "Mezcladora de Concreto"
+    ],
+    "rating": 4.8,
+    "image_url": "https://www.contractorsdirect.com/cdn/shop/files/m-2500-internal-vibrator-kit--20533_01.webp?v=1774464619&width=1200",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2023,
+      "capacity_m3": 2.5,
+      "power_hp": 25,
+      "drum_type": "Basculante",
+      "brand": "Wacker Neuson",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "25M-40M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 32000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 28160000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 2
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MX009",
+    "price_range_crc": "25M-40M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Wacker Neuson"
+  },
+  {
+    "title": "Liebherr HTM 1204 2022",
+    "description": "Mezcladora de concreto estacionaria de ultra alta capacidad para producción continua en plantas de concreto. Model: Liebherr HTM 1204. Variant: 1. Condition: Nuevo. Year: 2022.",
+    "brand": "Liebherr",
+    "categories": [
+      "Maquinaria de Construcción",
+      "Mezcladoras",
+      "Mezcladora de Concreto"
+    ],
+    "rating": 4.9,
+    "image_url": "https://assets-cdn.liebherr.com/versions/aa5747ea-14c2-4ac7-962c-d8afcb5f7f85/w-1280_h-1280_f-webp/liebherr-truck-mixer-HTM-1204-trailer.webp",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2022,
+      "capacity_m3": 12,
+      "power_hp": 95,
+      "drum_type": "Estacionaria",
+      "brand": "Liebherr",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "300M-400M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 350000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 308000000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MX010",
+    "price_range_crc": "300M-400M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Liebherr"
+  },
+  {
+    "title": "Multiquip MC64P 2020",
+    "description": "Mezcladora de concreto portátil compacta con motor a gasolina, ideal para proyectos de construcción pequeños. Model: Multiquip MC64P. Variant: 1. Condition: Usado. Year: 2020.",
+    "brand": "Multiquip",
+    "categories": [
+      "Maquinaria de Construcción",
+      "Mezcladoras",
+      "Mezcladora de Concreto"
+    ],
+    "rating": 4.5,
+    "image_url": "https://houseofcontractors.com/cdn/shop/files/MC64S-Photoroom.jpg?v=1751300964&width=1946",
+    "facets": {
+      "condition": "Usado",
+      "year": 2020,
+      "capacity_m3": 0.19,
+      "power_hp": 6.5,
+      "drum_type": "Basculante",
+      "brand": "Multiquip",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "1.5M-3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1936000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 7
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 9
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "MX011",
+    "price_range_crc": "1.5M-3M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Multiquip"
+  },
+  {
+    "title": "Altrad Belle Mixer 350 2022",
+    "description": "Mezcladora de concreto profesional con motor eléctrico, ideal para obras de construcción de mediana escala. Model: Altrad Belle Mixer 350. Variant: 1. Condition: Nuevo. Year: 2022.",
+    "brand": "Altrad Belle",
+    "categories": [
+      "Maquinaria de Construcción",
+      "Mezcladoras",
+      "Mezcladora de Concreto"
+    ],
+    "rating": 4.7,
+    "image_url": "https://dccf75d8gej24.cloudfront.net/images/products/05/050213511/427366F4-AF0B-4144-9ABF-B39C5A0993B8-large.jpg",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2022,
+      "capacity_m3": 0.35,
+      "power_hp": 10,
+      "drum_type": "Basculante",
+      "brand": "Altrad Belle",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "4M-7M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 5500000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4840000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MX012",
+    "price_range_crc": "4M-7M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Altrad Belle"
+  },
+  {
+    "title": "IMER Group MIX 250 2021",
+    "description": "Mezcladora de concreto compacta con motor a gasolina, ideal para proyectos de construcción pequeños y medianos. Model: IMER Group MIX 250. Variant: 1. Condition: Usado. Year: 2021.",
+    "brand": "IMER Group",
+    "categories": [
+      "Maquinaria de Construcción",
+      "Mezcladoras",
+      "Mezcladora de Concreto"
+    ],
+    "rating": 4.6,
+    "image_url": "https://imerusa.com/wp-content/uploads/2026/05/mixer-1105850-0.jpg",
+    "facets": {
+      "condition": "Usado",
+      "year": 2021,
+      "capacity_m3": 0.25,
+      "power_hp": 8,
+      "drum_type": "Basculante",
+      "brand": "IMER Group",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "2.5M-4.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3500000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3080000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 7
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "MX013",
+    "price_range_crc": "2.5M-4.5M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "IMER Group"
+  },
+  {
+    "title": "Wacker Neuson M1000 2021",
+    "description": "Mezcladora de concreto compacta con motor eléctrico, ideal para trabajos en interiores y espacios reducidos. Model: Wacker Neuson M1000. Variant: 1. Condition: Usado. Year: 2021.",
+    "brand": "Wacker Neuson",
+    "categories": [
+      "Maquinaria de Construcción",
+      "Mezcladoras",
+      "Mezcladora de Concreto"
+    ],
+    "rating": 4.5,
+    "image_url": "https://cdn.dealerspike.com/imglib/v1/800x600/imglib/Assets/Inventory/CA/06/CA06F69C-1C22-409F-A3AC-31B9D0C0F6E3.jpg",
+    "facets": {
+      "condition": "Usado",
+      "year": 2021,
+      "capacity_m3": 1,
+      "power_hp": 10,
+      "drum_type": "Basculante",
+      "brand": "Wacker Neuson",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "10M-18M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 14000000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 12320000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MX014",
+    "price_range_crc": "10M-18M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Wacker Neuson"
+  },
+  {
+    "title": "Multiquip MC94P 2023",
+    "description": "Mezcladora de concreto portátil con motor a gasolina, ideal para proyectos de construcción y remodelación. Model: Multiquip MC94P. Variant: 2. Condition: Nuevo. Year: 2023.",
+    "brand": "Multiquip",
+    "categories": [
+      "Maquinaria de Construcción",
+      "Mezcladoras",
+      "Mezcladora de Concreto"
+    ],
+    "rating": 4.8,
+    "image_url": "https://houseofcontractors.com/cdn/shop/files/MC94P-Photoroom.jpg?v=1751302391&width=1946",
+    "facets": {
+      "condition": "Nuevo",
+      "year": 2023,
+      "capacity_m3": 0.28,
+      "power_hp": 9,
+      "drum_type": "Basculante",
+      "brand": "Multiquip",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "2M-5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3696000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 9
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "MX015",
+    "price_range_crc": "2M-5M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Multiquip"
+  }
+]

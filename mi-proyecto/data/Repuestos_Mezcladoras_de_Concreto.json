@@ -1,0 +1,1070 @@
+[
+  {
+    "title": "Motor Eléctrico para Mezcladora Multiquip MC94P",
+    "description": "Motor eléctrico de alta eficiencia para mezcladora de concreto Multiquip MC94P, con protección contra sobrecarga y rodamientos sellados.",
+    "brand": "Multiquip",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Motores Eléctricos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://houseofcontractors.com/cdn/shop/files/MC94P-Photoroom.jpg?v=1751302391&width=1946",
+    "facets": {
+      "compatible_models": [
+        "Multiquip MC94P",
+        "Multiquip MC124P"
+      ],
+      "power_hp": 9,
+      "voltage": "220V",
+      "type": "Motor Eléctrico",
+      "condition": "Nuevo",
+      "brand": "Multiquip",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "800K-1.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1100000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 968000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 15
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-MC-001",
+    "price_range_crc": "800K-1.5M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Multiquip"
+  },
+  {
+    "title": "Tambor de Mezclado para Altrad Belle Minimix 150",
+    "description": "Tambor de mezclado de acero inoxidable para mezcladora Altrad Belle Minimix 150, con paletas de mezclado reforzadas.",
+    "brand": "Altrad Belle",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Tambores"
+    ],
+    "rating": 4.6,
+    "image_url": "https://i.ebayimg.com/images/g/hRgAAeSwBvdonJ74/s-l400.jpg",
+    "facets": {
+      "compatible_models": [
+        "Altrad Belle Minimix 150",
+        "Altrad Belle Minimix 200"
+      ],
+      "material": "Acero inoxidable",
+      "capacity_m3": 0.15,
+      "type": "Tambor de Mezclado",
+      "condition": "Nuevo",
+      "brand": "Altrad Belle",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "600K-1.2M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 850000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 748000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 10
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 18
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 6
+      }
+    ],
+    "objectID": "REP-MC-002",
+    "price_range_crc": "600K-1.2M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Altrad Belle"
+  },
+  {
+    "title": "Motor Diésel para IMER Group MIX 350",
+    "description": "Motor diésel de alto rendimiento para mezcladora de concreto IMER Group MIX 350, con sistema de arranque eléctrico.",
+    "brand": "IMER Group",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Motores Diésel"
+    ],
+    "rating": 4.8,
+    "image_url": "https://tilethis.com/cdn/shop/files/MULTI-MIX350.png?v=1747675883&width=2400",
+    "facets": {
+      "compatible_models": [
+        "IMER Group MIX 350",
+        "IMER Group MIX 500"
+      ],
+      "power_hp": 12,
+      "type": "Motor Diésel",
+      "condition": "Nuevo",
+      "brand": "IMER Group",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "2M-4M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2552000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-MC-003",
+    "price_range_crc": "2M-4M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "IMER Group"
+  },
+  {
+    "title": "Kit de Paletas para Liebherr HTM 804",
+    "description": "Kit completo de paletas de mezclado para mezcladora estacionaria Liebherr HTM 804, fabricadas en acero de alta resistencia al desgaste.",
+    "brand": "Liebherr",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Paletas"
+    ],
+    "rating": 4.9,
+    "image_url": "https://assets-cdn.liebherr.com/versions/11c49f5f-b0d5-4abc-b5a7-4991e7dcf796/w-1280_h-1280_f-webp/liebherr-truck-mixer-HTM-804-lightweight.webp",
+    "facets": {
+      "compatible_models": [
+        "Liebherr HTM 804",
+        "Liebherr HTM 1204"
+      ],
+      "material": "Acero de alta resistencia",
+      "type": "Kit de Paletas",
+      "condition": "Nuevo",
+      "brand": "Liebherr",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "3M-6M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3872000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-MC-004",
+    "price_range_crc": "3M-6M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Liebherr"
+  },
+  {
+    "title": "Cilindro de Volteo para Wacker Neuson M1500",
+    "description": "Cilindro hidráulico de volteo para mezcladora de concreto Wacker Neuson M1500, fabricado en acero cromado con doble sellado.",
+    "brand": "Wacker Neuson",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.acmetools.com/on/demandware.static/-/Sites-acme-catalog-m-en/default/dw527a8322/images/images/catalog/product/840812044454/wacker-neuson-m1500-120-2hp-115v-concrete-consolidation-tool-motor-5100004500.jpg",
+    "facets": {
+      "compatible_models": [
+        "Wacker Neuson M1500",
+        "Wacker Neuson M1000"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Volteo",
+      "condition": "Reacondicionado",
+      "brand": "Wacker Neuson",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "1.2M-2.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1584000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-MC-005",
+    "price_range_crc": "1.2M-2.5M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Wacker Neuson"
+  },
+  {
+    "title": "Motor a Gasolina para Multiquip MC124P",
+    "description": "Motor a gasolina de alta potencia para mezcladora de concreto Multiquip MC124P, con sistema de arranque manual y eléctrico.",
+    "brand": "Multiquip",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Motores a Gasolina"
+    ],
+    "rating": 4.5,
+    "image_url": "https://cdn.shoplightspeed.com/shops/635138/files/50127432/multiquip-centrifugal-211gpm-2-trash-pump-qp2th.jpg",
+    "facets": {
+      "compatible_models": [
+        "Multiquip MC124P",
+        "Multiquip MC94P"
+      ],
+      "power_hp": 11,
+      "type": "Motor a Gasolina",
+      "condition": "Nuevo",
+      "brand": "Multiquip",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "1.5M-3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1936000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-MC-006",
+    "price_range_crc": "1.5M-3M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Multiquip"
+  },
+  {
+    "title": "Tambor de Mezclado para Altrad Belle Minimix 200",
+    "description": "Tambor de mezclado de acero inoxidable para mezcladora Altrad Belle Minimix 200, con paletas de mezclado reforzadas.",
+    "brand": "Altrad Belle",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Tambores"
+    ],
+    "rating": 4.6,
+    "image_url": "https://img.yumpu.com/17211877/1/184x260/baromix-minor-belle-group.jpg?quality=85",
+    "facets": {
+      "compatible_models": [
+        "Altrad Belle Minimix 200",
+        "Altrad Belle Minimix 150"
+      ],
+      "material": "Acero inoxidable",
+      "capacity_m3": 0.2,
+      "type": "Tambor de Mezclado",
+      "condition": "Nuevo",
+      "brand": "Altrad Belle",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "700K-1.3M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 950000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 836000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 15
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-MC-007",
+    "price_range_crc": "700K-1.3M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Altrad Belle"
+  },
+  {
+    "title": "Motor Diésel para IMER Group MIX 500",
+    "description": "Motor diésel de alta potencia para mezcladora de concreto IMER Group MIX 500, con sistema de arranque eléctrico.",
+    "brand": "IMER Group",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Motores Diésel"
+    ],
+    "rating": 4.7,
+    "image_url": "https://www.imergroup.com/wp-content/uploads/2023/06/imer-equipment-mix-all.jpg",
+    "facets": {
+      "compatible_models": [
+        "IMER Group MIX 500",
+        "IMER Group MIX 350"
+      ],
+      "power_hp": 16,
+      "type": "Motor Diésel",
+      "condition": "Nuevo",
+      "brand": "IMER Group",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "2.5M-4.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2992000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-MC-008",
+    "price_range_crc": "2.5M-4.5M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "IMER Group"
+  },
+  {
+    "title": "Kit de Filtros para Wacker Neuson M2500",
+    "description": "Kit completo de filtros para mezcladora de concreto Wacker Neuson M2500, incluye filtro de aceite, aire y combustible.",
+    "brand": "Wacker Neuson",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.5,
+    "image_url": "http://shop.equipmentshare.com/cdn/shop/products/1000358358_Maintenance-Kit-500H.png?v=1633118536",
+    "facets": {
+      "compatible_models": [
+        "Wacker Neuson M2500",
+        "Wacker Neuson M1500"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Wacker Neuson",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "200K-400K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 280000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 246400,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-MC-009",
+    "price_range_crc": "200K-400K",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Wacker Neuson"
+  },
+  {
+    "title": "Reductor de Velocidad para Liebherr HTM 1204",
+    "description": "Reductor de velocidad de alta resistencia para mezcladora estacionaria Liebherr HTM 1204, con engranajes de acero templado.",
+    "brand": "Liebherr",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Reductores"
+    ],
+    "rating": 4.8,
+    "image_url": "https://assets-cdn.liebherr.com/versions/aa5747ea-14c2-4ac7-962c-d8afcb5f7f85/w-1280_h-1280_f-webp/liebherr-truck-mixer-HTM-1204-trailer.webp",
+    "facets": {
+      "compatible_models": [
+        "Liebherr HTM 1204",
+        "Liebherr HTM 804"
+      ],
+      "material": "Acero templado",
+      "type": "Reductor de Velocidad",
+      "condition": "Nuevo",
+      "brand": "Liebherr",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "5M-9M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5984000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 3
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 6
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "REP-MC-010",
+    "price_range_crc": "5M-9M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Liebherr"
+  },
+  {
+    "title": "Motor Eléctrico para Multiquip MC64P",
+    "description": "Motor eléctrico compacto para mezcladora de concreto Multiquip MC64P, con protección contra sobrecarga.",
+    "brand": "Multiquip",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Motores Eléctricos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://houseofcontractors.com/cdn/shop/files/MC64P-Photoroom.jpg?v=1751300964&width=1946",
+    "facets": {
+      "compatible_models": [
+        "Multiquip MC64P",
+        "Multiquip MC50"
+      ],
+      "power_hp": 6.5,
+      "voltage": "220V",
+      "type": "Motor Eléctrico",
+      "condition": "Nuevo",
+      "brand": "Multiquip",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "600K-1M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 780000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 686400,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 12
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 20
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 8
+      }
+    ],
+    "objectID": "REP-MC-011",
+    "price_range_crc": "600K-1M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Multiquip"
+  },
+  {
+    "title": "Tambor de Mezclado para Altrad Belle Mixer 350",
+    "description": "Tambor de mezclado de acero inoxidable para mezcladora Altrad Belle Mixer 350, con paletas de mezclado reforzadas.",
+    "brand": "Altrad Belle",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Tambores"
+    ],
+    "rating": 4.6,
+    "image_url": "https://img.yumpu.com/17211877/1/184x260/baromix-minor-belle-group.jpg?quality=85",
+    "facets": {
+      "compatible_models": [
+        "Altrad Belle Mixer 350",
+        "Altrad Belle Minimix 200"
+      ],
+      "material": "Acero inoxidable",
+      "capacity_m3": 0.35,
+      "type": "Tambor de Mezclado",
+      "condition": "Nuevo",
+      "brand": "Altrad Belle",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "800K-1.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1100000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 968000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-MC-012",
+    "price_range_crc": "800K-1.5M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Altrad Belle"
+  },
+  {
+    "title": "Motor a Gasolina para IMER Group MIX 250",
+    "description": "Motor a gasolina de alta potencia para mezcladora de concreto IMER Group MIX 250, con sistema de arranque manual.",
+    "brand": "IMER Group",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Motores a Gasolina"
+    ],
+    "rating": 4.5,
+    "image_url": "https://imerusa.com/wp-content/uploads/2026/05/mixer-1105850-0.jpg",
+    "facets": {
+      "compatible_models": [
+        "IMER Group MIX 250",
+        "IMER Group MIX 200"
+      ],
+      "power_hp": 8,
+      "type": "Motor a Gasolina",
+      "condition": "Nuevo",
+      "brand": "IMER Group",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "1.2M-2.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1584000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-MC-013",
+    "price_range_crc": "1.2M-2.5M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "IMER Group"
+  },
+  {
+    "title": "Cilindro de Volteo para Wacker Neuson M1000",
+    "description": "Cilindro hidráulico de volteo para mezcladora de concreto Wacker Neuson M1000, fabricado en acero cromado con doble sellado.",
+    "brand": "Wacker Neuson",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://assets.northerntool.com//products/877/images/87751.jpg",
+    "facets": {
+      "compatible_models": [
+        "Wacker Neuson M1000",
+        "Wacker Neuson M1500"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Volteo",
+      "condition": "Reacondicionado",
+      "brand": "Wacker Neuson",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "1M-2M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1276000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-MC-014",
+    "price_range_crc": "1M-2M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Wacker Neuson"
+  },
+  {
+    "title": "Kit de Filtros para Multiquip MC94P",
+    "description": "Kit completo de filtros para mezcladora de concreto Multiquip MC94P, incluye filtro de aceite, aire y combustible.",
+    "brand": "Multiquip",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.5,
+    "image_url": "https://m.media-amazon.com/images/I/411H5NcZldL._AC_UF894,1000_QL80_.jpg",
+    "facets": {
+      "compatible_models": [
+        "Multiquip MC94P",
+        "Multiquip MC124P"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Multiquip",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "150K-300K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 220000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 193600,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 35
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 60
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 25
+      }
+    ],
+    "objectID": "REP-MC-015",
+    "price_range_crc": "150K-300K",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Multiquip"
+  },
+  {
+    "title": "Motor Eléctrico para Altrad Belle Minimix 150",
+    "description": "Motor eléctrico de alta eficiencia para mezcladora de concreto Altrad Belle Minimix 150, con protección contra sobrecarga.",
+    "brand": "Altrad Belle",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Motores Eléctricos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.sparepartsworld.co.uk/images/upload/900-30300.jpg",
+    "facets": {
+      "compatible_models": [
+        "Altrad Belle Minimix 150",
+        "Altrad Belle Minimix 200"
+      ],
+      "power_hp": 1.5,
+      "voltage": "220V",
+      "type": "Motor Eléctrico",
+      "condition": "Nuevo",
+      "brand": "Altrad Belle",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "400K-800K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 580000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 510400,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 10
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 18
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 6
+      }
+    ],
+    "objectID": "REP-MC-016",
+    "price_range_crc": "400K-800K",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "Altrad Belle"
+  },
+  {
+    "title": "Kit de Paletas para IMER Group MIX 500",
+    "description": "Kit completo de paletas de mezclado para mezcladora IMER Group MIX 500, fabricadas en acero de alta resistencia al desgaste.",
+    "brand": "IMER Group",
+    "categories": [
+      "Repuestos",
+      "Mezcladora de Concreto",
+      "Paletas"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.imergroup.com/wp-content/uploads/2023/06/imer-equipment-mix-all.jpg",
+    "facets": {
+      "compatible_models": [
+        "IMER Group MIX 500",
+        "IMER Group MIX 350"
+      ],
+      "material": "Acero de alta resistencia",
+      "type": "Kit de Paletas",
+      "condition": "Nuevo",
+      "brand": "IMER Group",
+      "category": "Mezcladora de Concreto",
+      "price_range_crc": "1M-2M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 1450000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 1276000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-MC-017",
+    "price_range_crc": "1M-2M",
+    "category_facet": "Mezcladora de Concreto",
+    "brand_facet": "IMER Group"
+  }
+]

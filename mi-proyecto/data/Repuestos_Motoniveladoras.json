@@ -1,0 +1,1073 @@
+[
+  {
+    "title": "Hoja de Nivelación para Caterpillar 120",
+    "description": "Hoja de nivelación de alta resistencia para motoniveladora Caterpillar 120, fabricada en acero Hardox con bordes de desgaste.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Hojas"
+    ],
+    "rating": 4.8,
+    "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20200529-d6969-1ae59",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 120",
+        "Caterpillar 140"
+      ],
+      "material": "Acero Hardox 450",
+      "width_m": 4,
+      "type": "Hoja de Nivelación",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Motoniveladora",
+      "price_range_crc": "4M-7M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 5400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4752000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-MOTO-001",
+    "price_range_crc": "4M-7M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Kit de Neumáticos para Komatsu GD675",
+    "description": "Juego de 4 neumáticos para motoniveladora Komatsu GD675, con banda de rodadura para terrenos mixtos.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Neumáticos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://media.fridayparts.com/media/catalog/product/b/l/blade-shift-cylinder-seal-kit-707-98-25330-for-komatsu-motor-grader-gd555-3-gd655-3-gd655-3e0-gd675-3-gd675-3e0.jpg?store=default&image-type=image&width=460&height=460",
+    "facets": {
+      "compatible_models": [
+        "Komatsu GD675",
+        "Komatsu GD655"
+      ],
+      "size": "17.5R25",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "Komatsu",
+      "category": "Motoniveladora",
+      "price_range_crc": "3M-5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3432000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 16
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-MOTO-002",
+    "price_range_crc": "3M-5M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Cilindro de Elevación para Caterpillar 140",
+    "description": "Cilindro hidráulico de elevación para motoniveladora Caterpillar 140, fabricado en acero cromado con doble sellado.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.7,
+    "image_url": "https://image.made-in-china.com/365f3j00nPLscMfRChoH/R1300-Cargar-Transportar-Descargar-154-6907-1546907-Cilindro-de-Elevaci-n-Hidr-ulico.webp",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 140",
+        "Caterpillar 120"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Elevación",
+      "condition": "Reacondicionado",
+      "brand": "Caterpillar",
+      "category": "Motoniveladora",
+      "price_range_crc": "2.5M-4M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2816000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-MOTO-003",
+    "price_range_crc": "2.5M-4M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Kit de Filtros para Caterpillar 120",
+    "description": "Kit completo de filtros para motoniveladora Caterpillar 120, incluye filtro de aceite, aire y combustible.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://filtroswilly.co/wp-content/uploads/2023/09/Motoniveladora-120.png",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 120",
+        "Caterpillar 140"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Motoniveladora",
+      "price_range_crc": "250K-500K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 350000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 308000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-MOTO-004",
+    "price_range_crc": "250K-500K",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Hoja de Nivelación para Komatsu GD675",
+    "description": "Hoja de nivelación de alta resistencia para motoniveladora Komatsu GD675, fabricada en acero Hardox con bordes de desgaste.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Hojas"
+    ],
+    "rating": 4.7,
+    "image_url": "https://media.fridayparts.com/media/catalog/product/p/l/plate-23b-70-31641-for-komatsu-motor-grader-gd675-6-gd655-6-gd675-7e0-gd655-71.jpeg?store=es&image-type=image&width=460&height=460",
+    "facets": {
+      "compatible_models": [
+        "Komatsu GD675",
+        "Komatsu GD655"
+      ],
+      "material": "Acero Hardox 450",
+      "width_m": 3.8,
+      "type": "Hoja de Nivelación",
+      "condition": "Nuevo",
+      "brand": "Komatsu",
+      "category": "Motoniveladora",
+      "price_range_crc": "4M-6M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 4312000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-MOTO-005",
+    "price_range_crc": "4M-6M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Cilindro de Dirección para Caterpillar 120",
+    "description": "Cilindro hidráulico de dirección para motoniveladora Caterpillar 120, fabricado en acero cromado con doble sellado.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://caterpillar.scene7.com/is/image/Caterpillar/CM20250801-db700-6f092?fmt=WebP&hei=960&iccembed=0&layer=COMP&op_sharpen=0&op_usm=1%2C1%2C6%2C0&printres=72&qlt=88%2C1&resmode=sharp2&wid=960",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 120",
+        "Caterpillar 140"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Dirección",
+      "condition": "Reacondicionado",
+      "brand": "Caterpillar",
+      "category": "Motoniveladora",
+      "price_range_crc": "2M-3.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2700000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2376000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-MOTO-006",
+    "price_range_crc": "2M-3.5M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Kit de Neumáticos para Caterpillar 140",
+    "description": "Juego de 4 neumáticos para motoniveladora Caterpillar 140, con banda de rodadura para terrenos mixtos.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Neumáticos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://monstertires.com/wp-content/uploads/2015/09/Motor_Grader_Tires_Full_Set_6_Tires.jpg",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 140",
+        "Caterpillar 120"
+      ],
+      "size": "18.4R24",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Motoniveladora",
+      "price_range_crc": "3M-5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3432000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 16
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-MOTO-007",
+    "price_range_crc": "3M-5M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Kit de Filtros para Komatsu GD675",
+    "description": "Kit completo de filtros para motoniveladora Komatsu GD675, incluye filtro de aceite, aire y combustible.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.5,
+    "image_url": "https://www.costex.com/wp-content/uploads/2023/03/komatsu-filters-header-1.jpg",
+    "facets": {
+      "compatible_models": [
+        "Komatsu GD675",
+        "Komatsu GD655"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Komatsu",
+      "category": "Motoniveladora",
+      "price_range_crc": "250K-500K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 350000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 308000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-MOTO-008",
+    "price_range_crc": "250K-500K",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Hoja de Nivelación para Caterpillar 140",
+    "description": "Hoja de nivelación de alta resistencia para motoniveladora Caterpillar 140, fabricada en acero Hardox con bordes de desgaste.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Hojas"
+    ],
+    "rating": 4.7,
+    "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20241105-79322-78d71",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 140",
+        "Caterpillar 120"
+      ],
+      "material": "Acero Hardox 450",
+      "width_m": 4.2,
+      "type": "Hoja de Nivelación",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Motoniveladora",
+      "price_range_crc": "4.5M-7.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 5800000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5104000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-MOTO-009",
+    "price_range_crc": "4.5M-7.5M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Cilindro de Elevación para Komatsu GD675",
+    "description": "Cilindro hidráulico de elevación para motoniveladora Komatsu GD675, fabricado en acero cromado con doble sellado.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://image.made-in-china.com/2f0j00fJcbFmMRrQpB/Komatsu-Dozer-Hydraulic-Lift-Cylinder-for-D155ax6-Rod-Parts.jpg",
+    "facets": {
+      "compatible_models": [
+        "Komatsu GD675",
+        "Komatsu GD655"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Elevación",
+      "condition": "Reacondicionado",
+      "brand": "Komatsu",
+      "category": "Motoniveladora",
+      "price_range_crc": "2.5M-4M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2816000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-MOTO-010",
+    "price_range_crc": "2.5M-4M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Kit de Neumáticos para Caterpillar 120",
+    "description": "Juego de 4 neumáticos para motoniveladora Caterpillar 120, con banda de rodadura para terrenos mixtos.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Neumáticos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://monstertires.com/wp-content/uploads/2015/09/Motor_Grader_Tires_Full_Set_6_Tires.jpg",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 120",
+        "Caterpillar 140"
+      ],
+      "size": "17.5R25",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Motoniveladora",
+      "price_range_crc": "3M-5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3900000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3432000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 8
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 16
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 5
+      }
+    ],
+    "objectID": "REP-MOTO-011",
+    "price_range_crc": "3M-5M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Kit de Filtros para Caterpillar 140",
+    "description": "Kit completo de filtros para motoniveladora Caterpillar 140, incluye filtro de aceite, aire y combustible.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Kits de Mantenimiento"
+    ],
+    "rating": 4.6,
+    "image_url": "https://i.ebayimg.com/images/g/1YAAAOSwsQJfglA-/s-l1200.jpg",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 140",
+        "Caterpillar 120"
+      ],
+      "includes": [
+        "Filtro de aceite",
+        "Filtro de aire",
+        "Filtro de combustible"
+      ],
+      "type": "Kit de Filtros",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Motoniveladora",
+      "price_range_crc": "250K-500K"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 350000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 308000,
+        "min_order_quantity": 3,
+        "volume_discounts": [
+          {
+            "min_units": 6,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 12,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 30
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 50
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 20
+      }
+    ],
+    "objectID": "REP-MOTO-012",
+    "price_range_crc": "250K-500K",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Hoja de Nivelación para Komatsu GD675 v2",
+    "description": "Hoja de nivelación de alta resistencia para motoniveladora Komatsu GD675, fabricada en acero Hardox con bordes de desgaste.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Hojas"
+    ],
+    "rating": 4.6,
+    "image_url": "https://screenshots.scribd.com/Scribd/252_100_85/356/393969520/1.jpeg",
+    "facets": {
+      "compatible_models": [
+        "Komatsu GD675",
+        "Komatsu GD655"
+      ],
+      "material": "Acero Hardox 500",
+      "width_m": 4,
+      "type": "Hoja de Nivelación",
+      "condition": "Nuevo",
+      "brand": "Komatsu",
+      "category": "Motoniveladora",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5632000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-MOTO-013",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Cilindro de Dirección para Komatsu GD675",
+    "description": "Cilindro hidráulico de dirección para motoniveladora Komatsu GD675, fabricado en acero cromado con doble sellado.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.5,
+    "image_url": "https://image.made-in-china.com/202f0j00RkWoKdagYUbz/Replacement-Steering-Hydraulic-Cylinder-for-Komatsu-930e-E0241-Mining-Haul-Truck.webp",
+    "facets": {
+      "compatible_models": [
+        "Komatsu GD675",
+        "Komatsu GD655"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Dirección",
+      "condition": "Reacondicionado",
+      "brand": "Komatsu",
+      "category": "Motoniveladora",
+      "price_range_crc": "2M-3.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 2700000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2376000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-MOTO-014",
+    "price_range_crc": "2M-3.5M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Hoja de Nivelación para Caterpillar 120 v2",
+    "description": "Hoja de nivelación de alta resistencia para motoniveladora Caterpillar 120, fabricada en acero Hardox con bordes de desgaste.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Hojas"
+    ],
+    "rating": 4.7,
+    "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20191209-24be4-9394e",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 120",
+        "Caterpillar 140"
+      ],
+      "material": "Acero Hardox 500",
+      "width_m": 4.2,
+      "type": "Hoja de Nivelación",
+      "condition": "Nuevo",
+      "brand": "Caterpillar",
+      "category": "Motoniveladora",
+      "price_range_crc": "5M-8M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 6400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 5632000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 5,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 4
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 8
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "REP-MOTO-015",
+    "price_range_crc": "5M-8M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Caterpillar"
+  },
+  {
+    "title": "Kit de Neumáticos para Komatsu GD675 v2",
+    "description": "Juego de 4 neumáticos para motoniveladora Komatsu GD675, con banda de rodadura para terrenos mixtos.",
+    "brand": "Komatsu",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Neumáticos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://www.dieselrebuildkits.com/wp-content/uploads/2018/10/KMP-Komatsu-rebuild-Kit.png",
+    "facets": {
+      "compatible_models": [
+        "Komatsu GD675",
+        "Komatsu GD655"
+      ],
+      "size": "18.4R24",
+      "type": "Neumáticos",
+      "condition": "Nuevo",
+      "brand": "Komatsu",
+      "category": "Motoniveladora",
+      "price_range_crc": "3.5M-5.5M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 4400000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 3872000,
+        "min_order_quantity": 2,
+        "volume_discounts": [
+          {
+            "min_units": 4,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 8,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 6
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 12
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 4
+      }
+    ],
+    "objectID": "REP-MOTO-016",
+    "price_range_crc": "3.5M-5.5M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Komatsu"
+  },
+  {
+    "title": "Cilindro de Elevación para Caterpillar 120",
+    "description": "Cilindro hidráulico de elevación para motoniveladora Caterpillar 120, fabricado en acero cromado con doble sellado.",
+    "brand": "Caterpillar",
+    "categories": [
+      "Repuestos",
+      "Motoniveladora",
+      "Cilindros Hidráulicos"
+    ],
+    "rating": 4.6,
+    "image_url": "https://s.alicdn.com/@sc04/kf/Hb11512efeb374b4caa20b38e658aaf2ce/CAT-320C-360-330-235-120-Hydraulic-Cylinder-for-Caterpillar-Excavator-Arm-Boom-Bucket-Cylinder.jpg",
+    "facets": {
+      "compatible_models": [
+        "Caterpillar 120",
+        "Caterpillar 140"
+      ],
+      "material": "Acero cromado",
+      "type": "Cilindro de Elevación",
+      "condition": "Reacondicionado",
+      "brand": "Caterpillar",
+      "category": "Motoniveladora",
+      "price_range_crc": "2.5M-4M"
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 3200000,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 2816000,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 3,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 6,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 5
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 10
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 3
+      }
+    ],
+    "objectID": "REP-MOTO-017",
+    "price_range_crc": "2.5M-4M",
+    "category_facet": "Motoniveladora",
+    "brand_facet": "Caterpillar"
+  }
+]

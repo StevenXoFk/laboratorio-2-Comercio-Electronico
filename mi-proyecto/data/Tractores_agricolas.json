@@ -1,0 +1,310 @@
+[
+  {
+    "title": "John Deere 8630 1975",
+    "description": "Tractor agrícola pesado con chasis articulado y tracción 4x4, diseñado para labores agrícolas de alta demanda y preparación de suelos a gran escala. Model: John Deere 8630. Variant: 1. Condition: Usado. Year: 1975.",
+    "brand": "John Deere",
+    "categories": [
+      "Maquinaria Agrícola",
+      "Tractores",
+      "Tractores de Alta Potencia"
+    ],
+    "rating": 4.7,
+    "image_url": "https://assets.machinerypete.com/uploads/image/processed_image/43065489/full_size_e7d5b51f-f612-45ac-a26e-a3e064bc9bdd20250721-2-6o45t5",
+    "facets": {
+      "condition": "Usado",
+      "año_produccion_rango": "1975-1978",
+      "weight_kg": 11113.01,
+      "potencia_motor_hp": 275,
+      "transmision": "Quad-Range de 16 velocidades",
+      "fuel_capacity_liters": 590.5,
+      "brand": "John Deere",
+      "category": "Tractores de Alta Potencia",
+      "price_range_crc": "150M-200M",
+      "year": 1975
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 175948276,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 154834482,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ055",
+    "price_range_crc": "150M-200M",
+    "category_facet": "Tractores de Alta Potencia",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "John Deere 6415 2003",
+    "description": "Tractor utilitario agrícola de alta resistencia, diseñado para una amplia variedad de labores de campo, ganadería y soporte en fincas medianas y grandes. Model: John Deere 6415. Variant: 1. Condition: Usado. Year: 2003.",
+    "brand": "John Deere",
+    "categories": [
+      "Maquinaria Agrícola",
+      "Tractores",
+      "Tractores Utilitarios"
+    ],
+    "rating": 4.5,
+    "image_url": "https://static2.aastatic.com.ar/files/variants/1200/e079d94fcdaf49f882b1d7db172b6b37.webp",
+    "facets": {
+      "condition": "Usado",
+      "año_produccion_rango": "2003-2007",
+      "weight_kg": 4350,
+      "power_hp": 105,
+      "engine_model": "PowerTech 4.5L 4-Cyl diesel",
+      "brand": "John Deere",
+      "category": "Tractores Utilitarios",
+      "price_range_crc": "100M-150M",
+      "year": 2003
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 105550838,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 92884735,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 3
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ054",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Tractores Utilitarios",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "John Deere 8630 2018",
+    "description": "Tractor agrícola pesado con chasis articulado y tracción 4x4, diseñado para labores agrícolas de alta demanda y preparación de suelos a gran escala. Model: John Deere 8630. Variant: 2. Condition: Usado. Year: 2018.",
+    "brand": "John Deere",
+    "categories": [
+      "Maquinaria Agrícola",
+      "Tractores",
+      "Tractores de Alta Potencia"
+    ],
+    "rating": 4.7,
+    "image_url": "https://www.allmachines.com/_next/image?url=https%3A%2F%2Fassets.allmachines.com%2Fmowers%2Fimage%2Fweb%2Fjohn_deere%2Fa8b726677a6e3333%2Fv1.jpeg&w=3840&q=60",
+    "facets": {
+      "condition": "Usado",
+      "año_produccion_rango": "1975-1978",
+      "weight_kg": 11113.01,
+      "potencia_motor_hp": 275,
+      "transmision": "Quad-Range de 16 velocidades",
+      "fuel_capacity_liters": 590.5,
+      "brand": "John Deere",
+      "category": "Tractores de Alta Potencia",
+      "price_range_crc": "150M-200M",
+      "year": 2018
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 165391379,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 140899379,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 2
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 0
+      }
+    ],
+    "objectID": "MQ127",
+    "price_range_crc": "150M-200M",
+    "category_facet": "Tractores de Alta Potencia",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "John Deere 6415 2019",
+    "description": "Tractor utilitario agrícola de alta resistencia, diseñado para una amplia variedad de labores de campo, ganadería y soporte en fincas medianas y grandes. Model: John Deere 6415. Variant: 2. Condition: Usado. Year: 2019.",
+    "brand": "John Deere",
+    "categories": [
+      "Maquinaria Agrícola",
+      "Tractores",
+      "Tractores Utilitarios"
+    ],
+    "rating": 4.5,
+    "image_url": "https://static2.aastatic.com.ar/files/variants/1200/e079d94fcdaf49f882b1d7db172b6b37.webp",
+    "facets": {
+      "condition": "Usado",
+      "año_produccion_rango": "2003-2007",
+      "weight_kg": 4350,
+      "power_hp": 105,
+      "engine_model": "PowerTech 4.5L 4-Cyl diesel",
+      "brand": "John Deere",
+      "category": "Tractores Utilitarios",
+      "price_range_crc": "100M-150M",
+      "year": 2019
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 116105922,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 99386666,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 4
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 1
+      }
+    ],
+    "objectID": "MQ143",
+    "price_range_crc": "100M-150M",
+    "category_facet": "Tractores Utilitarios",
+    "brand_facet": "John Deere"
+  },
+  {
+    "title": "John Deere 8630 2020",
+    "description": "Tractor agrícola pesado con chasis articulado y tracción 4x4, diseñado para labores agrícolas de alta demanda y preparación de suelos a gran escala. Model: John Deere 8630. Variant: 4. Condition: Usado. Year: 2020.",
+    "brand": "John Deere",
+    "categories": [
+      "Maquinaria Agrícola",
+      "Tractores",
+      "Tractores de Alta Potencia"
+    ],
+    "rating": 4.7,
+    "image_url": "https://www.allmachines.com/_next/image?url=https%3A%2F%2Fassets.allmachines.com%2Fmowers%2Fimage%2Fweb%2Fjohn_deere%2Fa8b726677a6e3333%2Fv1.jpeg&w=3840&q=60",
+    "facets": {
+      "condition": "Usado",
+      "año_produccion_rango": "1975-1978",
+      "weight_kg": 11113.01,
+      "potencia_motor_hp": 275,
+      "transmision": "Quad-Range de 16 velocidades",
+      "fuel_capacity_liters": 590.5,
+      "brand": "John Deere",
+      "category": "Tractores de Alta Potencia",
+      "price_range_crc": "150M-200M",
+      "year": 2020
+    },
+    "pricing": {
+      "b2c": {
+        "price_crc": 188264655,
+        "in_stock": true
+      },
+      "b2b": {
+        "price_crc": 161027861,
+        "min_order_quantity": 1,
+        "volume_discounts": [
+          {
+            "min_units": 2,
+            "discount_pct": 0.05
+          },
+          {
+            "min_units": 4,
+            "discount_pct": 0.1
+          }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "site": "Cartago Centro",
+        "stock_quantity": 0
+      },
+      {
+        "site": "San José",
+        "stock_quantity": 1
+      },
+      {
+        "site": "Alajuela",
+        "stock_quantity": 2
+      }
+    ],
+    "objectID": "MQ329",
+    "price_range_crc": "150M-200M",
+    "category_facet": "Tractores de Alta Potencia",
+    "brand_facet": "John Deere"
+  }
+]
