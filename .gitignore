@@ -1,0 +1,10 @@
+# Variables de entorno: el .gitignore de mi-proyecto/ solo cubre esa carpeta,
+# asi que cualquier archivo de credenciales en la raiz quedaba sin proteger.
+.env
+.env.*
+env
+env.*
+*.env
+
+node_modules
+dist

@@ -46,8 +46,8 @@
   height: 28px;
   border-radius: 6px;
   border: 1px solid var(--border);
-  background: #ffd400;
-  color: #08060d;
+  background: var(--brand);
+  color: var(--brand-ink);
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -59,11 +59,16 @@
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 }
 
+/* En escritorio el toggle es solo el chevron; la etiqueta aparece en <=768px */
+.filters-toggle__label {
+  display: none;
+}
+
 .filters-toggle:hover {
   opacity: 1;
   transform: scale(1.05);
-  background: #ffd400;
-  border-color: #08060d;
+  background: var(--brand);
+  border-color: var(--brand-ink);
 }
 
 .catalog-filters-wrap.is-collapsed .filters-toggle {
@@ -75,8 +80,8 @@
   width: 32px;
   height: 48px;
   border-left: none;
-  background: #ffd400;
-  border-color: #08060d;
+  background: var(--brand);
+  border-color: var(--brand-ink);
   box-shadow: 2px 0 8px rgba(0, 0, 0, 0.1);
   opacity: 1;
   z-index: 100;
@@ -114,9 +119,9 @@
 }
 
 .catalog-filters .ais-ClearRefinements-button:hover {
-  background: #ffd400;
-  border-color: #08060d;
-  color: #08060d;
+  background: var(--brand);
+  border-color: var(--brand-ink);
+  color: var(--brand-ink);
 }
 
 .filter-group {
@@ -204,9 +209,9 @@
 }
 
 .ais-RefinementList-showMore:hover {
-  background: #ffd400;
-  border-color: #08060d;
-  color: #08060d;
+  background: var(--brand);
+  border-color: var(--brand-ink);
+  color: var(--brand-ink);
 }
 
 .ais-RangeInput-form {
@@ -281,9 +286,9 @@
 .ais-RangeInput-submit {
   padding: 0.5rem 1rem;
   border-radius: 6px;
-  border: 2px solid #08060d;
-  background: #ffd400;
-  color: #08060d;
+  border: 2px solid var(--brand-ink);
+  background: var(--brand);
+  color: var(--brand-ink);
   font-size: 0.75rem;
   cursor: pointer;
   font-weight: 700;
@@ -340,9 +345,38 @@
     display: none;
   }
 
+  /* En movil el panel mide ~1065px y empuja la grilla fuera de la primera
+     pantalla, asi que el toggle pasa a ser un boton full-width con texto
+     (antes estaba display:none y dejaba el panel abierto sin forma de cerrarlo). */
   .filters-toggle,
   .catalog-filters-wrap.is-collapsed .filters-toggle {
+    display: flex;
+    position: static;
+    width: 100%;
+    height: auto;
+    min-height: 44px;
+    padding: 0.6rem 1rem;
+    margin-bottom: 0.75rem;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    opacity: 1;
+    gap: 0.4rem;
+  }
+
+  .filters-toggle__icon {
     display: none;
+  }
+
+  .filters-toggle__label {
+    display: inline;
+  }
+
+  /* el scale(1.05) del hover saca ~9px por lado a un boton full-width
+     (y en tactil el hover queda pegado tras el tap) */
+  .filters-toggle:hover,
+  .catalog-filters-wrap.is-collapsed .filters-toggle:hover {
+    transform: none;
   }
 }
 
