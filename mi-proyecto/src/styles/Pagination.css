@@ -36,9 +36,9 @@
 
 .ais-Pagination-link:hover,
 .ais-Pagination-item--selected .ais-Pagination-link {
-  background: #ffd400;
-  border-color: #08060d;
-  color: #08060d;
+  background: var(--brand);
+  border-color: var(--brand-ink);
+  color: var(--brand-ink);
 }
 
 .ais-Pagination-item--selected .ais-Pagination-link {
@@ -48,4 +48,25 @@
 .ais-Pagination-item--disabled .ais-Pagination-link {
   opacity: 0.4;
   pointer-events: none;
+}
+
+/* Los 9 controles (first/prev/2/actual/2/next/last) suman ~393px y a 375px
+   caian en dos filas. Se compactan para que el paginador quepa en una sola,
+   manteniendo el area tactil >=36px. */
+@media (max-width: 480px) {
+  .catalog-pagination {
+    margin-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+
+  .ais-Pagination-list {
+    gap: 0.25rem;
+  }
+
+  .ais-Pagination-link {
+    min-width: 32px;
+    height: 36px;
+    padding: 0 6px;
+    font-size: 0.85rem;
+  }
 }
